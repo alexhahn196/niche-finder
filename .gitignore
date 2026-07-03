@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# API-Response-Cache (groß, reproduzierbar; Ergebnisse stehen in state/niches.json)
+state/api_cache/
