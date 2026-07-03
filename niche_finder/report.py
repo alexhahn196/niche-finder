@@ -83,7 +83,7 @@ def _niche_section(rank: int, n: dict) -> list[str]:
 def generate(store: dict) -> str:
     ranked = state.scored(store)
     win = [n for n in ranked if n.get("score", 0) >= config.TARGET_SCORE]
-    top5 = (win or ranked)[:5]
+    top5 = ranked[:5]  # ranked ist nach Score sortiert -> Gewinner stehen vorn
     killed = [n for n in store["niches"].values() if n.get("status") == "killed"]
     lines = [
         "# YouTube-Nischen-Finder — Report",

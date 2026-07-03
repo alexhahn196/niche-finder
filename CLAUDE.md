@@ -139,8 +139,33 @@ python -m niche_finder report                     # report.md schreiben
 
 ### Quota-Buchhaltung
 
-`state/quota.json` hält `{datum, verbrauchte_units}` pro Tag.
+`state/quota.json` hält `{datum, verbrauchte_units}` pro Tag
+(**Tagesgrenze = Mitternacht Pacific Time**, wie der echte YouTube-Reset).
 Kosten: search.list = 100 Units, videos.list = 1, channels.list = 1.
 Das Skript stoppt selbstständig, sobald < 1.000 Units (10 %) übrig sind.
 Gecachte Antworten kosten 0 Units — deshalb wird **jede** API-Antwort unter
 `state/api_cache/` abgelegt und bei Wiederholung von dort gelesen.
+**`state/api_cache/` wird mitcommittet**: Sessions laufen in frischen
+Containern; ohne committeten Cache würde jede Session die volle Quota
+erneut verbrauchen.
+
+### Design-Entscheidungen & Grenzen (bewusst so gebaut)
+
+- **Pro Sprache wird nur `queries_en[0]` bzw. `queries_de[0]` gesucht**
+  (Quota: 1 Suche = 100 Units). Weitere Queries in der Liste sind Reserve
+  für manuelle Zweitläufe.
+- **K3/K4 werden vor jedem API-Call geprüft** (nur Agent-Felder nötig) —
+  tote Kandidaten kosten 0 Units.
+- **K2 ist eine Näherung**: Vergleich der Top-50-Ergebnisse 0–6 Monate vs.
+  6–18 Monate (Publikationsrate UND Median-Views müssen klar fallen).
+  Konservativ, um Fehl-Kills zu vermeiden.
+- **K5 greift erst ab ≥ 10 DE-Treffern**: ein fast leerer DE-Markt ist
+  keine tote Nische, sondern die Arbitrage-Chance.
+- **`kill_overrides`** (optionales Kandidaten-Feld, z. B. `["K5"]`):
+  übersteuert einzelne Kill-Kriterien bewusst — Begründung gehört in `notes`.
+- **`evaluate --retry-errors`** setzt Kandidaten mit Status `error`
+  (transiente API-Fehler) zurück auf `pending`.
+- **Das 30-Iterationen-Limit stoppt nur `add`** (neue Kandidaten);
+  bereits angelegte Kandidaten dürfen weiterhin bewertet werden.
+- **Score-Deckel bei 100**: der EnergiePilot-Bonus steht separat im
+  Breakdown (`energiepilot_bonus_10`).

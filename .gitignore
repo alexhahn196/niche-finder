@@ -8,5 +8,6 @@ __pycache__/
 *.egg-info/
 .pytest_cache/
 
-# API-Response-Cache (groß, reproduzierbar; Ergebnisse stehen in state/niches.json)
-state/api_cache/
+# WICHTIG: state/ inkl. state/api_cache/ wird MITCOMMITTET.
+# Sessions laufen in frischen Containern - ohne committeten Cache würde
+# jede Session die volle API-Quota erneut verbrauchen.

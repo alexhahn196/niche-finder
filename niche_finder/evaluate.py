@@ -6,6 +6,10 @@ Aus Agent-Einschätzung im Kandidaten-JSON: K3 (Monetarisierung), K4 (US-Kontext
 from . import config, metrics, state
 
 
+def _is_quota_error(exc) -> bool:
+    return "quota" in str(exc).lower()
+
+
 # ------------------------------------------------------------ Datensammlung
 
 def analyze_language(yt, query: str, lang: str) -> dict:
@@ -40,10 +44,12 @@ def analyze_language(yt, query: str, lang: str) -> dict:
         if playlist:
             try:
                 upload_ids += yt.recent_upload_ids(playlist)
+            except state.QuotaExceeded:
+                raise
             except Exception as exc:
-                if isinstance(exc, state.QuotaExceeded):
+                if _is_quota_error(exc):
                     raise
-                continue  # z. B. gelöschte/leere Playlist
+                continue  # z. B. gelöschte/leere Playlist (404)
     upload_vids = yt.videos(upload_ids)
     uploads_by_channel: dict[str, list[dict]] = {cid: [] for cid in deep_ids}
     for v in upload_vids.values():
@@ -228,6 +234,23 @@ def scorecard(cand: dict, en: dict, de: dict) -> tuple[int, dict]:
 
 def evaluate_candidate(yt, cand: dict) -> dict:
     """Bewertet einen Kandidaten mit echten API-Daten. Mutiert und liefert `cand`."""
+    # K3/K4 hängen nur von Agent-Feldern ab -> vor jedem API-Call prüfen,
+    # damit tote Kandidaten keine Quota kosten.
+    overrides = set(cand.get("kill_overrides", []))
+    pre_kills = []
+    if not cand.get("affiliate_potential") and cand.get("rpm_category_usd", 0) < 8:
+        pre_kills.append("K3")
+    if cand.get("needs_us_context"):
+        pre_kills.append("K4")
+    pre_kills = [k for k in pre_kills if k not in overrides]
+    if pre_kills:
+        cand["status"] = "killed"
+        cand["kill_reasons"] = pre_kills
+        cand["score"] = 0
+        cand["evaluated_at"] = state.now_iso()
+        cand["evidence"] = {"note": "K3/K4 aus Agent-Feldern - ohne API-Quota gekillt"}
+        return cand
+
     en = analyze_language(yt, cand["queries_en"][0], "en")
     de = analyze_language(yt, cand["queries_de"][0], "de")
     kills = kill_criteria(cand, en, de)

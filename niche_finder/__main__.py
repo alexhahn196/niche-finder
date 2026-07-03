@@ -7,24 +7,30 @@ from . import config, report, state
 from .seeds import START_SEEDS
 
 
+def _quota_exhausted() -> bool:
+    """True, wenn keine weitere Suche mehr möglich ist, ohne die 10%-Reserve zu reißen."""
+    return state.remaining_today() < config.QUOTA_STOP_THRESHOLD + config.SEARCH_COST
+
+
 def _print_stop_status(store) -> bool:
     """Zeigt Stopp-Kriterien an; True = ein Stopp-Kriterium ist erreicht."""
     win = state.winners(store)
     iters = store.get("iterations", 0)
-    remaining = state.remaining_today()
     print(f"Gewinner (Score >= {config.TARGET_SCORE}): {len(win)}/{config.TARGET_COUNT}")
     print(f"Iterationen: {iters}/{config.MAX_ITERATIONS}")
     print(f"Quota heute: {state.used_today()}/{config.DAILY_QUOTA} verbraucht, "
-          f"{remaining} übrig (Stopp bei < {config.QUOTA_STOP_THRESHOLD})")
+          f"{state.remaining_today()} übrig (Reserve: {config.QUOTA_STOP_THRESHOLD})")
     if len(win) >= config.TARGET_COUNT:
         print(f"\n=> ZIEL ERREICHT: {config.TARGET_COUNT} Nischen >= {config.TARGET_SCORE}. "
               "Jetzt `python -m niche_finder report`.")
         return True
     if iters >= config.MAX_ITERATIONS:
-        print("\n=> STOPP: 30 Iterationen erreicht. Report erstellen.")
+        print("\n=> STOPP: 30 Iterationen erreicht - keine neuen Kandidaten mehr, "
+              "offene noch bewerten, dann Report erstellen.")
         return True
-    if remaining < config.QUOTA_STOP_THRESHOLD:
-        print("\n=> QUOTA-STOPP: morgen nahtlos fortsetzen (Checkpoint vorhanden).")
+    if _quota_exhausted():
+        print("\n=> QUOTA-STOPP: heute keine Suche mehr möglich, "
+              "morgen nahtlos fortsetzen (Cache macht Wiederholungen kostenlos).")
         return True
     return False
 
@@ -37,15 +43,29 @@ def cmd_seed(_args):
 
 
 def cmd_add(args):
+    store = state.load_store()
+    if store.get("iterations", 0) >= config.MAX_ITERATIONS:
+        sys.exit(f"STOPP: {config.MAX_ITERATIONS} Iterationen erreicht - "
+                 "keine neuen Kandidaten. Offene bewerten, dann `report`.")
     candidates = json.loads(open(args.file, encoding="utf-8").read())
     required = {"id", "name", "topic", "audience", "format", "queries_en", "queries_de",
                 "rpm_category_usd", "affiliate_potential", "needs_us_context",
                 "feasibility_10_15h", "de_transferability", "energiepilot_synergy"}
     for cand in candidates:
+        cid = cand.get("id", "?")
         missing = required - set(cand)
         if missing:
-            sys.exit(f"Kandidat {cand.get('id', '?')}: Felder fehlen: {sorted(missing)}")
-    store = state.load_store()
+            sys.exit(f"Kandidat {cid}: Felder fehlen: {sorted(missing)}")
+        for q in ("queries_en", "queries_de"):
+            if (not isinstance(cand[q], list) or not cand[q]
+                    or not all(isinstance(s, str) and s.strip() for s in cand[q])):
+                sys.exit(f"Kandidat {cid}: {q} muss eine nicht-leere Liste von Strings sein")
+        for fld in ("rpm_category_usd", "feasibility_10_15h", "de_transferability"):
+            if not isinstance(cand[fld], (int, float)) or isinstance(cand[fld], bool):
+                sys.exit(f"Kandidat {cid}: {fld} muss eine Zahl sein")
+        for fld in ("affiliate_potential", "needs_us_context", "energiepilot_synergy"):
+            if not isinstance(cand[fld], bool):
+                sys.exit(f"Kandidat {cid}: {fld} muss true/false sein")
     added, rejected = state.add_candidates(store, candidates)
     state.save_store(store)
     print(f"Hinzugefügt: {added}")
@@ -72,8 +92,17 @@ def cmd_evaluate(args):
         HttpError = ()
 
     store = state.load_store()
-    if _print_stop_status(store):
+    # Bewertung stoppt nur bei Ziel-Erreichung oder Quota – das Iterations-
+    # Limit verhindert neue Kandidaten (add), nicht das Bewerten offener.
+    if len(state.winners(store)) >= config.TARGET_COUNT or _quota_exhausted():
+        _print_stop_status(store)
         return
+    if args.retry_errors:
+        for n in store["niches"].values():
+            if n.get("status") == "error":
+                n["status"] = "pending"
+                n.pop("error", None)
+        state.save_store(store)
     todo = state.pending(store)
     if args.limit:
         todo = todo[:args.limit]
@@ -158,6 +187,8 @@ def main():
     sp.set_defaults(fn=cmd_update)
     sp = sub.add_parser("evaluate", help="offene Kandidaten mit API-Daten bewerten")
     sp.add_argument("--limit", type=int, default=0, help="max. Kandidaten in diesem Lauf")
+    sp.add_argument("--retry-errors", action="store_true",
+                    help="Kandidaten mit Status 'error' erneut versuchen")
     sp.set_defaults(fn=cmd_evaluate)
     sub.add_parser("status", help="Fortschritt + Stopp-Kriterien").set_defaults(fn=cmd_status)
     sp = sub.add_parser("top", help="Top-Scorer anzeigen")

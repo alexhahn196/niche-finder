@@ -1,8 +1,18 @@
 """Persistenter Speicher: state/niches.json, Quota-Buchhaltung, Checkpoint."""
 import json
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
 
 from . import config
+
+
+def _quota_day() -> str:
+    """YouTube-Quota resettet um Mitternacht Pacific Time."""
+    try:
+        from zoneinfo import ZoneInfo
+        tz = ZoneInfo("America/Los_Angeles")
+    except Exception:
+        tz = timezone.utc
+    return datetime.now(tz).date().isoformat()
 
 
 def _load_json(path, default):
@@ -78,7 +88,7 @@ def _quota() -> dict:
 
 
 def used_today() -> int:
-    return int(_quota().get(date.today().isoformat(), 0))
+    return int(_quota().get(_quota_day(), 0))
 
 
 def remaining_today() -> int:
@@ -93,7 +103,7 @@ def charge(units: int) -> None:
             f"Anfrage kostet {units}, Reserve ist {config.QUOTA_STOP_THRESHOLD}."
         )
     data = _quota()
-    key = date.today().isoformat()
+    key = _quota_day()
     data[key] = int(data.get(key, 0)) + units
     _save_json(config.QUOTA_FILE, data)
 

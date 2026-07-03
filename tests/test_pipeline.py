@@ -68,11 +68,12 @@ class PipelineTest(unittest.TestCase):
         cand = evaluate_candidate(self.yt, candidate("f", "falling en", "falling de"))
         self.assertIn("K2", cand["kill_reasons"])
 
-    def test_no_affiliate_low_rpm_killed_by_k3(self):
+    def test_no_affiliate_low_rpm_killed_by_k3_without_quota(self):
         cand = evaluate_candidate(self.yt, candidate(
             "k3", "winner en", "winner de",
             affiliate_potential=False, rpm_category_usd=5))
         self.assertIn("K3", cand["kill_reasons"])
+        self.assertEqual(state.used_today(), 0)  # K3/K4-Kill kostet keine Quota
 
     def test_us_context_killed_by_k4(self):
         cand = evaluate_candidate(self.yt, candidate(
@@ -112,7 +113,35 @@ class PipelineTest(unittest.TestCase):
         state.add_candidates(store, [candidate("b", "q", "q")])
         self.assertEqual(store["iterations"], 2)
 
+    # --- API-Robustheit -------------------------------------------------------
+
+    def test_video_without_statistics_does_not_crash(self):
+        data = build_fixture()
+        # Premiere/Livestream: videos.list-Item ganz ohne "statistics"
+        data.videos["premiere"] = {
+            "id": "premiere",
+            "snippet": {"channelId": "young1",
+                        "publishedAt": data.videos["young1-hit"]["snippet"]["publishedAt"],
+                        "title": "Premiere ohne Stats"},
+        }
+        data.searches[("winner en", "en")].append("premiere")
+        yt = YouTubeClient(service=FakeService(data))
+        cand = evaluate_candidate(yt, candidate("w", "winner en", "winner de"))
+        self.assertEqual(cand["status"], "evaluated")
+        self.assertGreaterEqual(cand["score"], 80)
+
     # --- Report --------------------------------------------------------------
+
+    def test_report_fills_top5_with_non_winners(self):
+        store = state.load_store()
+        for cid, score in (("a", 85), ("b", 70)):
+            store["niches"][cid] = {
+                "id": cid, "name": f"Nische-{cid}", "status": "evaluated",
+                "score": score, "evidence": {"en": {}, "de": {}},
+            }
+        text = report.generate(store)
+        self.assertIn("Nische-a", text)
+        self.assertIn("Nische-b", text)  # auch Nicht-Gewinner füllen die Top 5
 
     def test_report_contains_winner_and_evidence(self):
         store = state.load_store()

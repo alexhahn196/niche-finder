@@ -45,6 +45,8 @@ class YouTubeClient:
                 lambda p=params: self.service.videos().list(**p).execute(),
             )
             for item in resp.get("items", []):
+                # Premieren/Livestreams können ohne statistics kommen
+                item.setdefault("statistics", {})
                 out[item["id"]] = item
         return out
 
@@ -58,6 +60,7 @@ class YouTubeClient:
                 lambda p=params: self.service.channels().list(**p).execute(),
             )
             for item in resp.get("items", []):
+                item.setdefault("statistics", {})
                 out[item["id"]] = item
         return out
 

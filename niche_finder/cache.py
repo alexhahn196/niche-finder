@@ -19,5 +19,7 @@ def cached_call(endpoint: str, params: dict, cost: int, fetch):
     state.charge(cost)  # wirft QuotaExceeded vor dem echten API-Call
     response = fetch()
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(response, ensure_ascii=False), encoding="utf-8")
+    tmp = path.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(response, ensure_ascii=False), encoding="utf-8")
+    tmp.replace(path)  # atomar: nie halbe Cache-Dateien
     return response
