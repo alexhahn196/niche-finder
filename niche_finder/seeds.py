@@ -1,0 +1,88 @@
+"""Start-Seeds laut Briefing – zuerst prüfen.
+
+Qualitative Felder (RPM, Affiliate, US-Kontext, Machbarkeit, DE-Übertragbarkeit)
+sind Agent-Einschätzungen; die harten Daten holt `evaluate` aus der API.
+"""
+
+START_SEEDS = [
+    {
+        "id": "ki-automatisierung-kmu",
+        "name": "KI-Automatisierung für KMU",
+        "topic": "KI-Automatisierung", "audience": "KMU-Inhaber", "format": "Tutorial/Case-Study",
+        "queries_en": ["AI automation for small business"],
+        "queries_de": ["KI Automatisierung Unternehmen"],
+        "rpm_category_usd": 18, "affiliate_potential": True, "needs_us_context": False,
+        "feasibility_10_15h": 7, "de_transferability": 9, "energiepilot_synergy": False,
+        "notes": "B2B-RPM hoch; Tool-Affiliates: n8n, Make, Zapier.",
+    },
+    {
+        "id": "ki-workflows-berufsgruppen",
+        "name": "KI-Workflows pro Berufsgruppe",
+        "topic": "KI-Workflows", "audience": "einzelne Berufsgruppen", "format": "How-to/Deep-Dive",
+        "queries_en": ["AI workflow for accountants"],
+        "queries_de": ["KI für Steuerberater"],
+        "rpm_category_usd": 15, "affiliate_potential": True, "needs_us_context": False,
+        "feasibility_10_15h": 8, "de_transferability": 9, "energiepilot_synergy": False,
+        "notes": "Pro Berufsgruppe eigene Sub-Nische; Beispiel-Query: Buchhalter/Steuerberater.",
+    },
+    {
+        "id": "scam-betrugs-dokus",
+        "name": "Scam-/Betrugs-Dokus",
+        "topic": "Scams/Betrug", "audience": "Massenpublikum", "format": "Doku/Storytelling",
+        "queries_en": ["scam exposed documentary"],
+        "queries_de": ["Betrugsmasche Doku"],
+        "rpm_category_usd": 10, "affiliate_potential": True, "needs_us_context": False,
+        "feasibility_10_15h": 5, "de_transferability": 8, "energiepilot_synergy": False,
+        "notes": "Recherche-intensiv; Affiliates: VPN/Security. DE hat eigene Fälle.",
+    },
+    {
+        "id": "solopreneur-mit-ki",
+        "name": "Solopreneur mit KI",
+        "topic": "Solo-Business", "audience": "Gründer/Freelancer", "format": "Vlog/Playbook",
+        "queries_en": ["solopreneur AI business"],
+        "queries_de": ["Solopreneur KI Business"],
+        "rpm_category_usd": 14, "affiliate_potential": True, "needs_us_context": False,
+        "feasibility_10_15h": 8, "de_transferability": 8, "energiepilot_synergy": False,
+        "notes": "Tool-Affiliates + eigene Produkte; authentische Story nötig.",
+    },
+    {
+        "id": "longevity-protokolle",
+        "name": "Longevity-Protokolle",
+        "topic": "Longevity/Gesundheit", "audience": "35+ Gesundheitsbewusste", "format": "Protokoll-Review",
+        "queries_en": ["longevity protocol"],
+        "queries_de": ["Longevity Routine"],
+        "rpm_category_usd": 12, "affiliate_potential": True, "needs_us_context": False,
+        "feasibility_10_15h": 6, "de_transferability": 8, "energiepilot_synergy": False,
+        "notes": "YMYL: sorgfältige Quellen; Affiliates: Supplements/Wearables.",
+    },
+    {
+        "id": "geooekonomie-erklaerstuecke",
+        "name": "Geoökonomie-Erklärstücke",
+        "topic": "Geoökonomie", "audience": "wirtschaftsinteressiertes Publikum", "format": "Erklärvideo",
+        "queries_en": ["geoeconomics explained"],
+        "queries_de": ["Geoökonomie erklärt"],
+        "rpm_category_usd": 9, "affiliate_potential": False, "needs_us_context": False,
+        "feasibility_10_15h": 5, "de_transferability": 8, "energiepilot_synergy": False,
+        "notes": "Sponsor- statt Affiliate-Modell (Brilliant, Ground News); hoher Edit-Aufwand.",
+    },
+    {
+        "id": "second-brain-produktivitaet",
+        "name": "Second Brain / Produktivität",
+        "topic": "PKM/Produktivität", "audience": "Wissensarbeiter", "format": "System-Tutorial",
+        "queries_en": ["second brain method"],
+        "queries_de": ["Second Brain Notion deutsch"],
+        "rpm_category_usd": 12, "affiliate_potential": True, "needs_us_context": False,
+        "feasibility_10_15h": 8, "de_transferability": 7, "energiepilot_synergy": False,
+        "notes": "EN evtl. gesättigt – Sättigungs-Score entscheidet. Affiliates: Notion, Obsidian-Tools.",
+    },
+    {
+        "id": "energie-autarkie-de",
+        "name": "Energie-Autarkie DE",
+        "topic": "Solar/Energie-Autarkie", "audience": "Hausbesitzer DE", "format": "Praxis-Test/Rechnung",
+        "queries_en": ["home energy independence solar battery"],
+        "queries_de": ["Energie Autarkie Solaranlage"],
+        "rpm_category_usd": 15, "affiliate_potential": True, "needs_us_context": False,
+        "feasibility_10_15h": 7, "de_transferability": 10, "energiepilot_synergy": True,
+        "notes": "EnergiePilot-Synergie (+10). DE-first-Nische: DE-Markt ist hier der Hauptmarkt.",
+    },
+]
