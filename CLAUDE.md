@@ -35,16 +35,31 @@ Raum noch unbesetzt oder schwach besetzt sind.
    - **K3**: kein Affiliate-Potenzial UND RPM-Kategorie < 8 $
    - **K4**: Nische braucht US-Kontext (nicht nach DE übertragbar)
    - **K5**: in DE nur tote Kanäle, keine lebenden Outlier
+   - **K6 (hart, Produktions-Constraint)**: Nische muss zu **100 %** mit
+     dieser Pipeline produzierbar sein: Recherche/Skript (Claude) →
+     KI-Voiceover → KI-Bilder/Clips (Higgsfield) → Auto-Assembly.
+     Erfordert die Nische Screenrecording, Kamera, Gameplay-Capture oder
+     ein Gesicht → **Kill**. (Agent-Feld `pipeline_producible`.)
 4. **Scorecard (0–100):**
    - Newcomer-Beweis: **25**
    - Monetarisierung: **25**
    - Trend: **15**
    - Sättigung (invers): **15**
-   - Machbarkeit bei 10–15 h/Woche: **10**
+   - Machbarkeit: **10** — definiert als **Produzierbarkeit in 10–15 h/Woche
+     MIT der KI-Pipeline** (nicht allgemeiner Aufwand)
    - DE-Übertragbarkeit: **10**
    - **BONUS +10** bei Synergie mit Projekt **EnergiePilot** (Solar /
      Energie-Autarkie DE).
+   - **SLOP-CHECK (Pflicht für jeden Kandidaten)**: Anteil erkennbar
+     massenproduzierter KI-Videos unter den Top-Newcomern sichten und als
+     `slop_share` (0–1) loggen. **> 50 % = „Policy-Minenfeld" = −15 auf
+     Machbarkeit.** Ohne gesetzten `slop_share` bleibt der Kandidat im
+     Status `needs_slop_check` und zählt nie als Gewinner.
 5. **Ergebnisse in `state/niches.json` loggen** (macht die CLI automatisch).
+
+**Explorations-Constraint:** Neue Kandidaten nur noch in K6-kompatiblen
+Feldern generieren: **Story, Doku, Erklär, Listen, Szenarien** — keine
+Tutorials/Screencasts, keine Praxis-Tests, keine Vlogs/Talking-Heads.
 
 ## STOPP-KRITERIEN
 
@@ -95,6 +110,7 @@ source .venv/bin/activate
 python -m niche_finder seed                      # Start-Seeds als Kandidaten anlegen (einmalig)
 python -m niche_finder add candidates.json        # neue Kandidaten aus JSON-Datei anlegen
 python -m niche_finder evaluate [--limit N]       # offene Kandidaten mit echten API-Daten bewerten
+python -m niche_finder rescore                    # Kills/Scores aus gespeicherter Evidence neu berechnen (0 Units)
 python -m niche_finder status                     # Fortschritt, Quota, Stopp-Kriterien
 python -m niche_finder top [--n 10]               # Top-Scorer (Seeds für die nächste Generation)
 python -m niche_finder report                     # report.md schreiben
@@ -115,15 +131,21 @@ python -m niche_finder report                     # report.md schreiben
     "rpm_category_usd": 15,
     "affiliate_potential": true,
     "needs_us_context": false,
+    "pipeline_producible": true,
     "feasibility_10_15h": 8,
     "de_transferability": 9,
     "energiepilot_synergy": false,
+    "slop_share": null,
     "notes": "B2B-RPM hoch, Tool-Affiliates (Make, Zapier, n8n)"
   }
 ]
 ```
 
-`feasibility_10_15h` und `de_transferability` sind Agent-Einschätzungen 0–10.
+`feasibility_10_15h` (= Produzierbarkeit mit der KI-Pipeline) und
+`de_transferability` sind Agent-Einschätzungen 0–10.
+`pipeline_producible` (Pflicht, bool) steuert K6.
+`slop_share` (0–1) wird **nach** `evaluate` anhand der Top-Newcomer-Evidence
+gesetzt (`update` + `rescore`); bis dahin Status `needs_slop_check`.
 
 ### Iterations-Protokoll pro Session
 
@@ -132,7 +154,9 @@ python -m niche_finder report                     # report.md schreiben
 3. 10 neue Sub-Nischen (Thema × Zielgruppe × Format) als JSON generieren,
    dabei Duplikate zu `state/niches.json` vermeiden (das Skript lehnt
    doppelte IDs/Namen ohnehin ab).
-4. `add` → `evaluate` → Ergebnisse prüfen → committen
+4. `add` → `evaluate` → **Slop-Check** für jeden nicht gekillten Kandidaten
+   (Top-Newcomer-Titel/Kanäle in der Evidence sichten, `slop_share` per
+   `update` setzen, dann `rescore`) → Ergebnisse prüfen → committen
    (`state/` wird mitcommittet, damit der Fortschritt persistent ist).
 5. Bei Quota-Stopp: Checkpoint ist automatisch geschrieben; Session beenden,
    morgen mit Schritt 1 fortsetzen.

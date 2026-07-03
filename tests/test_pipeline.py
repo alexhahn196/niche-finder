@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 
 from niche_finder import config, report, state
-from niche_finder.evaluate import evaluate_candidate
+from niche_finder.evaluate import evaluate_candidate, rescore_candidate
 from niche_finder.youtube_client import YouTubeClient
 
 from tests.fake_api import FakeService, build_fixture
@@ -15,8 +15,9 @@ def candidate(cid, q_en, q_de, **over):
         "id": cid, "name": cid, "topic": "T", "audience": "A", "format": "F",
         "queries_en": [q_en], "queries_de": [q_de],
         "rpm_category_usd": 18, "affiliate_potential": True,
-        "needs_us_context": False, "feasibility_10_15h": 8,
-        "de_transferability": 9, "energiepilot_synergy": False,
+        "needs_us_context": False, "pipeline_producible": True,
+        "feasibility_10_15h": 8, "de_transferability": 9,
+        "energiepilot_synergy": False, "slop_share": 0.1,
     }
     cand.update(over)
     return cand
@@ -83,6 +84,46 @@ class PipelineTest(unittest.TestCase):
     def test_dead_german_market_killed_by_k5(self):
         cand = evaluate_candidate(self.yt, candidate("k5", "winner en", "deadde de"))
         self.assertIn("K5", cand["kill_reasons"])
+
+    def test_not_pipeline_producible_killed_by_k6_without_quota(self):
+        cand = evaluate_candidate(self.yt, candidate(
+            "k6", "winner en", "winner de", pipeline_producible=False))
+        self.assertIn("K6", cand["kill_reasons"])
+        self.assertEqual(state.used_today(), 0)  # Pre-Kill kostet keine Quota
+
+    # --- Slop-Check & rescore ------------------------------------------------
+
+    def test_missing_slop_share_blocks_winner_status(self):
+        cand = evaluate_candidate(self.yt, candidate(
+            "w", "winner en", "winner de", slop_share=None))
+        self.assertEqual(cand["status"], "needs_slop_check")
+        store = state.load_store()
+        store["niches"]["w"] = cand
+        self.assertEqual(state.winners(store), [])  # zählt nie als Gewinner
+
+    def test_slop_over_50_percent_costs_15_feasibility(self):
+        clean = evaluate_candidate(self.yt, candidate("a", "winner en", "winner de"))
+        sloppy = evaluate_candidate(self.yt, candidate(
+            "b", "winner en", "winner de", slop_share=0.6))
+        self.assertEqual(sloppy["score_breakdown"]["slop_penalty"], -15)
+        self.assertEqual(clean["score"] - sloppy["score"], 15)
+
+    def test_rescore_applies_new_k6_verdict_from_stored_evidence(self):
+        cand = evaluate_candidate(self.yt, candidate("w", "winner en", "winner de"))
+        self.assertEqual(cand["status"], "evaluated")
+        cand["pipeline_producible"] = False   # Kurskorrektur: K6 nachträglich
+        rescore_candidate(cand)               # 0 Units: nutzt gespeicherte Evidence
+        self.assertEqual(cand["status"], "killed")
+        self.assertIn("K6", cand["kill_reasons"])
+        self.assertEqual(state.used_today(), state.used_today())  # kein API-Call nötig
+
+    def test_rescore_reopens_prekilled_candidate_when_fields_change(self):
+        cand = evaluate_candidate(self.yt, candidate(
+            "p", "winner en", "winner de", pipeline_producible=False))
+        self.assertEqual(cand["status"], "killed")
+        cand["pipeline_producible"] = True
+        rescore_candidate(cand)
+        self.assertEqual(cand["status"], "pending")  # braucht jetzt echte Daten
 
     # --- Persistenz, Cache, Quota ------------------------------------------
 

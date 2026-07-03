@@ -50,6 +50,7 @@ def cmd_add(args):
     candidates = json.loads(open(args.file, encoding="utf-8").read())
     required = {"id", "name", "topic", "audience", "format", "queries_en", "queries_de",
                 "rpm_category_usd", "affiliate_potential", "needs_us_context",
+                "pipeline_producible",
                 "feasibility_10_15h", "de_transferability", "energiepilot_synergy"}
     for cand in candidates:
         cid = cand.get("id", "?")
@@ -63,9 +64,14 @@ def cmd_add(args):
         for fld in ("rpm_category_usd", "feasibility_10_15h", "de_transferability"):
             if not isinstance(cand[fld], (int, float)) or isinstance(cand[fld], bool):
                 sys.exit(f"Kandidat {cid}: {fld} muss eine Zahl sein")
-        for fld in ("affiliate_potential", "needs_us_context", "energiepilot_synergy"):
+        for fld in ("affiliate_potential", "needs_us_context", "energiepilot_synergy",
+                    "pipeline_producible"):
             if not isinstance(cand[fld], bool):
                 sys.exit(f"Kandidat {cid}: {fld} muss true/false sein")
+        slop = cand.get("slop_share")
+        if slop is not None and (not isinstance(slop, (int, float))
+                                 or isinstance(slop, bool) or not 0 <= slop <= 1):
+            sys.exit(f"Kandidat {cid}: slop_share muss null oder eine Zahl 0..1 sein")
     added, rejected = state.add_candidates(store, candidates)
     state.save_store(store)
     print(f"Hinzugefügt: {added}")
@@ -134,11 +140,34 @@ def cmd_evaluate(args):
             state.clear_checkpoint()
             if cand["status"] == "killed":
                 print(f"  KILL  {cand['id']}: {', '.join(cand['kill_reasons'])}")
+            elif cand["status"] == "needs_slop_check":
+                print(f"  SCORE {cand['id']}: {cand['score']}/100 "
+                      "(SLOP-CHECK OFFEN: Top-Newcomer sichten, slop_share setzen, rescore)")
             else:
                 print(f"  SCORE {cand['id']}: {cand['score']}/100")
         store["niches"][cand["id"]] = cand
         state.save_store(store)
     print()
+    _print_stop_status(store)
+
+
+def cmd_rescore(_args):
+    """Kills + Scores aller Kandidaten aus gespeicherter Evidence neu berechnen (0 Units)."""
+    from .evaluate import rescore_candidate
+    store = state.load_store()
+    changes = 0
+    for cand in store["niches"].values():
+        if cand.get("status") == "pending":
+            continue
+        before = (cand.get("status"), cand.get("score"), tuple(cand.get("kill_reasons", [])))
+        rescore_candidate(cand)
+        after = (cand.get("status"), cand.get("score"), tuple(cand.get("kill_reasons", [])))
+        if before != after:
+            changes += 1
+            print(f"  {cand['id']}: {before[0]}/{before[1]}/{','.join(before[2]) or '-'}"
+                  f" -> {after[0]}/{after[1]}/{','.join(after[2]) or '-'}")
+    state.save_store(store)
+    print(f"\nNeu berechnet, {changes} Änderung(en).")
     _print_stop_status(store)
 
 
@@ -190,6 +219,8 @@ def main():
     sp.add_argument("--retry-errors", action="store_true",
                     help="Kandidaten mit Status 'error' erneut versuchen")
     sp.set_defaults(fn=cmd_evaluate)
+    sub.add_parser("rescore", help="Kills/Scores aus gespeicherter Evidence neu berechnen "
+                                   "(0 Units, z. B. nach Feld-Updates)").set_defaults(fn=cmd_rescore)
     sub.add_parser("status", help="Fortschritt + Stopp-Kriterien").set_defaults(fn=cmd_status)
     sp = sub.add_parser("top", help="Top-Scorer anzeigen")
     sp.add_argument("--n", type=int, default=10)

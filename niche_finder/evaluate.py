@@ -1,7 +1,11 @@
-"""Bewertungs-Pipeline: echte API-Daten -> Kill-Kriterien K1-K5 -> Scorecard 0-100.
+"""Bewertungs-Pipeline: echte API-Daten -> Kill-Kriterien K1-K6 -> Scorecard 0-100.
 
 Datengetrieben: K1 (Newcomer-Beweis), K2 (Trend), K5 (DE tot).
-Aus Agent-Einschätzung im Kandidaten-JSON: K3 (Monetarisierung), K4 (US-Kontext).
+Aus Agent-Einschätzung im Kandidaten-JSON: K3 (Monetarisierung), K4 (US-Kontext),
+K6 (nicht zu 100 % mit der KI-Pipeline produzierbar: Claude-Skript -> KI-Voiceover
+-> KI-Bilder/Clips -> Auto-Assembly; Screenrecording/Kamera/Gameplay/Gesicht = Kill).
+Pflicht-Slop-Check: slop_share = Anteil erkennbar massenproduzierter KI-Videos
+unter den Top-Newcomern; > 50 % = Policy-Minenfeld = -15 Machbarkeit.
 """
 from . import config, metrics, state
 
@@ -158,23 +162,32 @@ def analyze_language(yt, query: str, lang: str) -> dict:
 
 # ------------------------------------------------------------ Kill-Kriterien
 
-def kill_criteria(cand: dict, en: dict, de: dict) -> list[str]:
+def agent_kill_criteria(cand: dict) -> list[str]:
+    """Kills, die nur von Agent-Feldern abhängen (kosten 0 Quota-Units)."""
     kills = []
-    if not en["young_100k_channels"]:
-        kills.append("K1")  # kein Kanal <12 Monate mit >=100k-Video
-    if en["trend"] == "falling":
-        kills.append("K2")  # 12-Monats-Trend fallend
     if not cand.get("affiliate_potential") and cand.get("rpm_category_usd", 0) < 8:
         kills.append("K3")  # kein Affiliate UND RPM < 8$
     if cand.get("needs_us_context"):
         kills.append("K4")  # braucht US-Kontext
+    if cand.get("pipeline_producible") is False:
+        kills.append("K6")  # nicht 100 % KI-Pipeline-produzierbar
+    overrides = set(cand.get("kill_overrides", []))
+    return [k for k in kills if k not in overrides]
+
+
+def kill_criteria(cand: dict, en: dict, de: dict) -> list[str]:
+    kills = list(agent_kill_criteria(cand))
+    if not en["young_100k_channels"]:
+        kills.append("K1")  # kein Kanal <12 Monate mit >=100k-Video
+    if en["trend"] == "falling":
+        kills.append("K2")  # 12-Monats-Trend fallend
     de_tried_and_dead = (de["result_count"] >= 10
                          and de["living_channel_count"] == 0
                          and not de["living_outliers"])
     if de_tried_and_dead:
         kills.append("K5")  # in DE nur tote Kanäle, keine lebenden Outlier
     overrides = set(cand.get("kill_overrides", []))
-    return [k for k in kills if k not in overrides]
+    return sorted(k for k in kills if k not in overrides)
 
 
 # ----------------------------------------------------------------- Scorecard
@@ -206,8 +219,13 @@ def scorecard(cand: dict, en: dict, de: dict) -> tuple[int, dict]:
                                  + 0.4 * (1 - sat["mega_channel_share"])
                                  + 0.2 * min(1.0, sat["young_channel_share"] * 3)))
 
-    # Machbarkeit bei 10-15h/Woche (10) – Agent-Einschätzung
+    # Machbarkeit (10) – Produzierbarkeit in 10-15h/Woche MIT der KI-Pipeline
     feasibility = _clamp(int(cand.get("feasibility_10_15h", 0)), 0, 10)
+
+    # Pflicht-Slop-Check: > 50 % erkennbarer KI-Slop unter den Top-Newcomern
+    # = Policy-Minenfeld = -15 auf Machbarkeit
+    slop = cand.get("slop_share")
+    slop_penalty = -15 if (slop is not None and slop > 0.5) else 0
 
     # DE-Übertragbarkeit (10) – Agent-Einschätzung, +1 wenn DE-Beweis existiert
     de_pts = _clamp(int(cand.get("de_transferability", 0)), 0, 10)
@@ -223,36 +241,18 @@ def scorecard(cand: dict, en: dict, de: dict) -> tuple[int, dict]:
         "trend_15": trend_pts,
         "saturation_inverse_15": saturation_pts,
         "feasibility_10": feasibility,
+        "slop_penalty": slop_penalty,
         "de_transferability_10": de_pts,
         "energiepilot_bonus_10": synergy,
     }
-    total = min(100, sum(breakdown.values()))
+    total = max(0, min(100, sum(breakdown.values())))
     return total, breakdown
 
 
 # ------------------------------------------------------------------ Pipeline
 
-def evaluate_candidate(yt, cand: dict) -> dict:
-    """Bewertet einen Kandidaten mit echten API-Daten. Mutiert und liefert `cand`."""
-    # K3/K4 hängen nur von Agent-Feldern ab -> vor jedem API-Call prüfen,
-    # damit tote Kandidaten keine Quota kosten.
-    overrides = set(cand.get("kill_overrides", []))
-    pre_kills = []
-    if not cand.get("affiliate_potential") and cand.get("rpm_category_usd", 0) < 8:
-        pre_kills.append("K3")
-    if cand.get("needs_us_context"):
-        pre_kills.append("K4")
-    pre_kills = [k for k in pre_kills if k not in overrides]
-    if pre_kills:
-        cand["status"] = "killed"
-        cand["kill_reasons"] = pre_kills
-        cand["score"] = 0
-        cand["evaluated_at"] = state.now_iso()
-        cand["evidence"] = {"note": "K3/K4 aus Agent-Feldern - ohne API-Quota gekillt"}
-        return cand
-
-    en = analyze_language(yt, cand["queries_en"][0], "en")
-    de = analyze_language(yt, cand["queries_de"][0], "de")
+def _finalize(cand: dict, en: dict, de: dict) -> dict:
+    """Kills + Score aus (bereits geholter) Evidence berechnen und eintragen."""
     kills = kill_criteria(cand, en, de)
     cand["evidence"] = {"en": en, "de": de}
     cand["evaluated_at"] = state.now_iso()
@@ -260,10 +260,56 @@ def evaluate_candidate(yt, cand: dict) -> dict:
         cand["status"] = "killed"
         cand["kill_reasons"] = kills
         cand["score"] = 0
+        cand.pop("score_breakdown", None)
     else:
         score, breakdown = scorecard(cand, en, de)
-        cand["status"] = "evaluated"
+        # Slop-Check ist Pflicht: ohne slop_share zählt der Kandidat nicht als
+        # fertig bewertet (und damit nie als Gewinner).
+        cand["status"] = "evaluated" if cand.get("slop_share") is not None \
+            else "needs_slop_check"
         cand["kill_reasons"] = []
         cand["score"] = score
         cand["score_breakdown"] = breakdown
+    return cand
+
+
+def evaluate_candidate(yt, cand: dict) -> dict:
+    """Bewertet einen Kandidaten mit echten API-Daten. Mutiert und liefert `cand`."""
+    # K3/K4/K6 hängen nur von Agent-Feldern ab -> vor jedem API-Call prüfen,
+    # damit tote Kandidaten keine Quota kosten.
+    pre_kills = agent_kill_criteria(cand)
+    if pre_kills:
+        cand["status"] = "killed"
+        cand["kill_reasons"] = pre_kills
+        cand["score"] = 0
+        cand["evaluated_at"] = state.now_iso()
+        cand["evidence"] = {"note": "K3/K4/K6 aus Agent-Feldern - ohne API-Quota gekillt"}
+        return cand
+
+    en = analyze_language(yt, cand["queries_en"][0], "en")
+    de = analyze_language(yt, cand["queries_de"][0], "de")
+    return _finalize(cand, en, de)
+
+
+def rescore_candidate(cand: dict) -> dict:
+    """Rechnet Kills + Score aus gespeicherter Evidence neu (kostet 0 Units).
+
+    Für Kandidaten ohne API-Evidence (frühere Pre-Kills) werden nur die
+    Agent-Kriterien geprüft; fallen die weg, geht der Kandidat zurück auf
+    `pending` und bekommt beim nächsten `evaluate` echte Daten.
+    """
+    ev = cand.get("evidence") or {}
+    en, de = ev.get("en"), ev.get("de")
+    if en and de:
+        return _finalize(cand, en, de)
+    kills = agent_kill_criteria(cand)
+    if kills:
+        cand["status"] = "killed"
+        cand["kill_reasons"] = kills
+        cand["score"] = 0
+        cand["evaluated_at"] = state.now_iso()
+        cand["evidence"] = {"note": "K3/K4/K6 aus Agent-Feldern - ohne API-Quota gekillt"}
+    elif cand.get("status") == "killed":
+        cand["status"] = "pending"  # Pre-Kill aufgehoben -> braucht API-Daten
+        cand["kill_reasons"] = []
     return cand
