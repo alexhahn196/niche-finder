@@ -1,5 +1,5 @@
 {
-  "iterations": 8,
+  "iterations": 9,
   "niches": {
     "ki-automatisierung-kmu": {
       "id": "ki-automatisierung-kmu",
@@ -54910,6 +54910,246 @@
         "de_transferability_10": 8,
         "energiepilot_bonus_10": 0
       }
+    },
+    "verlorene-staedte": {
+      "id": "verlorene-staedte",
+      "name": "Versunkene & verlorene Städte",
+      "topic": "Verlorene Städte",
+      "audience": "Mystery-/History-Publikum",
+      "format": "Erzähl-Doku (KI-Rekonstruktion)",
+      "queries_en": [
+        "lost ancient cities documentary"
+      ],
+      "queries_de": [
+        "versunkene Städte Doku"
+      ],
+      "rpm_category_usd": 8,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 9,
+      "de_transferability": 8,
+      "energiepilot_synergy": false,
+      "slop_share": null,
+      "notes": "Gewinner-Muster Stadt-Rekonstruktion (86) mit Mystery-Winkel; Buch-Affiliates.",
+      "status": "pending",
+      "added_at": "2026-07-04T20:55:38Z"
+    },
+    "historische-katastrophen": {
+      "id": "historische-katastrophen",
+      "name": "Historische Katastrophen rekonstruiert",
+      "topic": "Katastrophen der Geschichte",
+      "audience": "Doku-Massenpublikum",
+      "format": "Rekonstruktions-Doku",
+      "queries_en": [
+        "historical disasters documentary"
+      ],
+      "queries_de": [
+        "historische Katastrophen Doku"
+      ],
+      "rpm_category_usd": 8,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 9,
+      "de_transferability": 8,
+      "energiepilot_synergy": false,
+      "slop_share": null,
+      "notes": "Pompeji/Johnstown/Halifax - Event-Rekonstruktion = Higgsfield-Stärke; Buch-Affiliates.",
+      "status": "pending",
+      "added_at": "2026-07-04T20:55:38Z"
+    },
+    "urzeit-erde-doku": {
+      "id": "urzeit-erde-doku",
+      "name": "Urzeit-Erde & Deep Time",
+      "topic": "Erdgeschichte/Paläo",
+      "audience": "Science-Publikum",
+      "format": "Erzähl-Doku (KI-Visuals)",
+      "queries_en": [
+        "prehistoric earth documentary"
+      ],
+      "queries_de": [
+        "Urzeit Erde Doku"
+      ],
+      "rpm_category_usd": 8,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 8,
+      "de_transferability": 8,
+      "energiepilot_synergy": false,
+      "slop_share": null,
+      "notes": "Dino-/Deep-Time-Faszination; keine Kamera möglich -> KI-Visuals sind Genre-Standard.",
+      "status": "pending",
+      "added_at": "2026-07-04T20:55:38Z"
+    },
+    "dunkle-seite-mittelalter": {
+      "id": "dunkle-seite-mittelalter",
+      "name": "Die dunkle Seite des Mittelalters",
+      "topic": "Mittelalter",
+      "audience": "Neugier-Publikum",
+      "format": "Erzähl-Doku (KI-Rekonstruktion)",
+      "queries_en": [
+        "dark side of medieval life"
+      ],
+      "queries_de": [
+        "dunkle Seite des Mittelalters"
+      ],
+      "rpm_category_usd": 8,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 9,
+      "de_transferability": 9,
+      "energiepilot_synergy": false,
+      "slop_share": null,
+      "notes": "Mittelalter-Alltag fiel an K2 (Query-Sample) - düsterer Winkel hat anderes Trend-Profil.",
+      "status": "pending",
+      "added_at": "2026-07-04T20:55:38Z"
+    },
+    "piraten-leben-historisch": {
+      "id": "piraten-leben-historisch",
+      "name": "Das echte Leben der Piraten",
+      "topic": "Piraterie-Geschichte",
+      "audience": "History-/Pop-Kultur-Publikum",
+      "format": "Erzähl-Doku (KI-Rekonstruktion)",
+      "queries_en": [
+        "life on a pirate ship"
+      ],
+      "queries_de": [
+        "Piraten Alltag Doku"
+      ],
+      "rpm_category_usd": 8,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 9,
+      "de_transferability": 8,
+      "energiepilot_synergy": false,
+      "slop_share": null,
+      "notes": "Alltags-Muster + Pop-Appeal; Mythen-vs-Realität-Winkel.",
+      "status": "pending",
+      "added_at": "2026-07-04T20:55:38Z"
+    },
+    "firmen-downfall-stories": {
+      "id": "firmen-downfall-stories",
+      "name": "Business-Downfall-Stories",
+      "topic": "Firmen-Abstürze",
+      "audience": "Business-/Finanzpublikum",
+      "format": "Story-Doku",
+      "queries_en": [
+        "company downfall story"
+      ],
+      "queries_de": [
+        "Firmen Absturz Story"
+      ],
+      "rpm_category_usd": 13,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 8,
+      "de_transferability": 9,
+      "energiepilot_synergy": false,
+      "slop_share": null,
+      "notes": "Schärferer Re-Cut der K1-gekillten Firmen-Pleiten: Query zielt auf Crayon-Capital-Muster (224k Abos/15mo, Median 209k) statt TV-Doku-Archive.",
+      "status": "pending",
+      "added_at": "2026-07-04T20:55:38Z"
+    },
+    "milliardaers-abstuerze": {
+      "id": "milliardaers-abstuerze",
+      "name": "Milliardärs-Abstürze & Vermögens-Implosionen",
+      "topic": "Reichtums-Downfalls",
+      "audience": "Finanz-/Massenpublikum",
+      "format": "Story-Doku",
+      "queries_en": [
+        "billionaire downfall documentary"
+      ],
+      "queries_de": [
+        "Milliardär Absturz Doku"
+      ],
+      "rpm_category_usd": 12,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 8,
+      "de_transferability": 8,
+      "energiepilot_synergy": false,
+      "slop_share": null,
+      "notes": "Fireball-Muster (313k-Hit mit 0.87/Wo); Schadenfreude+Finanz-RPM.",
+      "status": "pending",
+      "added_at": "2026-07-04T20:55:38Z"
+    },
+    "steueroasen-schattenfinanz": {
+      "id": "steueroasen-schattenfinanz",
+      "name": "Steueroasen & Schattenfinanz erklärt",
+      "topic": "Schattenfinanz",
+      "audience": "Finanz-/Politik-Publikum",
+      "format": "Erklär-Doku",
+      "queries_en": [
+        "tax havens explained"
+      ],
+      "queries_de": [
+        "Steueroasen erklärt"
+      ],
+      "rpm_category_usd": 14,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 8,
+      "de_transferability": 9,
+      "energiepilot_synergy": false,
+      "slop_share": null,
+      "notes": "Hohe Finanz-RPM; Panama/Pandora Papers als Story-Fundus; Karten/Grafiken pipeline-ideal.",
+      "status": "pending",
+      "added_at": "2026-07-04T20:55:38Z"
+    },
+    "solar-revolution-erklaert": {
+      "id": "solar-revolution-erklaert",
+      "name": "Die Solar-Revolution erklärt",
+      "topic": "Solarenergie",
+      "audience": "Energie-/Zukunftsinteressierte",
+      "format": "Erklär-Doku",
+      "queries_en": [
+        "solar power revolution explained"
+      ],
+      "queries_de": [
+        "Solarenergie Revolution erklärt"
+      ],
+      "rpm_category_usd": 12,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 8,
+      "de_transferability": 10,
+      "energiepilot_synergy": true,
+      "slop_share": null,
+      "notes": "EnergiePilot-Synergie; Erklär-Schnitt (kein Praxis-Test, K6-konform); PV-Affiliates.",
+      "status": "pending",
+      "added_at": "2026-07-04T20:55:38Z"
+    },
+    "archaeologie-neue-funde": {
+      "id": "archaeologie-neue-funde",
+      "name": "Neue archäologische Entdeckungen",
+      "topic": "Archäologie",
+      "audience": "Wissens-Publikum",
+      "format": "News-Erklär-Doku",
+      "queries_en": [
+        "new archaeological discoveries"
+      ],
+      "queries_de": [
+        "neue archäologische Entdeckungen"
+      ],
+      "rpm_category_usd": 8,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 8,
+      "de_transferability": 8,
+      "energiepilot_synergy": false,
+      "slop_share": null,
+      "notes": "Laufender Story-Nachschub; Rekonstruktions-Visuals passen zum Gewinner-Muster.",
+      "status": "pending",
+      "added_at": "2026-07-04T20:55:38Z"
     }
   }
 }
