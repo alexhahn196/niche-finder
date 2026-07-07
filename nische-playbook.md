@@ -81,6 +81,33 @@ für Listen-Varianten.
 4. Pro Longform 1-2 Shorts-Ableger am Folgetag.
 5. Eiserne Nischen-Konsistenz — kein einziges Off-Topic-Video.
 6. Mid-Video-Frage + Kapitel + Serien-Nummerierung von Anfang an.
-7. Retention-Blindfleck aktiv schließen: die ersten 60 Sekunden von London-1300,
-   Pompeii-Final-Day und dem Piraten-Video manuell ansehen und nachbauen
-   (Transkript-API ist von Server-IPs geblockt — menschlicher Check nötig).
+7. ~~Retention-Blindfleck~~ Geschlossen per Higgsfield-Video-Analyse (siehe Abschnitt 8) —
+   YouTube-URLs können direkt Szene-für-Szene analysiert werden
+   (`video_analysis_create`); Transkript-API bleibt von Server-IPs geblockt.
+
+## 8. Die Hook-Formel des 1,2M-Videos (London 1300, Szene-für-Szene-Analyse)
+
+Quelle: Higgsfield-Video-Analyse, 40 Szenen der ersten 3:47 Min. · Ø **5,7 Sek./Szene**.
+
+**Der 95-Sekunden-Hook in 6 Schritten:**
+
+| Zeit | Schritt | Inhalt |
+|---|---|---|
+| 0:00–0:04 | **Orientierung + Kontrast** | Globus-Zoom auf London -> moderne Drohnen-Aufnahme Tower Bridge. „Today we visit London — but not the modern one." |
+| 0:05–0:13 | **Zeitreise-Versprechen** | Host-Insert (8 Sek.): „We're going to the year 1300." |
+| 0:14–0:47 | **Peak-Glory-Immersion** | KI-Rekonstruktion im Abendlicht + Superlative im Sekundentakt: 100.000 Seelen, St. Paul's höher als alles für die nächsten 400 Jahre, Schiffe aus Venedig |
+| 0:48–1:14 | **Katastrophen-Tease** | Wetterumschwung im Bild (Sturmwolken, Entsättigung): „two catastrophes would bring this city to its knees" -> Hungersnot 1315 -> „six out of ten Londoners dead" (weißes Pest-Kreuz an der Tür) |
+| 1:15–1:22 | **Methoden-Transparenz** | Split-Screen 1300 vs. 1348: „I've used modern AI to reconstruct..." — das KI-Label wird aktiv als Verkaufsargument inszeniert |
+| 1:23–1:35 | **Reiseplan + Trikolon** | „Walk its streets, enter its greatest buildings, witness apocalypse." -> „One hundred thousand people. One square mile. One king." |
+
+**Weitere messbare Muster:**
+- **Bildsprache = Emotionscode:** Glanz in warmem Sonnenuntergangslicht, Hunger in
+  entsättigtem Grau, Pest in Nacht/Feuerschein. Farbklima erzählt die Dramaturgie mit.
+- **Shot-Mix:** dominant Wide Shots (Stadt-Skala), Medium/Close nur für menschliche
+  Momente (Hände, Türen, Gesichter in Menge); Handheld-Wackeln für Chaos-Szenen.
+- **Zahlen-Dichte:** kaum ein Satz ohne konkrete Zahl (586 Fuß, 73 Meter, 6 von 10).
+- **Früher Kommentar-CTA bei 3:41** (nicht erst am Ende): „What catastrophic period
+  should I reconstruct next?" — Themenwahl als Community-Ritual.
+- **K6-Hinweis:** Arthur nutzt kurze Host-Inserts (Gesicht, ~2 von 40 Szenen, einmal
+  im Kostüm). Für uns nicht nötig — ancient editions, Vanished History, timewarp
+  cities gewinnen komplett gesichtslos. Optional später: konsistenter KI-Avatar.
