@@ -111,3 +111,63 @@ Quelle: Higgsfield-Video-Analyse, 40 Szenen der ersten 3:47 Min. · Ø **5,7 Sek
 - **K6-Hinweis:** Arthur nutzt kurze Host-Inserts (Gesicht, ~2 von 40 Szenen, einmal
   im Kostüm). Für uns nicht nötig — ancient editions, Vanished History, timewarp
   cities gewinnen komplett gesichtslos. Optional später: konsistenter KI-Avatar.
+
+---
+
+# GEWINNER-CODE v2 (Update 2026-07-08: +2 Hook-Analysen, +7 Thumbnails)
+
+Regel: Der Code wird NUR durch neue Daten fortgeschrieben (Wettbewerber-Analysen,
+ab Video 3 die eigenen CTR-/Retention-Zahlen). **Code-Review alle 3 Videos.**
+
+## 9. Die drei Hook-Archetypen (je Säule einer, alle datenbelegt)
+
+**A1 "Glory-first"** (London 1300, 1,2M · für Event-Katastrophen):
+Größe/Superlative zeigen -> Katastrophen-Tease mit Todeszahl -> Methoden-Reveal
+(Split-Screen) -> Reiseplan + Trikolon. (= Video-01-Skript, unverändert gültig.)
+
+**A2 "Banality-first"** (Pompeii Final Day, 333k · für "Final Day"-Formate):
+Eröffnung mit MIKRO-ALLTAG ohne jede Dramatik - ein Mann feilscht um Brot, ein
+Hund schläft, Kinder rennen (0:00-0:48) -> dann Datums-Stempel + Sledgehammer:
+"In approximately four hours, every single person you are looking at is going
+to look up at the mountain... and realize they were never safe." Bindung VOR
+der Bedrohung. -> **Vorlage für Video 02 (Celer!).**
+
+**C "Myth-Busting + Du-Avatar"** (timewarp Rome, 377k · für Immersion/Szenario):
+"Not the crumbling ruins you walked past on vacation. Not the marble Hollywood
+version. This is the real thing." -> "This is the peak. Right here. Right now."
+-> konsequente Du-Perspektive ("You find a room... Your room has no water...")
+mit einem WIEDERKEHRENDEN ANONYMEN AVATAR-CHARAKTER (Reisender mit Ledertasche)
+als Körper des Zuschauers - K6-perfekt, kein Host nötig.
+
+## 10. Universelle Gewinner-Sprache (aus beiden neuen Analysen)
+
+- **Preis-/Lohn-Vergleiche in heutiger Logik:** "A soldier can't afford a crappy
+  apartment in Rome's worst neighborhood. That's the housing market in 113 AD."
+- **Echtheits-Flex:** reale Inschriften/Artefakte wörtlich zitieren + dazusagen,
+  DASS sie echt sind ("That's a real inscription." / Übergang Rekonstruktion ->
+  echtes verkohltes Brot im Museum). Match-Cut Rekonstruktion<->Realfund = Gänsehaut.
+- **Relatability-These:** "These people didn't feel like ancient history. They
+  felt like Tuesday."
+- **Null-Aufwand-Kommentar-CTA früh (~2:00):** "Drop a comment where in the world
+  you're watching from tonight" - jeder kann antworten, ohne nachzudenken.
+- **Emotionales Abo-Framing:** "If these people started feeling like neighbors,
+  this channel is built for you. Subscribe."
+- **Atem-Beats:** einzelne Szenen NUR mit Ambience, ohne VO (Straßenlärm, Markt).
+- **Kapitel-Karten im Bild** ("THE BAKERY") als Struktur-Ritual.
+
+## 11. Thumbnail-Code v2 (7 neue Gewinner analysiert)
+
+Bestätigt: Ort+Jahr+Drama (Galveston 494k = Formel pur). NEU:
+1. **Superlativ-Subline:** kleine 2. Zeile "THE MOST DEADLY STORM IN AMERICAN
+   HISTORY" unter Ort+Jahr - testen ab Video 1.
+2. **Textlos funktioniert bei Story-im-Bild** (George's History 943k: Szene wirft
+   Frage auf) **und purer Epik** (CMH 636k: Flotte + Armee, Kino-Standbild).
+   ~50 % der analysierten Gewinner sind textlos.
+3. **Selektiver Farb-Pop** (Old Money Dynasty 558k: s/w-Porträt, NUR die Cola-
+   Flasche farbig) -> **Witness-Protocol-Synergie: das Zeugen-Objekt einfärben**
+   (Barbaros Tagebuch, Celers Brot). Kandidat für unsere Marken-Signatur.
+4. **Viszerale Trigger** (Ratten 2,8M, Blut 683k) tragen "You Wouldn't Survive" -
+   wir bleiben PG-13 (Ekel andeuten, kein Gore: Werbefreundlichkeit!).
+5. **Listicle-Grid** (History Uncovered 718k: 4 Panels + Todes-Icons) = eigener
+   Code, nur für spätere Listen-Formate.
+6. **"4K"-Badge** als Trust-Signal - eine Testvariante wert.
