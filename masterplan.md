@@ -47,6 +47,72 @@ Kein Mensch schafft alle fünf gleichzeitig - eine Pipeline schon.
 das CTR-Asset), sichtbare Eigenleistung (Quellen, Karten, konsistenter Erzähler), YouTube-
 AI-Disclosure-Flag bei realistischen Szenen setzen, kein Massenausstoß (max. 4/Woche).
 
+## 1b. Unser Signature-System: „The Witness Protocol" (das, was NUR wir haben)
+
+Fünf ineinandergreifende Mechaniken - jede zahlt messbar auf Abo, Kommentar oder
+Wiederkommen ein. Alle K6-konform, alle kosten ~0 EUR extra.
+
+### 1. Der Zeuge (emotionaler Anker + Serien-Klammer)
+Jedes Video wird durch **einen echten, historisch dokumentierten Menschen** erzählt -
+ein Name aus Quellen (Pompeji-Graffiti, Londoner Coroner Rolls, Steuerlisten):
+der Bäcker, dessen Brot 1748 noch im Ofen gefunden wurde; der Schreiber, dessen
+letzter Eintrag am Tag der Belagerung endet. Die Stadt ist die Bühne, der Zeuge
+die Story. **Am Ende: die Auflösung, was die Quellen über sein Schicksal sagen.**
+- Warum es zieht: Menschen binden sich an Menschen, nicht an Gebäude. Kein
+  Konkurrent macht personengebundene Rekonstruktionen.
+- Abo-Effekt: Die End-Card zeigt NUR den Namen des nächsten Zeugen
+  ("Next: Eutychus of Pompeii") -> Serien-Sog.
+
+### 2. Der Time-Slip (visuelles Markenzeichen)
+Ein fester, wiedererkennbarer Moment pro Video: **dieselbe Kamera-Perspektive
+morpht von heute nach damals** (modernes Foto -> Higgsfield-Rekonstruktion,
+ein Wisch, gleiche Komposition). Immer an derselben Dramaturgie-Stelle (Ende
+des Hooks, ~1:30).
+- Warum es zieht: der GIF-/Screenshot-Moment der Marke - shareable, sofort
+  erkennbar, technisch unser Heimspiel (Image-to-Image).
+
+### 3. Das Eine Falsche Detail (die Kommentar-Maschine)
+Ansage bei ~1:45, direkt nach dem Time-Slip: *"Every detail in this
+reconstruction is source-based - except ONE. We planted a single deliberate
+mistake. Find it, drop it in the comments. Resolution in the next episode."*
+- Warum es zieht: verwandelt passive Zuschauer in aktive Scanner -> Retention
+  über das GANZE Video, Rewatches, hunderte Rate-Kommentare.
+- Wiederkomm-Effekt: **Auflösung erst im nächsten Video** + Pin/Shoutout für
+  den ersten richtigen Fund.
+- Leitplanken: nur visuelle Requisiten-Details (ein Schild, ein Werkzeug, eine
+  Flagge) - NIE Fakten, Zahlen oder Opferangaben; Auflösung immer transparent.
+  So stützt das Spiel die Präzisions-Marke, statt sie zu beschädigen ("999
+  Details stimmen - findest du das eine, das nicht stimmt?").
+
+### 4. Die Stadtwahl (Community-Ritual mit echter Macht)
+Jedes Video endet mit 3 Kandidaten für eine kommende Episode (A/B/C).
+Abstimmung in den Kommentaren; das Gewinner-Video eröffnet mit "The vote is in"
++ Shoutout des Top-Kommentars.
+- Warum es zieht: echte Mitbestimmung -> wiederkehrende Kommentatoren,
+  Community-Identität ("wir bauen das zusammen zurück"), und der Algorithmus
+  liest Kommentar-Dichte als Qualitätssignal.
+
+### 5. Audio-Branding (die feste Zeile)
+Opening (immer identisch, Sek. 0-4): *"This city no longer exists. For the
+next fifteen minutes - it does."*
+Closing/Abo-Formel (Mission statt Bettelei): *"We rebuild one lost world every
+week. Subscribe - and be there when [nächste Stadt] returns."*
+- Warum es zieht: akustische Marke ab Sekunde 1; das Abo wird als Mitgliedschaft
+  in einer Expedition geframt, nicht als Gefallen.
+
+### Engagement-Dramaturgie pro Video (Timing)
+| Zeit | Mechanik | Ziel |
+|---|---|---|
+| 0:00 | Opening-Zeile | Marke, Wiedererkennung |
+| 0:04-1:30 | Hook nach Playbook-Formel | Retention |
+| ~1:30 | Time-Slip | Share-Moment |
+| ~1:45 | Falsches-Detail-Ansage | Scan-Modus an -> Retention + Kommentare |
+| ~3:30 | Zeuge tritt auf | emotionale Bindung |
+| Mitte | Auflösung des Details aus dem LETZTEN Video + Shoutout | Rückkehrer belohnen |
+| Ende-2:00 | Zeugen-Schicksal (emotionaler Peak) | Erinnerung, Shares |
+| Ende-1:00 | Stadtwahl A/B/C | Kommentar-Flut |
+| Ende | Abo-Formel + End-Card "Next: [Zeugen-Name]" | Abo + Serien-Sog |
+
 ## 2. Phase 0 - Fundament (Woche 1)
 
 - [ ] Higgsfield aktivieren (Trial 0 EUR -> Proof, dann Plus 49 EUR; Ultra ab 6 Videos/Monat)
