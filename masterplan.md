@@ -140,7 +140,13 @@ Drei Format-Säulen von Anfang an (aus der Demand-Map):
 Pro Video: 12-20 Min. Longform + 2 Shorts-Ableger (bester Moment; Tag +1 und +3)
 + 3 Thumbnail-Varianten im A/B-Test + Kommentar-CTA bei Min. 3-4 ("Which city next?")
 + Kapitelmarken + Quellen-Pinned-Comment.
-Upload-Rhythmus: fix 2/Woche (z. B. Di/Sa 15:00 UTC - US-Prime + EU-Abend).
+
+**Upload-Frequenz (datenbasiert, aus 1.411 jungen Kanälen):** Median-Erfolg fällt
+monoton mit der Frequenz (1.574 Views bei <0,5/Wo -> 428 bei >7/Wo); alle unsere
+Qualitäts-Gewinner liegen bei 0,5-2,5/Wo. YouTube bestraft nicht die Anzahl,
+sondern die Verwässerung (CTR/Retention je Video) + Inauthentic-Content-Policy.
+-> **Monat 1-2: 1 Longform/Woche** (Sa 15:00 UTC) + 2 Shorts.
+-> **Monat 3+: 2 Longform/Woche** (Di/Sa 15:00 UTC). Nie mehr als 3.
 
 **Gate 1 (Ende Woche 5):** >= 1 Video > 25k Views ODER Kanal > 50k Gesamt-Views.
 Sonst: Formatsäulen-Rotation (Daten sagen, welche Säule zieht) - NICHT die Nische wechseln.
@@ -180,16 +186,28 @@ Ziel Monat 6: 300k-1M Views/Monat = 2.000-6.000 EUR/Monat (AdSense + Affiliate +
 - Pfad: 10k EUR/Monat realistisch Monat 9-18 · 100k EUR/Monat = Netzwerk aus 5-10 Kanälen
   bzw. 1 Mega-Kanal + Satelliten, Horizont 24-36 Monate, mit Reinvestition
 
-## 7. Budget & Werkzeuge
+## 7. Budget & Werkzeuge (verbindlich, Stand 2026-07-07)
 
-| Posten | Monat 1-3 | ab Skalierung |
+**Qualitätsstufe = "Premium-Kern"** (beschlossen): Premium-Modelle (NB Pro/
+Seedream 4.5, Seedance 2.0) für Hero-Shots - Weitwinkel, Charaktere, Time-Slip,
+Thumbnails, 5 Signature-Clips - mit 2-3 Varianten je Shot + 4K-Upscale; Effizienz-
+Modelle für Standard-Medium-Shots. Kosten je Video: **550-650 Credits ≈ 24-28 EUR**.
+(Maximal-überall: 800-950 Cr. ≈ 40-48 EUR - verworfen: Mehrkosten unsichtbar.
+Mittel: 350-450 Cr. ≈ 15-19 EUR - Sparmodus, falls ein Monat gedrosselt wird.)
+
+| Posten | Monat 1-2 (1 Video/Wo) | Monat 3+ (2 Videos/Wo) |
 |---|---|---|
-| Higgsfield | 49 EUR (Plus) | 99-129 EUR (Ultra) |
-| ElevenLabs | 22 EUR | 22-99 EUR |
-| Musik-Lizenz | 0-15 EUR | 15 EUR |
-| **Summe** | **~70-90 EUR/Monat** | ~150-250 EUR/Monat |
+| Higgsfield Ultra (3.000 Credits) | 129 EUR | 129 EUR |
+| Credit-Top-up (~2.000 Credits) | - | ~100 EUR |
+| ElevenLabs Creator (Voiceover) | 22 EUR | 22 EUR |
+| Musik/SFX (Artlist o. Epidemic) | 15 EUR (Monat 1 notfalls CC0: 0) | 15 EUR |
+| Schnitt/Assembly/Untertitel/SEO-Tools | 0 EUR (ffmpeg + Claude + Outlier-Radar) | 0 EUR |
+| **Summe** | **~165 EUR/Monat** | **~270 EUR/Monat** |
 
-Materialkosten je Video: ~15-30 EUR. Klassische Produktion zum Vergleich: 300-1.500 EUR.
+Break-even-Referenz: ~40-60k monetarisierte Views/Monat ODER 1 kleiner Sponsor-Deal.
+Gate 2 (100k Views/Monat, Monat 4) deckt das Budget bereits vollständig.
+Später optional: Storyblocks (~30 EUR, erst für Colorized-Footage-Formate),
+Suno (~10 EUR, eigene Musik).
 
 ## 8. Wochen-Loop (dein 10-15-h-Budget)
 
