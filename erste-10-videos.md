@@ -7,7 +7,7 @@ Verworfen nach Daten-Check: Neros Brand von Rom (Trend fallend, Umfeld = Slop).
 | # | Titel (EN, nach Gewinner-Formel) | Säule | Zeuge (dokumentiert) | Time-Slip | Beweis |
 |---|---|---|---|---|---|
 | 1 | **Constantinople 1453: The Last Day of an Empire — Hour by Hour (AI Reconstruction)** | A | Nicolò Barbaro, venezianischer Schiffsarzt — sein Tagebuch liefert die Stunden-Chronologie | Hagia Sophia heute -> 1453 | 8,7M (itsaihistory, 8mo-Kanal) |
-| 2 | **Pompeii 79 AD: The Final 24 Hours (AI Reconstruction)** | A | Celer, Sklave des Q. Granius Verus — sein gestempeltes Brot überlebte 2.000 Jahre im Ofen | Forum-Ruine heute -> lebendige Stadt | 333k + 109k + 54k (3 junge Kanäle) |
+| 2 | **The Final 24 Hours of Pompeii & Herculaneum (AI Reconstruction)** | A | Celer, Sklave des Q. Granius Verus — sein gestempeltes Brot überlebte 2.000 Jahre im Ofen (**Fundort: Herculaneum**, Casa dei Cervi — Audit-Korrektur; Video behandelt beide Vesuv-Städte) | Forum-Ruine heute -> lebendige Stadt | 333k + 109k + 54k (3 junge Kanäle) |
 | 3 | **London 1348: The Year the Plague Came (AI Reconstruction)** | B | Robert of Avesbury, Chronist — beschrieb die Massengräber von East Smithfield | Tower-Viertel heute -> 1348 | 1,2M (Arthur) + 260k (Scott's History, 6mo — frisch bestätigt) |
 | 4 | **You Wouldn't Survive 24 Hours in Ancient Rome** | C | Martial, Dichter — seine Epigramme sind echte Beschwerden über Lärm, Mieten, Gestank | Kolosseum heute -> Subura-Gasse | 377k + 245k + 241k (frisch: Medieval-Night-Variante) |
 | 5 | **New Amsterdam 1660: New York Before It Was New York (AI Reconstruction)** | B | Asser Levy — einer der ersten jüdischen Bürger, komplett in Gerichtsakten dokumentiert | Wall Street heute -> Palisadenwall | 217k bei Outlier 884× (Wise Stickman) + US-RPM |
@@ -33,7 +33,7 @@ Verworfen nach Daten-Check: Neros Brand von Rom (Trend fallend, Umfeld = Slop).
 
 ## Shorts-Ableger (2 je Video, Beispiele)
 
-- #2: „This bread is 2,000 years old. It was baked the morning Pompeii died." (Celers Brot)
+- #2: „This bread is 2,000 years old. It was baked the morning Vesuvius erupted." (Celers Brot, Herculaneum)
 - #6: „London is burning. Samuel Pepys buries... his cheese." 
 - #7: „Why did the river turn black in 1258?" (Tinten-Bild)
 - #1: Time-Slip Hagia Sophia als 15-Sekünder (Marken-GIF)

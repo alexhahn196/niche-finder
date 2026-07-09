@@ -64,7 +64,9 @@ Zählung Sonntag 18:00 UTC"), Dank + Frage: "Which detail surprised you most?"
 ## YouTube-Einstellungen
 
 - Altered Content Flag: JA (realistische KI-Szenen -> Pflicht + Markenehrlichkeit)
-- Kategorie: Education · Sprache: EN · Ende-Karte: Subscribe + Pompeii-Platzhalter
+- Kategorie: Education · Sprache: EN · Ende-Karte: Subscribe + Vesuv-Teaser
+  ("NEXT WITNESS: CELER OF HERCULANEUM" — der Brotlaib stammt aus Herculaneum,
+  nicht Pompeji! Video 2 behandelt beide Vesuv-Städte)
 - Premiere: Sa 15:00 UTC (US-Morgen + EU-Abend) mit 24h-Countdown
 
 ## Shorts-Ableger (Tag +1 und +3)

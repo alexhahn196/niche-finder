@@ -1,7 +1,14 @@
 # Produktions-Checkliste: Video 01 (Ablauf mit QC-Gates)
 
-Voraussetzung: Higgsfield-Zugang aktiv (Trial/Plus) + ElevenLabs-Stimme gewählt.
-Geschätzte Credits: 300-450 · Durchlaufzeit: ~1 Arbeitstag · Deine Zeit: ~2 h QC.
+Voraussetzung: Higgsfield **Ultra** aktiv + Stimmen-Bake-off entschieden.
+Geschätzte Credits: **550-650 (Premium-Kern)** · Durchlaufzeit: ~1 Arbeitstag · Deine Zeit: ~2 h QC.
+
+**AUFLÖSUNGS-REGELN (Audit, verbindlich):**
+- Stills mit Push-in/Pull-out: Seedream 4.5 quality=high (~6K) — Default "basic" reicht NICHT für Zoom-Reserve
+- NB Pro nur mit resolution=4k und nur für STAT-Shots + Charakter-Referenzen (kein Zoom-Headroom)
+- Effizienz-Modell-Shots (1-2K nativ): vor Assembly Batch-Upscale auf 4K (~40-60 Credits, eingepreist)
+- Signature-Clips: Seedance 2.0 mit resolution=4k EXPLIZIT setzen (Default ist 720p!); übrige Clips 1080p
+- Sparmodus-Fallback: 1080p-Master -> 2K-Stills reichen für alle Zooms, Upscale-Batch entfällt
 
 ## Schritt 1 — Referenz-Assets (zuerst! ~30 Credits)
 - [ ] 4 Charakter-Porträts generieren (CHAR_-Tokens) -> **QC-GATE 1: Du gibst
@@ -10,7 +17,11 @@ Geschätzte Credits: 300-450 · Durchlaufzeit: ~1 Arbeitstag · Deine Zeit: ~2 h
 - [ ] Style-Proof: 3 Testbilder (GLORY/OMEN/STORM) -> Look-Freigabe
 
 ## Schritt 2 — Voiceover (parallel, ~0 Credits / ElevenLabs)
-- [ ] Skript in 4 Akt-Blöcken + 4 Diary-Inserts rendern (Aussprache-Führer anwenden)
+- [ ] **ZUERST: Skript-Ausbau auf ~2.150 Wörter** (Per-Act-Ziele in 02-skript.md Kopfzeile)
+      ODER Entscheidung für 12:30-Schnitt — vor jedem Credit-Einsatz für die Shotlist!
+- [ ] Skript in 4 Akt-Blöcken + 5 Diary-Inserts rendern (Aussprache-Führer anwenden)
+- [ ] Kontingent-Hinweis: ~2.150 Wörter ≈ 12k Zeichen/Video; ElevenLabs Creator (100k/Mon.)
+      trägt 1 Video/Woche komfortabel, wird bei 8 Videos/Monat + Retries knapp -> dann Pro-Tier
 - [ ] **QC-GATE 2: Du hörst 2 Min. Probe** (Stimme = Marke, einmal richtig entscheiden)
 - [ ] Finale Audiolänge messen -> Shotlist-Timings feinjustieren (Skript ist auf
       ~16 Min. gebaut, ±40 s Toleranz)
@@ -19,12 +30,12 @@ Geschätzte Credits: 300-450 · Durchlaufzeit: ~1 Arbeitstag · Deine Zeit: ~2 h
 - [ ] Batch je Akt generieren (BASE+MOOD+NEG aus Style-Bible), 8 parallel
 - [ ] Ich prüfe jedes Bild per Vision auf: Anachronismen (Sperrliste!), Hand-/
       Gesichtsfehler, Look-Konsistenz -> Ausschuss neu prompten
-- [ ] S45 Fehler-Shot: Tomatenkorb MUSS klar erkennbar sein (das Spiel ist fair)
+- [ ] Shot #45 Fehler-Shot: Tomatenkorb MUSS klar erkennbar sein (das Spiel ist fair)
 - [ ] **QC-GATE 3: Du siehst Kontaktbogen aller 88** (30 Min.)
 
 ## Schritt 4 — Video-Clips (13 Stück, ~100-150 Credits)
-- [ ] Priorität: Time-Slip (S16) > Kanonenschuss (S43) > Schiffe-über-Land (S57) >
-      Mondfinsternis/Elmsfeuer (S66/68) > Rest
+- [ ] Priorität: Time-Slip (#16) > Kanonenschuss (#43) > Schiffe-über-Land (#57) >
+      Mondfinsternis/Elmsfeuer (#66/#68) > Rest (14 Clips gesamt)
 - [ ] Image-to-Video von freigegebenen Stills (Konsistenz!), 5-10 s, je 2 Versuche max.
 - [ ] Fallback-Regel: Clip nach 2 Fehlversuchen -> Ken-Burns-Still statt Credit-Grab
 

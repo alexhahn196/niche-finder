@@ -197,15 +197,25 @@ Mittel: 350-450 Cr. ≈ 15-19 EUR - Sparmodus, falls ein Monat gedrosselt wird.)
 
 | Posten | Monat 1-2 (1 Video/Wo) | Monat 3+ (2 Videos/Wo) |
 |---|---|---|
-| Higgsfield Ultra (3.000 Credits) | 129 EUR | 129 EUR |
-| Credit-Top-up (~2.000 Credits) | - | ~100 EUR |
-| ElevenLabs Creator (Voiceover) | 22 EUR | 22 EUR |
+| Higgsfield Ultra (3.000 Credits) | 129 EUR netto | 129 EUR netto |
+| Credit-Top-up (~2.000 Credits) | - | ~100 EUR netto |
+| ElevenLabs Creator (Voiceover) | ~$22 (≈ 22-23 EUR brutto) | dito; bei 8 Videos/Mon. knapp -> ggf. Pro |
 | Musik/SFX (Artlist o. Epidemic) | 15 EUR (Monat 1 notfalls CC0: 0) | 15 EUR |
+| Backup-Storage (4K-Master + Assets) | 0 EUR (lokale HDD) | ~10 EUR Cloud o. einmalig HDD |
 | Schnitt/Assembly/Untertitel/SEO-Tools | 0 EUR (ffmpeg + Claude + Outlier-Radar) | 0 EUR |
-| **Summe** | **~165 EUR/Monat** | **~270 EUR/Monat** |
+| **Summe netto** | ~165 EUR/Monat | ~280 EUR/Monat |
+| **Summe BRUTTO (real zu zahlen)** | **~195 EUR/Monat** | **~325 EUR/Monat** |
 
-Break-even-Referenz: ~40-60k monetarisierte Views/Monat ODER 1 kleiner Sponsor-Deal.
-Gate 2 (100k Views/Monat, Monat 4) deckt das Budget bereits vollständig.
+**USt-Hinweis (Audit):** Alle Anbieter-Preise verstehen sich exkl. USt; für
+DE-Käufer +19 % — als Kleinunternehmer bei Auslands-Abos via §13b UStG selbst
+geschuldet, OHNE Vorsteuerabzug. Nur bei Regelbesteuerung gelten Netto-Zahlen.
+AdSense-Erlöse (Google Ireland) sind Reverse-Charge, daher ohne USt.
+**Kostensenker:** Ultra-Jahresabo 99 statt 129 EUR/Mon. (~118 EUR brutto)
+drückt M3+ auf ~281 EUR brutto — aber 12-Monats-Bindung erst NACH bestandenem
+Gate 1 eingehen.
+
+Break-even-Referenz: ~50-80k monetarisierte Views/Monat ODER 1 kleiner
+Sponsor-Deal. Gate 2 (100k Views/Monat, Monat 4) deckt das Brutto-Budget.
 Später optional: Storyblocks (~30 EUR, erst für Colorized-Footage-Formate),
 Suno (~10 EUR, eigene Musik).
 

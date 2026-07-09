@@ -1,8 +1,15 @@
-# Shotlist: Video 01 — Constantinople 1453 (110 Shots, ~16 Min.)
+# Shotlist: Video 01 — Constantinople 1453 (110 Shots, Ziel 16:00)
 
 Format: `# | Zeit | Dauer | Typ | Bewegung | Prompt-Kern (+ BASE + MOOD + NEG aus Style-Bible) | Ambience`
 Typ: **I**=Still mit Ken-Burns, **V**=Video-Clip (teuer, sparsam), **D**=Diary-Insert, **G**=Grafik/Karte
 Bewegung: PI=Push-in, PO=Pull-out, LAT=Lateral, STAT=Statisch
+
+**TIMING-REGEL (Audit):** Die Zeitspalten sind Richtwerte. Master ist das
+gerenderte VO — das Assembly-Skript skaliert alle Dauern proportional auf die
+finale VO-Länge (aktueller Skript-Stand ~1.550 Wörter würde ~12:00 ergeben;
+nach Skript-Ausbau auf ~2.150 Wörter -> 16:00). Shots 20–31 sind VO-frei
+(nur Ambience/Score). Der Time-Slip (#16, 12 s) ist die bewusste Ausnahme
+von der 5–10-s-Clip-Regel.
 
 ## ACT 1 — Hook (0:00-3:50) · MOOD_MODERN -> MOOD_GLORY · schnelle Schnitte 4-6s
 
@@ -54,7 +61,7 @@ Bewegung: PI=Push-in, PO=Pull-out, LAT=Lateral, STAT=Statisch
 | 55-58 | 7:06-7:42 | 4×9 | I+V | Mix | **SCHIFFE ÜBER LAND** (Signature-Sequenz): Nacht, gefettete Baumstämme, hunderte Männer+Ochsen ziehen Galeeren den Hügel hoch (V: Schiff kippt über Kuppe), Fackelschlange über Galata-Hügel, Morgengrauen: Flotte IM Goldenen Horn | Knarren, Rufe, dann entsetzte Stille |
 | 59 | 7:42 | 9 | I | PI | Verteidiger am Morgen auf Seemauer, Blick hinab: feindliche Segel im eigenen Hafen | Wind, ein fallengelassener Helm |
 | 60-63 | 7:51-8:27 | 4×9 | I | Mix | Stadt-Erosion: leerer Markt jetzt mit Ikonen-Prozession, Preistafel-Wahnsinn, Hagia-Sophia-Innenraum dünn besetzt, Kerzenmeer | Litanei-Gesang |
-| 64 | 8:27 | 13 | G+I | PI | Zahlen-Karte: 8.000 Männer / 5,7 km Mauer / "one man every four meters" — Kamera fährt einsame Mauerlinie ab | Wind, Herzschlag-Drone |
+| 64 | 8:27 | 13 | G+I | PI | Zahlen-Karte: 8.000 Männer / 20 km Mauerring (Land+See) / "one man every two and a half meters" — Kamera fährt einsame Mauerlinie ab | Wind, Herzschlag-Drone |
 
 ## ACT 3 — Omen & Sturm (8:40-13:20) · MOOD_OMEN -> MOOD_STORM
 
@@ -97,8 +104,12 @@ Bewegung: PI=Push-in, PO=Pull-out, LAT=Lateral, STAT=Statisch
 | 109 | 15:34 | 14 | I | PI | Abo-Formel über Pompeji-Teaser: Vesuv raucht über schlafender Stadt | tiefes Grollen |
 | 110 | 15:48 | 12 | G | STAT | END-CARD: "NEXT WITNESS: CELER OF POMPEII — His bread survived. Did he?" + Subscribe | Marken-Sting |
 
-## Produktions-Zählung
+## Produktions-Zählung (Audit-korrigiert)
 
-- Stills (I): ~88 · Video-Clips (V): 13 · Grafiken/Karten (G): 5 · Diary (D): 4
-- Credit-Schätzung: 88 Stills (×1-2 Gen-Versuche) + 13 Clips + Charakter-Referenzen
-  ≈ **300-450 Credits** (im Plus-Plan: ~15-22 EUR)
+- Stills (I): ~86 · Video-Clips (V): 14 (inkl. Time-Slip-Ausnahme 12 s) ·
+  Grafiken/Karten (G): 5 · Diary-Inserts (D): 5 (als Stills produziert)
+- Credit-Schätzung **Premium-Kern** (beschlossener Standard, Masterplan §7):
+  Hero-Stills via Seedream 4.5 quality=high (~6K, Zoom-Reserve!), Standard-Shots
+  Effizienz-Modelle + Batch-Upscale (~40-60 Credits), 5 Signature-Clips Seedance 2.0
+  (4K explizit setzen!), übrige Clips Kling ≈ **550-650 Credits** (~26-31 EUR
+  im Ultra-Plan inkl. USt). Maximal-Variante: 800-950 Credits.

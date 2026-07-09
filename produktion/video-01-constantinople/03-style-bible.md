@@ -23,9 +23,13 @@ film grain, muted realistic color grade, no text, no watermark`
 
 **NEG (Negativ-Prompt, immer):**
 `minarets on Hagia Sophia, Blue Mosque, Ottoman 16th century architecture,
+modern Turkish flag, star and crescent flag, wheeled gun carriages,
 modern buildings, cars, cables, glass windows, coffee, tomatoes*, clocks,
 cartoon, painting style, text, watermark, deformed hands, extra fingers`
 (*Ausnahme: der eine geplante Fehler-Shot, siehe §6)
+Audit-Ergänzungen: Die moderne türkische Stern-Halbmond-Flagge ist ein
+Anachronismus (osmanische Banner 1453: schlichte Farbfelder/Ross-Schweife);
+Orbans Bombarde hatte KEINE Rad-Lafette (Schlitten/feste Bettung).
 
 ## 2. Charakter-Tokens (Konsistenz über Referenzbild!)
 
@@ -68,7 +72,8 @@ VO wechselt in leicht intimeren Ton. Selber Look bei allen 4 -> Ritual.
 
 ## 6. DAS EINE FALSCHE DETAIL (Video 01)
 
-**Platzierung:** Act 2, Markt-Szene auf der Mese (S43). In einem Marktstand
+**Platzierung:** Act 2, Markt-Szene auf der Mese (**Shotlist-Shot #45** — nicht
+S43, das ist der Kanonenschuss!). In einem Marktstand
 liegt gut sichtbar (aber nicht zentral) ein **Korb mit Tomaten** - unmöglich
 1453: Tomaten kommen erst nach 1492 aus der Neuen Welt nach Europa.
 - Schwierigkeit: mittel (Historiker sofort, aufmerksame Laien nach Nachdenken)
