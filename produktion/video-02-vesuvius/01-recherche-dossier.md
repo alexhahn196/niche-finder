@@ -1,0 +1,123 @@
+# Recherche-Dossier: Vesuv 79 n. Chr. — Pompeji & Herculaneum
+
+Grundlage für Skript + Shotlist. Jede Szene muss sich auf diese Fakten stützen.
+Quellen: Plinius d. J., Briefe 6.16 + 6.20 an Tacitus (Radice-Übersetzung, Loeb —
+DIE einzige erhaltene Augenzeugenquelle); Sigurdsson et al. (Vulkanologie der
+Ablagerungen); Beard, Pompeii: The Life of a Roman Town; Cooley & Cooley, Pompeii
+and Herculaneum: A Sourcebook; Wallace-Hadrill, Herculaneum: Past and Future.
+
+## Kern-Zeitleiste (Stunden nach Vulkanologie + Plinius; Datum s. Datums-Frage)
+
+| Zeit (Tag 1) | Ereignis |
+|---|---|
+| Tage zuvor | Kleine Erdbeben — in der Region so alltäglich, dass niemand sie beachtet (Plinius 6.20: "weil sie in Kampanien gewöhnlich sind") |
+| Früher Morgen | Normaler Alltag: Bäckereien feuern seit ~4 Uhr, Märkte öffnen. In Herculaneum stempelt der Sklave **Celer** Brote mit dem Namen seines Herrn (s. Zeugen) |
+| ~12:00–13:00 | **Plinian-Ausbruch beginnt**: Eruptionssäule bis ~30 km Höhe. Plinius d. J. (17, in Misenum ~30 km): Wolke in Form einer **Schirmpinie** |
+| Nachmittag | Bims-/Ascheregen auf Pompeji (Wind aus NW trägt die Wolke nach SO): ~15 cm Bims pro Stunde. **Herculaneum liegt WESTLICH = im Windschatten: dort fällt kaum Bims** — die Stadt flieht trotzdem, Richtung Meer |
+| Nachmittag | Plinius d. Ä. (Flottenkommandant in Misenum) startet Rettungsaktion mit Quadriremen — aus der Forschungsfahrt wird ein Rettungseinsatz. Zitat s. u. ("Fortes fortuna iuvat"). Landung bei Stabiae (Pomponianus), da Herculaneum/Küste unerreichbar |
+| Abend | In Pompeji brechen erste Dächer unter der Bimslast; viele fliehen, viele bleiben in Häusern ("es wird vorbeigehen") |
+| ~Mitternacht–1 Uhr | **Säulenkollaps → erste pyroklastische Ströme (Surges S1–S2)**: treffen **Herculaneum** — ~400–500 °C, Tod in Sekundenbruchteilen. In den **Bootshäusern (Fornici)** am Strand: 300+ Skelette (erst ab 1982 entdeckt) |
+| Tag 2, ~6:30–7:30 | Surges S3–S5 erreichen **Pompeji**; ~7:30 tötet der Strom die Verbliebenen (~250–300 °C). Danach S6 bis Misenum-Nähe |
+| Tag 2, Morgen | Plinius d. Ä. stirbt am Strand von Stabiae (vermutl. Erstickung/Herz); Plinius d. J. + Mutter fliehen aus Misenum durch Aschedunkelheit — seine Beschreibung s. Zitate |
+
+## Die Datums-Frage (PFLICHT im Skript ansprechen — Präzisions-Marke!)
+
+- Lehrbuch-Datum: **24./25. August 79** (aus mittelalterlichen Plinius-Abschriften).
+- Moderne Gegen-Evidenz für **Herbst (~24. Okt.)**: Kohle-Graffito in Pompeji
+  (entdeckt 2018) datiert auf "XVI K Nov" (= 17. Okt.); Herbstfrüchte (Granatäpfel)
+  in den Befunden; schwerere Kleidung; Weinlese-Spuren.
+- Skript-Framing: offen benennen ("The textbooks say August 24th. The evidence
+  says the textbooks may be wrong.") — Debatte, keine Entscheidung. Visuals
+  saisonneutral halten (keine Sommer-/Winter-Marker forcieren).
+
+## Die Zeugen (Dual-Witness-Struktur)
+
+**1. Celer — der Mann, der ein Brot hinterließ (Haupt-Zeuge, Herculaneum)**
+- Karbonisierter Brotlaib aus der **Casa dei Cervi, Herculaneum** (Grabung 1930er),
+  gestempelt: **"CELER Q(uinti) GRANI VERI SER(vus)"** — "Celer, Sklave des
+  Quintus Granius Verus". Rundes Panis-quadratus-Brot, 8 Segmente.
+- Der Stempel diente dem Gemeinschaftsofen-Alltag (Brote den Haushalten zuordnen).
+- **Auflösungs-Fakt (VOR RENDERING VERIFIZIEREN, Audit-Flag):** Ein "Q. Granius
+  Verus" erscheint in den Herculaneum-Täfelchen/Album; Forschung verbindet den
+  Haushalt mit später bezeugten Freigelassenen — die populäre Lesart "Celer
+  wurde später freigelassen" ist plausibel, aber als Deutung zu framen
+  ("the lists suggest..."), NICHT als Fakt. Ob Celer den Ausbruch überlebte,
+  ist unbekannt — ehrlich so erzählen.
+- Brot heute: Museo Archeologico Nazionale di Napoli (2013 im British Museum
+  ausgestellt; berühmt durch "borrowed loaf"-Nachbackvideo).
+
+**2. Plinius der Jüngere — der Junge, der es aufschrieb (Zitat-Quelle, Misenum)**
+- 17 Jahre alt, beobachtet aus ~30 km mit seiner Mutter; Onkel (Plinius d. Ä.)
+  stirbt im Einsatz. Schreibt ~25 Jahre später zwei Briefe an Tacitus (6.16, 6.20)
+  — die einzige erhaltene Augenzeugen-Beschreibung. Briefe existieren heute noch
+  (Echtheits-Flex analog Barbaro-Tagebuch).
+
+## Zitate — NUR BELEGTE WORTLAUTE (Radice-Übersetzung; Fundstelle je Zitat)
+
+1. (6.16, die Wolke) *"Its general appearance can best be expressed as being like
+   an umbrella pine, for it rose to a great height on a sort of trunk and then
+   split off into branches."*
+2. (6.16, der Entschluss des Älteren) *"Fortune favours the brave — head for
+   Pomponianus."* ("Fortes fortuna iuvat: Pomponianum pete.")
+3. (6.20, das Meer) *"We also saw the sea sucked away and apparently forced back
+   by the earthquake: at any rate it receded from the shore."*
+4. (6.20, die Dunkelheit) *"Darkness fell, not the dark of a moonless or cloudy
+   night, but as if the lamp had been put out in a closed room."*
+5. (6.20, die Verzweiflung) *"Many besought the aid of the gods, but still more
+   imagined there were no gods left, and that the universe was plunged into
+   eternal darkness for evermore."*
+
+## Schlüssel-Fakten & Schauplätze
+
+- **Vesuv vor 79: EIN Kegel, grün, Weinberge bis hoch hinauf** — die heutige
+  Doppel-Silhouette (Monte Somma + Kegel) entstand ERST durch den Ausbruch!
+  Die Römer wussten nicht, dass es ein Vulkan ist (letzter Großausbruch
+  ~1800 v. Chr.); Spartacus lagerte 73 v. Chr. im alten Krater. Strabo notierte
+  verbrannte Steine — reine Gelehrten-Randnotiz.
+- **KEINE Lavaströme!** 79 n. Chr. = Bimsregen + pyroklastische Ströme. Rot
+  glühende Lava-Flüsse sind der häufigste Genre-Fehler (Sperrliste).
+- **Erdbeben 62/63 n. Chr.:** Pompeji ist 79 noch Baustelle — Gerüste, frisch
+  verputzte Wände, halbreparierte Tempel (starkes Alltags-Detail).
+- Pompeji: ~11.000–12.000 Einwohner (Schätzung; im Skript "perhaps twelve
+  thousand"); Herculaneum ~4.000–5.000. Geborgene Opfer: ~1.150 (Pompeji) +
+  ~340 (Herculaneum, v. a. Bootshäuser); Gesamtzahl unbekannt — im Skript
+  ehrlich: "at least two thousand — how many more, the ash never said."
+- Alltags-Assets (belegt): Thermopolium der Asellina (+ Regina-Preisliste),
+  Garum des Umbricius Scaurus, 81 Brote im Ofen der Modestus-Bäckerei (Pompeji),
+  CAVE CANEM-Mosaik, der Kettenhund-Abguss, Garten der Flüchtenden (13 Abgüsse),
+  Wahlkampf-Graffiti ("Wählt Helvius Sabinus zum Ädil"), 11.000+ Graffiti.
+- Herculaneum-Kontrast: reicher, kleiner, am Meer; Holz/Lebensmittel/Schriftrollen
+  karbonisiert erhalten (Villa dei Papiri); Bootshäuser-Skelette mit Schmuck
+  und Arzt-Besteck.
+- Gips-Abgüsse (Fiorelli-Technik ab 1863): Hohlräume in der Asche = Körper.
+
+## Personen-Kanon (Konsistenz-Tokens)
+
+- **CHAR_CELER**: kräftiger Mann Ende 20, kurzes dunkles Haar, einfache graue
+  Arbeits-Tunika, Mehlstaub auf Unterarmen, Bronze-Brotstempel in der Hand
+- **CHAR_PLINY_YOUNG**: 17-Jähriger, schmal, weiße Tunika mit schmalem
+  Purpursaum, Schreibtafel; wacher Blick
+- **CHAR_PLINY_ELDER**: 55, massig, Flottenkommandanten-Umhang über Tunika,
+  Schriftrolle; ruhige Autorität
+- **CHAR_RECTINA** (optional, 6.16 belegt: Hilferuf an den Älteren): Frau in
+  Stola auf Villa-Terrasse am Fuß des Berges
+
+## ANACHRONISMUS-SPERRLISTE Video 2 (zusätzlich zur Kanal-Sperrliste)
+
+- ❌ **Heutige Vesuv-Silhouette** (Doppelgipfel) für 79 n. Chr. — vor dem
+  Ausbruch: EIN Kegel mit grünen Hängen
+- ❌ **Rote Lavaströme** — es gab keine; Bims, Asche, Glutwolken
+- ❌ Kolosseum-artige Bauten in Pompeji (das Amphitheater Pompejis ist älter/
+  kleiner, versenkte Arena); keine Marmor-Hollywood-Paläste in Wohnvierteln
+- ❌ Tomaten, Mais, Kartoffeln, Kaffee, Orangen (Zitrone/Zitrusmedien nur als
+  Citron-Fresko belegt — Markt-Zitrusfrüchte vermeiden), Papier-Bücher
+  (Schriftrollen/Wachstafeln!), Hufeisen an Pferden, Steigbügel
+- ✅ DAS EINE FALSCHE DETAIL (Video 2): **eine Ananas** auf einem Obststand
+  (Neue Welt — eindeutig, fair findbar; Bonus für die Auflösung: das berühmte
+  "Ananas"-Mosaik von Pompeji ist in Wahrheit ein Pinienzapfen)
+
+## Auflösung Fehler-Spiel Video 1 (kommt in Video 2, Playbook-Slot "Mitte")
+
+Video 1 versteckte einen **Tomatenkorb** auf dem Mese-Markt (Shot #45) —
+Tomaten erreichen Europa erst nach 1492. 3-Sekunden-Zoom + Erklärkarte +
+Pin/Shoutout des ersten richtigen Kommentars.
