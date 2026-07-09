@@ -1,5 +1,23 @@
 # Die ersten 10 Videos — datenvalidierte Banger-Slate
 
+## RELEASE-REIHENFOLGE V2-V4 (beschlossen 2026-07-09, 3-Richter-Panel 2:1)
+
+| Slot | Video | Status | Begründung |
+|---|---|---|---|
+| **V2** | **Vesuv: Final 24 Hours of Pompeii & Herculaneum** (Zeuge: Celer) | FIX (End-Card-Versprechen V1) | Frisch massiv validiert: "Trapped in Pompeii POV" **16,7M Views** im selben Genre |
+| **V3** | **Stadtwahl-Sieger** (A: Baghdad 1258 / B: Tenochtitlan 1521 / C: Lisbon 1755) | FIX (Community-Macht-Versprechen V1) | Daten-Favorit: Baghdad (636k @ 339× + globale Zielgruppe, CIRA 7,3M). Governance: bei < 50 Stimmen entscheiden wir und crediten die Voter trotzdem |
+| **V4** | **You Wouldn't Survive 24 Hours in Ancient Rome (117 AD)** (Zeuge: Martial) | Default mit Daten-Checkpoint | Panel-Mehrheit (Brand + Monetarisierung): nach 3 Katastrophen droht Ermüdung; Gate 1 braucht Säulen-Vergleichsdaten; Martial bringt erstmals Humor/Tonvielfalt; Dreifach-Beweis von 3 UNABHÄNGIGEN Kanälen; Evergreen + werbefreundlich. **Checkpoint vor Produktionsstart V4:** Zeigen CTR/Retention von V2/V3 extreme Säule-A-Überperformance -> Swap auf Krakatoa |
+| V5/V6 | **Krakatoa 1883** (Zeuge: Kapitän der Loudon, "Head-On Maneuver") | NEU entdeckt, vorgemerkt | Monster-Signal: 27,5M-POV-Video (Outlier 1.580×), rising_strong, 3 junge 100k-Beweise; Sound-Design-Showcase ("lautester Knall der Geschichte"). Bewusst NICHT V4: vierte Katastrophe in Folge + Themen-Gigant erst 8 Monate alt (Differenzierung über Zeugen-Erzählung statt POV nötig) |
+
+Titel-Regel für V4 (Richter-Auflage): Jahr ergänzen + "(AI Reconstruction)"-Label
+im Titel/Thumbnail testen — das Format verzichtet sonst auf 2 der 3 stärksten
+CTR-Prädiktoren. End-Card V3: "NEXT WITNESS: MARTIAL OF ROME — the poet who
+hated everything." (Brücke von Katastrophe zu Szenario).
+
+Neue Kandidaten-Prüfung 2026-07-09: **Alexandria verworfen** (Trend fallend),
+Bronze-Age-Collapse = Vorlesungs-Format (Backlog), Carthage/Angkor Backlog,
+**San Francisco 1906** vorgemerkt als US-RPM-Play ab V7 (Colorized-Crossover).
+
 Stand: 2026-07-07 · Jedes Thema hat Nachfrage-Beweise aus echten Suchdaten + Zeugen
 nach dem Witness Protocol. Reihenfolge = Release-Plan (Säulen A/B/C alternieren).
 Verworfen nach Daten-Check: Neros Brand von Rom (Trend fallend, Umfeld = Slop).
