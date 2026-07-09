@@ -161,6 +161,36 @@ gesetzt (`update` + `rescore`); bis dahin Status `needs_slop_check`.
 5. Bei Quota-Stopp: Checkpoint ist automatisch geschrieben; Session beenden,
    morgen mit Schritt 1 fortsetzen.
 
+### QA-PIPELINE PRO VIDEO (PFLICHT — kein Upload ohne alle 6 Schritte)
+
+Etabliert nach Video 1 (Fakten-Audit fand 32 echte Fehler, Kreativ-Review
+lieferte 22 Verbesserungen). Für JEDES Video in dieser Reihenfolge:
+
+1. **Dossier + Skript v1 schreiben** (`produktion/video-XX-<name>/`, 7-Datei-
+   Struktur wie Video 01). Eiserne Regeln dabei:
+   - **Zitat-Regel:** KEIN wörtliches Zitat ohne notierte Fundstelle im Dossier
+     (Standard-Übersetzung/Edition angeben). Paraphrasen niemals als Zitat framen.
+   - **Superlativ-Regel:** jede „nie/erste/größte"-Behauptung präzise scopen und
+     auf die vorhersehbarste Besserwisser-Korrektur abklopfen (Beispiel 1204).
+   - **Legenden-Regel:** dünne Quellenlage im Skript attribuieren („if Doukas is
+     to be believed", „tradition records") statt als Fakt zu erzählen.
+   - **Overclaim-Regel:** Titel/Thumbnail versprechen nur, was das Video liefert.
+2. **Fakten-Audit:** `Workflow({name:"fakten-audit", args:{videoDir:"...", epoche:"..."}})`
+   — Historik + Produktions-Mathe, jeder Fund adversarial verifiziert (WebSearch).
+3. **Alle bestätigten Funde einarbeiten** (Befunde als `audit-befunde.json` in
+   den Videoordner committen).
+4. **Kreativ-Review:** `Workflow({name:"kreativ-review", args:{videoDir:"...", zielWorte:2150}})`
+   — 5 Linsen (Hook/Retention/VO-Sprache/Engagement/CTR) + Synthese-Richter, der
+   Geschmacks-Rauschen und Fakten-Verstöße verwirft.
+5. **Final-Rewrite in einem Rutsch** (Regieanweisungen + Wortzahl-Ziel); neue
+   Fakten aus dem Review IMMER verifizieren und als Dossier-Nachtrag festhalten;
+   Wortzahl-Check per Skript (~150 wpm + Stille-Budget = Ziel-Länge).
+6. **QC-Gates mit dem User** (Checkliste des Videoordners) + `virality_predictor`
+   auf das fertige Video vor dem Upload.
+
+Erkenntnisse fließen zurück: Nach jedem Launch Retention-Daten gegen Playbook
+prüfen (Gewinner-Code-Review alle 3 Videos, nische-playbook.md fortschreiben).
+
 ### Quota-Buchhaltung
 
 `state/quota.json` hält `{datum, verbrauchte_units}` pro Tag
