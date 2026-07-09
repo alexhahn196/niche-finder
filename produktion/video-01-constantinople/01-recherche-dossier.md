@@ -68,6 +68,30 @@ Constantinople 1453", Crowley "1453", Philippides/Hanak "The Siege and Fall".
 - **Nicolò Barbaro**: 30er, dunkles Haar, kurzer Bart, rote venezianische Kappe,
   dunkelblauer Wams, lederne Arzttasche
 
+## REVIEW-NACHTRÄGE (verifiziert für Skript v2, 2026-07-09)
+
+- **Opferzahlen:** ~4.000 Tote bei der Einnahme, ~30.000 Versklavte
+  (Runciman, Fall of Constantinople, Kap. 10; Crowley 1453) — Skript-Tease.
+- **Februar-Flucht:** In der Nacht des 26. Februar 1453 verlassen 7
+  venezianische Schiffe (u. a. unter Pietro Davanzo) heimlich die Stadt;
+  Barbaro verzeichnet sie und verurteilt die Flucht — Skript S18-19.
+- **Dienstag:** Der 29. Mai 1453 war ein Dienstag; im griechischen Volksglauben
+  gilt der Dienstag seither als Unglückstag — Skript TUESDAY-Beat.
+- **Halil Pascha:** Kriegsrat ~26./27. Mai (Halil für Abbruch, Zaganos für
+  Sturm, Mehmed entscheidet Sturm); Halil wird wenige Tage nach der Eroberung
+  verhaftet (Hinrichtung Wochen später) — Skript S52b + Act-4-Payoff.
+- **Minenkrieg:** serbische Mineure aus Novo Brdo; Gegenminen-Ingenieur
+  Johannes Grant (Herkunft schottisch oder deutsch — im Skript neutral "an
+  engineer named John Grant"); Ortung über Wasserschalen; ~14 Minen
+  entdeckt/zerstört (Crowley/Runciman) — Skript S41b.
+- **Galata:** offiziell neutral, Handel mit beiden Seiten; einzelne Warnungen
+  an die Verteidiger überliefert — im Skript mit "some say"-Hedge.
+- **Orban-Bombarde imperial:** ~26-27 Fuß (~8,2 m); Kugel ~600 kg ≈ Gewicht
+  von 8 Männern — Skript-Körper-Anker.
+- **Konstantins Rede:** Wortlaut nicht überliefert (nur Berichte, u. a.
+  Leonard von Chios / Sphrantzes-Tradition) — Skript nutzt Echtheits-Flex
+  statt Zitat.
+
 ## ANACHRONISMUS-SPERRLISTE (hart - jede Szene dagegen prüfen)
 
 - ❌ Minarette an der Hagia Sophia (kamen NACH der Eroberung)
