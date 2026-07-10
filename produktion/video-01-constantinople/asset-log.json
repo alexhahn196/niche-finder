@@ -1,90 +1,188 @@
 {
-  "video": "01-constantinople",
-  "schritt": "1 — Referenz-Assets",
-  "datum": "2026-07-10",
-  "plan": "ultra",
-  "credits_verbraucht_schritt1": 31,
-  "vision_qc": "Jedes Asset gegen Anachronismus-Sperrliste geprüft; 5 Retries nötig (Minarett-Drift wie in Checkliste prognostiziert, Pfauen- statt Reiherfeder, Templer- statt Genueser Kreuz, Blitze statt Elmsfeuer-Korona)",
-  "assets": {
-    "CHAR_BARBARO": {"job": "d976aa4a-deaa-43de-aef0-be6596cde0e1", "status": "freigabe_kandidat", "modell": "nano_banana_2 4k 3:4"},
-    "CHAR_CONSTANTINE": {"job": "3f39d357-c3d4-4fb5-ae3a-ea20a11cca38", "status": "freigabe_kandidat", "modell": "nano_banana_2 4k 3:4"},
-    "CHAR_MEHMED": {"job": "9c5cdb15-0b34-44c5-adbb-422b1cd93d17", "status": "freigabe_kandidat (v2 — v1 a8c9e931 hatte Pfauenfeder)", "modell": "nano_banana_2 4k 3:4"},
-    "CHAR_GIUSTINIANI": {"job": "796b5574-a453-4754-ac1c-7daf71ea7d52", "status": "freigabe_kandidat (v2 — v1 431e0e98 hatte Templer-Tatzenkreuz)", "modell": "nano_banana_2 4k 3:4"},
-    "MASTER_PANORAMA": {"job": "362ca2b0-0663-4c09-a3c4-22fe04e8b5ea", "status": "freigabe_kandidat (v2 — v1 1032efae hatte Minarette!); Notiz: ferne Hügel-Silhouette oben mittig vor Thumbnail-Nutzung prüfen/retuschieren", "modell": "seedream_v4_5 high 16:9 (5120x2880)"},
-    "STYLE_GLORY": {"job": "79909c86-5adf-41fd-8067-4c7320da7872", "status": "freigabe_kandidat (v2 — v1 869234c0 hatte Minarett-Spitzen)", "modell": "seedream_v4_5 high 16:9"},
-    "STYLE_OMEN": {"job": "bfb9a79c-be52-4e27-867a-72fe210284ef", "status": "freigabe_kandidat (v3 — User-QC: grüne Blitze unrealistisch -> blasses Blau-Weiß, Langzeitbelichtungs-Look; v1 db8af0f1 hatte Minarette+Halbmond, v2 5a379582 grüne Blitze)", "modell": "seedream_v4_5 high 16:9"},
-    "STYLE_STORM": {"job": "cea31f05-0b68-47be-9d6f-f616f7d5d61a", "status": "freigabe_kandidat (Banner-Farben pro Shot steuern: grünes Kreuz-Banner vermeiden)", "modell": "seedream_v4_5 high 16:9"}
+ "video": "01-constantinople",
+ "schritt": "1 — Referenz-Assets",
+ "datum": "2026-07-10",
+ "plan": "ultra",
+ "credits_verbraucht_schritt1": 31,
+ "vision_qc": "Jedes Asset gegen Anachronismus-Sperrliste geprüft; 5 Retries nötig (Minarett-Drift wie in Checkliste prognostiziert, Pfauen- statt Reiherfeder, Templer- statt Genueser Kreuz, Blitze statt Elmsfeuer-Korona)",
+ "assets": {
+  "CHAR_BARBARO": {
+   "job": "d976aa4a-deaa-43de-aef0-be6596cde0e1",
+   "status": "freigabe_kandidat",
+   "modell": "nano_banana_2 4k 3:4"
   },
-  "lessons_fuer_batches": [
-    "Minarett-Drift ist real und hart: JEDER Hagia-Sophia-/Skyline-Prompt braucht die Positiv-Beschreibung ('pure Byzantine cathedral, golden cross, empty sky') + Negativ-Klauseln; 'no minarets' allein reicht NICHT",
-    "nano_banana_pro wird serverseitig als nano_banana_2 ausgeführt (4k ok)",
-    "Symbole präzise positiv beschreiben (Georgskreuz vs. Tatzenkreuz, Reiher- vs. Pfauenfeder) — Modelle greifen sonst zum ikonischeren Klischee",
-    "Elmsfeuer als 'corona/glowing sheen hugging the roof, NOT lightning bolts' prompten"
-  ],
-  "qc_gate_1": "FREIGEGEBEN durch User 2026-07-10 ('freigegeben weiter machen'); Look-Korrektur auf User-Feedback: Elmsfeuer blau-weiß statt grüner Blitze",
-  "akt1_stills": {
-    "status": "KOMPLETT (22 Shots: 20 generiert + 2 Wiederverwendungen), alle Vision-QC bestanden",
-    "wiederverwendung": {"s05": "MASTER_PANORAMA 362ca2b0", "s13": "STYLE_GLORY 79909c86"},
-    "shots": {
-      "s02": "e23e536c-e319-4353-a5b0-34b3e604de4e", "s03": "f235e141-1add-4930-8a66-f38f6cf50512 (Assembly-Notiz: moderne Logos leicht unscharf ziehen)",
-      "s06": "6b8ab9f1-16d8-4408-b1ec-c483fdc34c81", "s07": "5be46951-3ac6-4b27-bff4-a2c0117d5e95 (HERO)",
-      "s08": "c36ac61e-713e-4558-8d8a-4a14ddb44b80 (4k STAT)", "s10": "f8b37459-ed99-44fa-ab26-0f5f1ba2c7ad",
-      "s11": "532fa3fc-b1c4-4901-a347-556128c958ee", "s12": "752171c2-8b4a-4378-a648-b641a0965b5f (HERO)",
-      "s14": "79d84463-decb-4739-94d1-4aec4fc41417 (HERO)", "s15": "10754a30-236b-4144-ac88-078b9bd4df20 (HERO, Mehmed-Referenz, Gesichts-Konsistenz bestätigt)",
-      "s17": "97468e95-3a08-4378-a4a8-7760f224c4de (HERO, v3! v1 nsfw-Fehlfilter, v2 hatte vom Modell eingeschmuggelte TOMATEN — 999-Karten-Shot muss fehlerfrei sein)",
-      "s18": "31dbaa99-5e5d-4809-bd38-ccf4f4c6cda2 (Barbaro-Referenz)", "s19": "bf8f7d37-c0f7-41f7-8b4f-69c3257b1f3d (Notiz: Pseudo-Schrift, kurze Standzeit ok)",
-      "s20": "c84e81b9-9d0d-44b7-9269-9d0ff4f08963 (v2 — v1 Minarett)", "s21": "ed167775-e4f1-421d-bd41-8518318d9468",
-      "s22": "0c9892ec-6dd0-476a-a997-04ecabebbc75", "s23": "8db3fdb6-7b17-4f73-ad31-2720ae3c1054 (v2 — v1 zwei Minarette)",
-      "s25": "211b5d17-7a83-4bff-99e1-1d4b3aa2e102", "s26": "1b0acc64-3382-4a35-b47a-4bd73b3908ac",
-      "s28": "921620e8-4913-4097-aa4c-8878c0b9a2f7", "s29": "c936c4c9-e467-4455-ab79-d2c62e053c15",
-      "s30": "da9e4366-b02d-4a42-ade3-67b88ed95913 (v2+Edit-Pass: fernes Minarett entfernt; Basis 377e68f0; Assembly-Notiz: Ken-Burns-Start rechts, Rad-Karren links meiden)"
-    },
-    "ausschuss_lessons": "5 Kills im Akt-1-QC: 3x Minarett-Drift (s20,s23,s30 — gehärtete Positiv-Skyline-Formel wirkt zuverlässig), 1x eingeschmuggelte Tomaten (s17 — Markt-Prompts brauchen 'NO red round fruits'-Klausel + explizite Alternativ-Früchte), 1x nsfw-Fehlfilter ('children' in Marktprompts vermeiden)"
+  "CHAR_CONSTANTINE": {
+   "job": "3f39d357-c3d4-4fb5-ae3a-ea20a11cca38",
+   "status": "freigabe_kandidat",
+   "modell": "nano_banana_2 4k 3:4"
   },
-  "akt2_stills": {
-    "status": "32/32 generiert; 28 QC-PASS, 4 Retries laufen (s34 Türkei-Flaggen!, s42 Kaiser-Gesicht, s53 Minarette, s62 Kalligraphie-Medaillons von 1849!)",
-    "shots": {
-      "s32": "13f7015f", "s33": "dfdd3c6f", "s34": "RETRY 620fc82d (v1 3385e151 hatte MODERNE TÜRKEI-FLAGGEN im Lager)",
-      "s35": "233a5ceb", "s37": "cf77b3c3", "s38": "7b5801f6", "s39": "5428f002", "s40": "f77bc59a",
-      "s41": "2b9bbbe2", "s42": "RETRY d81e574a mit Konstantin-Referenz (v1 0d0008f0 Kaiser-Gesicht inkonsistent)",
-      "s44": "fa5cba15 (HERO)", "s45": "765d893c (HERO, FEHLER-SHOT: Tomatenkorb klar sichtbar, faires Spiel bestätigt)",
-      "s46": "aa10bfc5", "s47": "feb8590c", "s48": "936a495b", "s49": "9056d59b (HERO)",
-      "s50": "88c51a04", "s52": "67f6cb17", "s53": "RETRY c4bd7312 (v1 4aeb70ef hatte 3 Minarette an der Hagia Sophia)",
-      "s54": "d34a5349", "s55": "b2c5a670 (HERO Signature)", "s56": "076c9f4c", "s57": "5ccf61ce",
-      "s59": "61e99eac (HERO)", "s59b": "adcaf645", "s59c": "9e75af05", "s59d": "29e46e88",
-      "s60": "4b80f35a", "s61": "70ea4a77 (Notiz: Öllampe rechts — byzantinische Glasöllampen belegt, ok)",
-      "s62": "RETRY c9378bb9 (v1 1952e24b hatte die 1849er-Kalligraphie-Medaillons 'Allah'/'Muhammad' — härtester Fund des QC)",
-      "s63": "1e485897", "s64": "e72d9750 (HERO)"
-    },
-    "s30_final": "da9e4366 (Edit-Pass hat fernes Minarett erfolgreich entfernt — Edit-Workflow via image_references funktioniert für Retuschen)"
+  "CHAR_MEHMED": {
+   "job": "9c5cdb15-0b34-44c5-adbb-422b1cd93d17",
+   "status": "freigabe_kandidat (v2 — v1 a8c9e931 hatte Pfauenfeder)",
+   "modell": "nano_banana_2 4k 3:4"
   },
-  "akt2_retries_final": {"s34": "386660b3 (v3 Edit: Purpur-Adler-Banner statt Halbmond-Fahne — Pink-Elephant-Lesson: verbotene Symbole NIE im Prompt benennen, stattdessen Edit-Pass)", "s42": "d81e574a (v2, Konstantin-Ref)", "s53": "c4bd7312 (v2)", "s62": "c1ceff64 (v3 Edit: Medaillons entfernt)"},
-  "akt34_qc_fixes_laufend": {
-    "s70": "EDIT 5b9d2050 (v1 5ce9daac: Minarette in Nacht-Skyline)",
-    "s72": "EDIT 94a2f351 (v1 aad23b94: Turm-Silhouette im Nebel)",
-    "s72c": "RETRY c15b869b (v1 bc0d1ab3: glühende Augen)",
-    "s78": "EDIT ed98bb80 (v1 6252bf0a: Minarett-Spitzen links)",
-    "s81": "RETRY 9d6e20be (v1 171ddacb: Tageslicht + Kamerablick statt Nacht)",
-    "s83": "EDIT 79e0aeb8 (v1 b8c55e0e: Hörnerhelm-Fantasy-Drift)",
-    "s97": "EDIT 5cfaa2c3 (v1 4b2cdd27: Minarett — am 29.5.1453 existiert noch keins)",
-    "s100": "RETRY 94c22c9c (v1 0b545fb1: gotisches Buntglas in byzantinischem Palast)"
+  "CHAR_GIUSTINIANI": {
+   "job": "796b5574-a453-4754-ac1c-7daf71ea7d52",
+   "status": "freigabe_kandidat (v2 — v1 431e0e98 hatte Templer-Tatzenkreuz)",
+   "modell": "nano_banana_2 4k 3:4"
   },
-  "akt34_qc_pass_direkt": "s65 s67 s69 s71 s72b s73 s74(HERO Liturgie) s75 s76(HERO) s76b s80 s82 s85 s86 s87 s89 s92 s93 s94 s95(HERO; Flare oben rechts bei Vollres prüfen) s96(HERO) s98 s99 s101 s102 s104(HERO) s105 s106(einzelnes Minarett 1460er historisch OK — erstes Holzminarett unter Mehmed) s109(Vesuv-Teaser EIN-Kegel perfekt)",
-  "akt3_stills_jobs_QC_AUSSTEHEND": {
-    "s65": "de24ce7b", "s67": "170ce6ce", "s69": "4a48becb", "s70": "5ce9daac", "s71": "c71029bd",
-    "s72": "aad23b94", "s72b": "a79d2928", "s72c": "bc0d1ab3 (Mehmed-Ref)", "s73": "acbf397d",
-    "s74": "a3e333bf (HERO Liturgie)", "s75": "bf01dca0 (Konstantin-Ref)", "s76": "6ccbf3db (HERO, Konstantin-Ref)",
-    "s76b": "00154910 (Tuesday)", "s78": "6252bf0a", "s80": "a7f2470a", "s81": "171ddacb (Barbaro-Ref)",
-    "s82": "a2c7b9e3", "s83": "b8c55e0e (Giustiniani-Ref)", "s85": "5a7abf58 (Janitscharen bork ohne Löffel)",
-    "s86": "14ffb6d9", "s87": "0107ad1f (Giustiniani-Ref)", "s89": "28ea101e (Kerkoporta)",
-    "s92": "cec0f1c9", "s93": "de3c37be", "s94": "1f3b4241", "s95": "ce1627c6 (HERO)"
+  "MASTER_PANORAMA": {
+   "job": "362ca2b0-0663-4c09-a3c4-22fe04e8b5ea",
+   "status": "freigabe_kandidat (v2 — v1 1032efae hatte Minarette!); Notiz: ferne Hügel-Silhouette oben mittig vor Thumbnail-Nutzung prüfen/retuschieren",
+   "modell": "seedream_v4_5 high 16:9 (5120x2880)"
   },
-  "akt4_stills_jobs_QC_AUSSTEHEND": {
-    "s96": "c20ba99b (HERO, Mehmed-Ref)", "s97": "4b2cdd27", "s98": "4ca1b837", "s99": "c0b5283c",
-    "s100": "0b545fb1 (HERO Spinnennetz)", "s101": "af2a0366", "s102": "22b4c26e (Barbaro-Ref)",
-    "s104": "aa7763fb (HERO Marciana)", "s105": "307f0eed (Edit des Master-Panoramas -> heute)",
-    "s106": "1f57f87e", "s109": "f1a65403 (Vesuv EIN-Kegel-Teaser)"
+  "STYLE_GLORY": {
+   "job": "79909c86-5adf-41fd-8067-4c7320da7872",
+   "status": "freigabe_kandidat (v2 — v1 869234c0 hatte Minarett-Spitzen)",
+   "modell": "seedream_v4_5 high 16:9"
   },
-  "graphics_assembly": "s09 (Reichs-Karte), Teil von s24-27 (Mauer-Schema), s64-Zahlen-Overlay, s108, s110 = Karten/Templates im Assembly, keine Generierung",
-  "naechster_schritt": "Akt-2-Stills (Shots 32-64), dann Akt 3+4; danach QC-GATE 3 (Kontaktbogen alle ~98) -> Clips (Schritt 4); parallel: User schließt ElevenLabs Creator ab -> Stimmen-Bake-off"
+  "STYLE_OMEN": {
+   "job": "bfb9a79c-be52-4e27-867a-72fe210284ef",
+   "status": "freigabe_kandidat (v3 — User-QC: grüne Blitze unrealistisch -> blasses Blau-Weiß, Langzeitbelichtungs-Look; v1 db8af0f1 hatte Minarette+Halbmond, v2 5a379582 grüne Blitze)",
+   "modell": "seedream_v4_5 high 16:9"
+  },
+  "STYLE_STORM": {
+   "job": "cea31f05-0b68-47be-9d6f-f616f7d5d61a",
+   "status": "freigabe_kandidat (Banner-Farben pro Shot steuern: grünes Kreuz-Banner vermeiden)",
+   "modell": "seedream_v4_5 high 16:9"
+  }
+ },
+ "lessons_fuer_batches": [
+  "Minarett-Drift ist real und hart: JEDER Hagia-Sophia-/Skyline-Prompt braucht die Positiv-Beschreibung ('pure Byzantine cathedral, golden cross, empty sky') + Negativ-Klauseln; 'no minarets' allein reicht NICHT",
+  "nano_banana_pro wird serverseitig als nano_banana_2 ausgeführt (4k ok)",
+  "Symbole präzise positiv beschreiben (Georgskreuz vs. Tatzenkreuz, Reiher- vs. Pfauenfeder) — Modelle greifen sonst zum ikonischeren Klischee",
+  "Elmsfeuer als 'corona/glowing sheen hugging the roof, NOT lightning bolts' prompten"
+ ],
+ "qc_gate_1": "FREIGEGEBEN durch User 2026-07-10 ('freigegeben weiter machen'); Look-Korrektur auf User-Feedback: Elmsfeuer blau-weiß statt grüner Blitze",
+ "akt1_stills": {
+  "status": "KOMPLETT (22 Shots: 20 generiert + 2 Wiederverwendungen), alle Vision-QC bestanden",
+  "wiederverwendung": {
+   "s05": "MASTER_PANORAMA 362ca2b0",
+   "s13": "STYLE_GLORY 79909c86"
+  },
+  "shots": {
+   "s02": "e23e536c-e319-4353-a5b0-34b3e604de4e",
+   "s03": "f235e141-1add-4930-8a66-f38f6cf50512 (Assembly-Notiz: moderne Logos leicht unscharf ziehen)",
+   "s06": "6b8ab9f1-16d8-4408-b1ec-c483fdc34c81",
+   "s07": "5be46951-3ac6-4b27-bff4-a2c0117d5e95 (HERO)",
+   "s08": "c36ac61e-713e-4558-8d8a-4a14ddb44b80 (4k STAT)",
+   "s10": "f8b37459-ed99-44fa-ab26-0f5f1ba2c7ad",
+   "s11": "532fa3fc-b1c4-4901-a347-556128c958ee",
+   "s12": "752171c2-8b4a-4378-a648-b641a0965b5f (HERO)",
+   "s14": "79d84463-decb-4739-94d1-4aec4fc41417 (HERO)",
+   "s15": "10754a30-236b-4144-ac88-078b9bd4df20 (HERO, Mehmed-Referenz, Gesichts-Konsistenz bestätigt)",
+   "s17": "97468e95-3a08-4378-a4a8-7760f224c4de (HERO, v3! v1 nsfw-Fehlfilter, v2 hatte vom Modell eingeschmuggelte TOMATEN — 999-Karten-Shot muss fehlerfrei sein)",
+   "s18": "31dbaa99-5e5d-4809-bd38-ccf4f4c6cda2 (Barbaro-Referenz)",
+   "s19": "bf8f7d37-c0f7-41f7-8b4f-69c3257b1f3d (Notiz: Pseudo-Schrift, kurze Standzeit ok)",
+   "s20": "c84e81b9-9d0d-44b7-9269-9d0ff4f08963 (v2 — v1 Minarett)",
+   "s21": "ed167775-e4f1-421d-bd41-8518318d9468",
+   "s22": "0c9892ec-6dd0-476a-a997-04ecabebbc75",
+   "s23": "8db3fdb6-7b17-4f73-ad31-2720ae3c1054 (v2 — v1 zwei Minarette)",
+   "s25": "211b5d17-7a83-4bff-99e1-1d4b3aa2e102",
+   "s26": "1b0acc64-3382-4a35-b47a-4bd73b3908ac",
+   "s28": "921620e8-4913-4097-aa4c-8878c0b9a2f7",
+   "s29": "c936c4c9-e467-4455-ab79-d2c62e053c15",
+   "s30": "da9e4366-b02d-4a42-ade3-67b88ed95913 (v2+Edit-Pass: fernes Minarett entfernt; Basis 377e68f0; Assembly-Notiz: Ken-Burns-Start rechts, Rad-Karren links meiden)"
+  },
+  "ausschuss_lessons": "5 Kills im Akt-1-QC: 3x Minarett-Drift (s20,s23,s30 — gehärtete Positiv-Skyline-Formel wirkt zuverlässig), 1x eingeschmuggelte Tomaten (s17 — Markt-Prompts brauchen 'NO red round fruits'-Klausel + explizite Alternativ-Früchte), 1x nsfw-Fehlfilter ('children' in Marktprompts vermeiden)"
+ },
+ "akt2_stills": {
+  "status": "32/32 generiert; 28 QC-PASS, 4 Retries laufen (s34 Türkei-Flaggen!, s42 Kaiser-Gesicht, s53 Minarette, s62 Kalligraphie-Medaillons von 1849!)",
+  "shots": {
+   "s32": "13f7015f",
+   "s33": "dfdd3c6f",
+   "s34": "RETRY 620fc82d (v1 3385e151 hatte MODERNE TÜRKEI-FLAGGEN im Lager)",
+   "s35": "233a5ceb",
+   "s37": "cf77b3c3",
+   "s38": "7b5801f6",
+   "s39": "5428f002",
+   "s40": "f77bc59a",
+   "s41": "2b9bbbe2",
+   "s42": "RETRY d81e574a mit Konstantin-Referenz (v1 0d0008f0 Kaiser-Gesicht inkonsistent)",
+   "s44": "fa5cba15 (HERO)",
+   "s45": "765d893c (HERO, FEHLER-SHOT: Tomatenkorb klar sichtbar, faires Spiel bestätigt)",
+   "s46": "aa10bfc5",
+   "s47": "feb8590c",
+   "s48": "936a495b",
+   "s49": "9056d59b (HERO)",
+   "s50": "88c51a04",
+   "s52": "67f6cb17",
+   "s53": "RETRY c4bd7312 (v1 4aeb70ef hatte 3 Minarette an der Hagia Sophia)",
+   "s54": "d34a5349",
+   "s55": "b2c5a670 (HERO Signature)",
+   "s56": "076c9f4c",
+   "s57": "5ccf61ce",
+   "s59": "61e99eac (HERO)",
+   "s59b": "adcaf645",
+   "s59c": "9e75af05",
+   "s59d": "29e46e88",
+   "s60": "4b80f35a",
+   "s61": "70ea4a77 (Notiz: Öllampe rechts — byzantinische Glasöllampen belegt, ok)",
+   "s62": "RETRY c9378bb9 (v1 1952e24b hatte die 1849er-Kalligraphie-Medaillons 'Allah'/'Muhammad' — härtester Fund des QC)",
+   "s63": "1e485897",
+   "s64": "e72d9750 (HERO)"
+  },
+  "s30_final": "da9e4366 (Edit-Pass hat fernes Minarett erfolgreich entfernt — Edit-Workflow via image_references funktioniert für Retuschen)"
+ },
+ "akt2_retries_final": {
+  "s34": "386660b3 (v3 Edit: Purpur-Adler-Banner statt Halbmond-Fahne — Pink-Elephant-Lesson: verbotene Symbole NIE im Prompt benennen, stattdessen Edit-Pass)",
+  "s42": "d81e574a (v2, Konstantin-Ref)",
+  "s53": "c4bd7312 (v2)",
+  "s62": "c1ceff64 (v3 Edit: Medaillons entfernt)"
+ },
+ "akt34_qc_pass_direkt": "s65 s67 s69 s71 s72b s73 s74(HERO Liturgie) s75 s76(HERO) s76b s80 s82 s85 s86 s87 s89 s92 s93 s94 s95(HERO; Flare oben rechts bei Vollres prüfen) s96(HERO) s98 s99 s101 s102 s104(HERO) s105 s106(einzelnes Minarett 1460er historisch OK — erstes Holzminarett unter Mehmed) s109(Vesuv-Teaser EIN-Kegel perfekt)",
+ "akt3_stills_jobs_QC_AUSSTEHEND": {
+  "s65": "de24ce7b",
+  "s67": "170ce6ce",
+  "s69": "4a48becb",
+  "s70": "5ce9daac",
+  "s71": "c71029bd",
+  "s72": "aad23b94",
+  "s72b": "a79d2928",
+  "s72c": "bc0d1ab3 (Mehmed-Ref)",
+  "s73": "acbf397d",
+  "s74": "a3e333bf (HERO Liturgie)",
+  "s75": "bf01dca0 (Konstantin-Ref)",
+  "s76": "6ccbf3db (HERO, Konstantin-Ref)",
+  "s76b": "00154910 (Tuesday)",
+  "s78": "6252bf0a",
+  "s80": "a7f2470a",
+  "s81": "171ddacb (Barbaro-Ref)",
+  "s82": "a2c7b9e3",
+  "s83": "b8c55e0e (Giustiniani-Ref)",
+  "s85": "5a7abf58 (Janitscharen bork ohne Löffel)",
+  "s86": "14ffb6d9",
+  "s87": "0107ad1f (Giustiniani-Ref)",
+  "s89": "28ea101e (Kerkoporta)",
+  "s92": "cec0f1c9",
+  "s93": "de3c37be",
+  "s94": "1f3b4241",
+  "s95": "ce1627c6 (HERO)"
+ },
+ "akt4_stills_jobs_QC_AUSSTEHEND": {
+  "s96": "c20ba99b (HERO, Mehmed-Ref)",
+  "s97": "4b2cdd27",
+  "s98": "4ca1b837",
+  "s99": "c0b5283c",
+  "s100": "0b545fb1 (HERO Spinnennetz)",
+  "s101": "af2a0366",
+  "s102": "22b4c26e (Barbaro-Ref)",
+  "s104": "aa7763fb (HERO Marciana)",
+  "s105": "307f0eed (Edit des Master-Panoramas -> heute)",
+  "s106": "1f57f87e",
+  "s109": "f1a65403 (Vesuv EIN-Kegel-Teaser)"
+ },
+ "graphics_assembly": "s09 (Reichs-Karte), Teil von s24-27 (Mauer-Schema), s64-Zahlen-Overlay, s108, s110 = Karten/Templates im Assembly, keine Generierung",
+ "naechster_schritt": "QC-GATE 3 an User gesendet (Kontaktbogen 91 Stills) -> nach Freigabe: Schritt 4 Video-Clips (14 Stück: Time-Slip #16, Kanonenschuss #43, Schiffe-über-Land #57, Mondfinsternis #66, Elmsfeuer #68, u. a.) -> parallel Schritt 2 VO sobald ElevenLabs-Abo da (Stimmen-Bake-off)",
+ "akt34_qc_fixes_final": {
+  "s70": "5b9d2050 PASS",
+  "s72": "94a2f351 PASS",
+  "s72c": "c15b869b PASS (natürliche Augen; frontaler Blick = bewusste Schnitt-Option, kurze Standzeit)",
+  "s78": "ed98bb80 PASS",
+  "s81": "9d6e20be PASS",
+  "s83": "79e0aeb8 PASS",
+  "s97": "5cfaa2c3 PASS",
+  "s100": "94c22c9c PASS"
+ },
+ "schritt3_status": "KOMPLETT: 91 finale Stills (Akt 1-4) durch Vision-QC; 17 Kills/Fixes gesamt dokumentiert; Credits-Stand nach Schritt 3: 2.795 (verbraucht insgesamt ~215 inkl. Referenz-Assets — weit unter Budget ~280-330)"
 }
