@@ -39,8 +39,10 @@ const VERDICT_SCHEMA = {
   required: ['isReal', 'reasoning'],
 }
 
-const dir = (args && args.videoDir) || 'produktion/video-01-constantinople'
-const epoche = (args && args.epoche) || 'siehe Dossier'
+// args kann je nach Aufrufer als JSON-String statt Objekt ankommen -> beides tolerieren
+const _a = (typeof args === 'string') ? (() => { try { return JSON.parse(args) } catch (e) { return {} } })() : (args || {})
+const dir = _a.videoDir || 'produktion/video-01-constantinople'
+const epoche = _a.epoche || 'siehe Dossier'
 
 const CONTEXT = `Repo: /home/user/niche-finder. Zu pruefen: ${dir}/ (alle Dateien, v. a.
 01-recherche-dossier.md und 02-skript.md). Der Kanal verkauft QUELLEN-PRAEZISION als Marke -

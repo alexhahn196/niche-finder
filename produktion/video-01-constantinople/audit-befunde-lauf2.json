@@ -1,0 +1,50 @@
+{
+  "lauf": 2,
+  "datum": "2026-07-10",
+  "anlass": "fakten-audit-Workflow lief wegen args-String-Bug versehentlich erneut über video-01 (statt video-02) — Befunde waren echte Regressionen: Fixes aus Lauf 1 waren in Skript, aber nicht in Shotlist/Checkliste/Style-Bible eingearbeitet. Workflow-Skripte inzwischen gegen String-args gehärtet.",
+  "statistik": {
+    "linsen_funde": 35,
+    "adversarial_bestaetigt": 20,
+    "verify_am_session_limit_gescheitert": 14,
+    "davon_manuell_triagiert_und_gefixt": 13,
+    "offen": 1
+  },
+  "bestaetigt_und_gefixt": [
+    {"nr": 1, "sev": "kritisch", "fix": "Shotlist #81: erfundenes Diary-Zitat ('as if the world itself were breaking apart') entfernt -> Shot 81 = I (Barbaro unter Deck, ohne Karte); neues Diary-Insert #86b (Datumskarte 29. Mai, Zitat trägt VO)"},
+    {"nr": 2, "sev": "kritisch", "fix": "Melonen-Zitat: unmarkierte Änderungen ('into the sea' statt 'Dardanelles') -> markierte Auslassung 'The corpses of Turks and Christians [...] floated out to sea like melons along a canal.' in Skript + Dossier (Entscheidung dokumentiert)"},
+    {"nr": 4, "sev": "wichtig", "fix": "Sturm-Zitat der 3. Welle (Janitscharen) zugeordnet statt 2.; 'Silent.' -> 'In perfect order' + 'like lions'-Mikro-Zitat; Shotlist 85-86 + Audio-Spec S85 entsprechend; Dossier-Zitat 3 mit Wellen-Kontext"},
+    {"nr": 5, "sev": "wichtig", "fix": "Ketten-Bruch korrekt 1203 (Vierter Kreuzzug, erste Belagerung), Sack 1204 — Skript S24-25 + Dossier-Präzisierung"},
+    {"nr": 6, "sev": "wichtig", "fix": "'eighty-eighth emperor' (unbelegbare Ordnungszahl) -> 'the last emperor of the Romans'"},
+    {"nr": 7, "sev": "wichtig", "fix": "'boys fly kites' (unbelegt, anachronismusverdächtig, vermutl. Crowleys VOGEL-kite) -> 'wheat ripens inside the city walls, and vines climb through ruined courtyards' (= Shot #12); Sperrlisten-Eintrag Spielzeugdrachen"},
+    {"nr": 8, "sev": "wichtig", "fix": "Shotlist #54: Barbaro-Datumskarte '22. April' über Kritovoulos-Passage (vom Dossier verboten) -> Shot 54 = I (Vorbereitung hinter Galata), Kritovoulos-Attribution als Text-Overlay über 55-57; Style-Bible-Beispieldatum MAY 22"},
+    {"nr": 9, "sev": "wichtig", "fix": "End-Card #110 'CELER OF POMPEII' -> 'CELER OF HERCULANEUM'; Shot 109 'Pompeji-Teaser' -> 'Vesuv-79-Teaser' (+ EIN-Kegel-Hinweis)"},
+    {"nr": 11, "sev": "wichtig", "fix": "Wortzahl real >2.300 -> Skript um ~100 Wörter gestrafft auf ~2.250; EIN autoritatives Stille-Budget 68 s; Header/Footer/Checkliste (13k Zeichen) harmonisiert; Laufzeit ~16:10 in Toleranz"},
+    {"nr": 12, "sev": "wichtig", "fix": "Beat-Mapping: BRIDGE vor S20-S23 gezogen (Kalender 5.4. vor 6.4.), BRIDGE->20-31, S20-S23->32-34; 'APRIL 5'-Karte + Fischer-Motive gestrichen (Regieanweisung an vorhandene Shots angeglichen)"},
+    {"nr": 13, "sev": "wichtig", "fix": "7 fehlende Skript-v2-Shots eingefügt: 59b-59d Minenkrieg, 72b-72c Kriegsrat, 76b Tuesday, 86b Diary-Sturm; Zählung 117 Shots / ~94 I / 14 V / 5 G / 4 D; Credits 570-680 (Anm.: Verifier-Vorschlag '41b nach Shot 41' korrigiert — Beat-Reihenfolge verlangt Position nach #59)"},
+    {"nr": 14, "sev": "wichtig", "fix": "Checkliste Schritt-Budgets auf Premium-Kern angehoben: ~40 + ~280-330 + ~200-300 + Thumbnails ~20-30 ≈ 540-700; Headline 570-680 inkl. Retries"},
+    {"nr": 15, "sev": "wichtig", "fix": "HERO-Modell: 18 markierte Hero-Stills = Seedream quality=high; übrige PI/PO = Effizienz + Upscale mit Ken-Burns-Limit 5 % (Assembly erzwingt) — Regel in Checkliste + Shotlist-Zählung"},
+    {"nr": 17, "sev": "klein", "fix": "Stückzahlen harmonisiert: ~98 Bilder (94 I + 4 D), 14 Clips, QC-Gate-3 ~98"},
+    {"nr": 18, "sev": "klein", "fix": "Style-Bible §5 präzisiert: 4 D-Shots = 1 Intro-Look + 3 Datums-Karten; Karten als Text-Overlay im Assembly, nie im Bild-Prompt"},
+    {"nr": 19, "sev": "klein", "fix": "Veraltete Refs entfernt ('Skript-Ausbau auf 2.150' / '1.550 aktuell' / '12:30-Entscheidung') -> Skript FINAL ~2.250"},
+    {"nr": 20, "sev": "klein", "fix": "Audio-Spec Pausen-Beispiel: '5,7 km'-Kopplung (Dossier-verboten) -> echte Skriptzeile 'Twelve miles of wall — land and sea'"}
+  ],
+  "triagiert_ohne_adversarial_verify": [
+    {"titel": "Schiffe-über-Land als Nachtaktion", "status": "gefixt", "fix": "Skript 'At dawn'->'Then'; Shotlist 55-58 Zwielicht/neutral; Shorts-Hook 'The day a navy sailed over a hill'"},
+    {"titel": "Kritobulos-Zitat unmarkiert gekürzt", "status": "gefixt (konservativ)", "fix": "markierte Auslassung [...] statt stiller Kürzung; Vollform ('except to those who actually did see it') im Dossier notiert mit Prüf-Flag"},
+    {"titel": "'eight feet' vs 'two arm-spans' Widerspruch", "status": "gefixt", "fix": "zweite Angabe gestrichen"},
+    {"titel": "'570 years' (real 573)", "status": "gefixt", "fix": "2x 'nearly six centuries'"},
+    {"titel": "Spinnen-Vers ohne Übersetzungs-Fundstelle", "status": "gefixt", "fix": "Dossier-Zitat 5 ergänzt (Runciman Kap. 9, Tursun-Beg-Tradition, Prüf-Flag für Vollform)"},
+    {"titel": "'72 ships' als absolute Zahl (Kritobulos zählt ~67)", "status": "gefixt", "fix": "an Zeugen gebunden: 'Seventy-two ships — Barbaro counted them'"},
+    {"titel": "Minenkrieg zeitlich an 22. April gehängt", "status": "gefixt", "fix": "'In the weeks that follow'; Dossier-Nachtrag Mitte-Ende Mai"},
+    {"titel": "'erstmals seit Jahrzehnten gemeinsam' (Union-Liturgie 12.12.1452)", "status": "gefixt", "fix": "Dossier-Zeile korrigiert; Skript war bereits gehedged"},
+    {"titel": "Trapezunt-1461-Einwand ohne Preempt", "status": "gefixt", "fix": "Preempt-Satz in Pinned Comment (06-metadata)"},
+    {"titel": "Pausen-Beispiel 5,7 km", "status": "gefixt (Dublette zu #20)", "fix": "s. #20"},
+    {"titel": "Aussprache Palaiologos/Mehmed", "status": "gefixt", "fix": "pa-lay-o-LOH-gos; meh-MET (Endbetonung)"},
+    {"titel": "Shot #91 'Halosis!'-Ruf ungrammatisch", "status": "gefixt", "fix": "'Ealo i polis!' + Banner-Warnung (keine Stern-Halbmond-Flagge)"},
+    {"titel": "Sperrliste unvollständig", "status": "gefixt", "fix": "Dossier-Sperrliste + Stern-Halbmond-Flagge, Rad-Lafetten, Spielzeugdrachen"},
+    {"titel": "Veraltete Wortzahl-Angaben", "status": "gefixt (Dublette zu #11/#19)", "fix": "s. #11/#19"}
+  ],
+  "offen": [
+    {"titel": "Thumbnail-/Titel-Superlativ 'Last Day of Rome' vs. Trapezunt", "status": "entschieden: Titel bleibt, Preempt im Pinned Comment; bei Besserwisser-Kommentar-Welle ggf. Subline schärfen"}
+  ]
+}

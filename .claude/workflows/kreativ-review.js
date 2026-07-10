@@ -57,8 +57,10 @@ const SYNTH_SCHEMA = {
   required: ['regieanweisungen', 'verworfen', 'act_schreibnotizen'],
 }
 
-const dir = (args && args.videoDir) || 'produktion/video-01-constantinople'
-const zielWorte = (args && args.zielWorte) || 2150
+// args kann je nach Aufrufer als JSON-String statt Objekt ankommen -> beides tolerieren
+const _a = (typeof args === 'string') ? (() => { try { return JSON.parse(args) } catch (e) { return {} } })() : (args || {})
+const dir = _a.videoDir || 'produktion/video-01-constantinople'
+const zielWorte = _a.zielWorte || 2150
 
 const CONTEXT = `Repo: /home/user/niche-finder. Zu pruefen: ${dir}/02-skript.md (Ziel ~${zielWorte} Woerter).
 PFLICHT-KONTEXT vorher lesen: nische-playbook.md (§8 Hook-Formel, §9 drei Hook-Archetypen,

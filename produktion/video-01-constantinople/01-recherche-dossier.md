@@ -17,7 +17,7 @@ Constantinople 1453", Crowley "1453", Philippides/Hanak "The Siege and Fall".
 | Mai | Dauerbeschuss der Theodosianischen Mauern; Minenkrieg (serbische Bergleute vs. Johannes Grant); Reparaturen jede Nacht mit Fässern, Erde, Balken |
 | 22. Mai | Mondfinsternis - als Omen gedeutet (Prophezeiung: die Stadt fällt bei abnehmendem Mond) |
 | 26.-27. Mai | Unheimliches Licht über der Hagia Sophia (vermutl. Elmsfeuer); die Marien-Ikone stürzt bei der Prozession zu Boden; Nebel legt sich über die Stadt |
-| 28. Mai (Abend) | Letzte Liturgie in der Hagia Sophia - Orthodoxe und Katholiken beten erstmals seit Jahrzehnten GEMEINSAM |
+| 28. Mai (Abend) | Letzte Liturgie in der Hagia Sophia - nach der Tradition (Runciman) beten Orthodoxe und Katholiken GEMEINSAM. NICHT "erstmals seit Jahrzehnten" behaupten: bereits am 12.12.1452 fand die gemeinsame Unions-Liturgie (Isidor von Kiew) statt; Quellenlage dünn, im Skript attribuieren ("tradition records") |
 | 29. Mai, ~01:30 | Generalsturm in drei Wellen: Baschi-Bosuks (Irreguläre), dann anatolische Regimenter, dann die Janitscharen |
 | 29. Mai, Morgengrauen | Giustiniani wird schwer verwundet und evakuiert -> Moral bricht; die Kerkoporta (kleine Pforte) wird offen gefunden (Doukas); osmanische Fahnen auf der Mauer |
 | 29. Mai | Konstantin XI. wirft die Kaiserinsignien ab und stürzt sich in den Nahkampf - sein Leichnam wird nie sicher identifiziert |
@@ -46,6 +46,9 @@ Constantinople 1453", Crowley "1453", Philippides/Hanak "The Siege and Fall".
    12 miles of walls"). NIE die Landmauer allein für diese Zahl verwenden.
    **Wichtig 1204:** Der Vierte Kreuzzug nahm die Stadt über die SEEmauern/Kette -
    die Landmauern wurden nie im Sturm genommen; Superlative immer so scopen.
+   **Präzisierung (Audit-Lauf 2):** Kette gebrochen Juli 1203 (erste Belagerung,
+   Galata-Turm/Kettenwinde); Sturm auf die Seemauern + Sack April 1204 — im
+   Skript NIE beide Ereignisse unter einer Jahreszahl verschmelzen.
 2. **Hagia Sophia 1453** - Kuppel + Strebepfeiler, KEINE Minarette (erst nach der
    Eroberung); Innenraum: Goldmosaiken, Marmor, riesige Kerzenkronen
 3. **Goldenes Horn + Kette** - Sperrkette von Konstantinopel nach Galata
@@ -83,7 +86,9 @@ Constantinople 1453", Crowley "1453", Philippides/Hanak "The Siege and Fall".
 - **Minenkrieg:** serbische Mineure aus Novo Brdo; Gegenminen-Ingenieur
   Johannes Grant (Herkunft schottisch oder deutsch — im Skript neutral "an
   engineer named John Grant"); Ortung über Wasserschalen; ~14 Minen
-  entdeckt/zerstört (Crowley/Runciman) — Skript S41b.
+  entdeckt/zerstört (Crowley/Runciman) — Skript S41b. Zeitlich: Mitte bis
+  Ende Mai (erster Tunnel am 16. Mai entdeckt) — im Skript NICHT direkt an
+  den 22. April hängen ("in the weeks that follow").
 - **Galata:** offiziell neutral, Handel mit beiden Seiten; einzelne Warnungen
   an die Verteidiger überliefert — im Skript mit "some say"-Hedge.
 - **Orban-Bombarde imperial:** ~26-27 Fuß (~8,2 m); Kugel ~600 kg ≈ Gewicht
@@ -100,6 +105,12 @@ Constantinople 1453", Crowley "1453", Philippides/Hanak "The Siege and Fall".
 - ❌ Osmanische Schiffe mit Lateinersegel-Galeonen-Look des 16. Jh. - 1453: Galeeren/Fusten
 - ❌ Janitscharen im ikonischen Börk-mit-Löffel-Look des 17. Jh. - schlichter weißer Börk
 - ❌ Straßenpflaster-Perfektion, Glasfenster in Wohnhäusern, Uhren an Türmen
+- ❌ Stern-und-Halbmond-Flagge (19. Jh.!) — 1453: schlichte rote/grüne Banner,
+  Rossschweife (kritisch: Bildmodelle rendern bei "Ottoman flag" fast sicher
+  die moderne Flagge — Shot #91 explizit gegenprompten)
+- ❌ Kanonen auf Rad-Lafetten — Orbans Bombarde lag auf Schlitten/fester Bettung
+- ❌ Spielzeugdrachen (Kinder-Drachensteigen in Europa erst ab 16./17. Jh.
+  belegt; Crowleys "black kite" im Prolog ist der VOGEL Schwarzmilan)
 - ✅ ERLAUBT als Ausnahme: DAS EINE FALSCHE DETAIL (bewusst, siehe Style-Bible §6)
 
 ## Die Diary-Zitate — NUR BELEGTE WORTLAUTE (Audit-korrigiert 2026-07-09)
@@ -109,17 +120,36 @@ Kritobulos in der Riggs-Übersetzung. **Frühere Fassung enthielt 3 nicht-authen
 Zitate — ersetzt. Regel ab jetzt: kein wörtliches Zitat ohne notierte Fundstelle.**
 
 1. (22. April, Schiffe über Land) — Das berühmte Bild stammt NICHT von Barbaro,
-   sondern von KRITOBULOS: "a strange spectacle, unbelievable in the telling:
-   ships borne along on the mainland as if sailing on the sea, with their crews
-   and their sails and all their equipment." -> Im Skript als Erzähler-VO mit
-   Kritovoulos-Attribution (KEINE Barbaro-Datums-Karte). Barbaros eigener
-   22.-April-Eintrag ist technisch (gefettete Rollen, **72** Schiffe).
+   sondern von KRITOBULOS (Riggs). Skript-Fassung MIT markierter Auslassung
+   (Audit-Lauf 2 — Kürzung war vorher unmarkiert): "a strange spectacle, and
+   unbelievable in the telling [...] ships borne along on the mainland as if
+   sailing on the sea, with their crews and their sails and all their
+   equipment." Vollform lt. Riggs enthält "except to those who actually did
+   see it" — VOR etwaiger Verwendung der Vollform gegen die Ausgabe prüfen.
+   -> Im Skript als Erzähler-VO mit Kritovoulos-Attribution (KEINE
+   Barbaro-Datums-Karte; Shotlist #55-57 Text-Overlay "KRITOVOULOS, GREEK
+   CHRONICLER"). Barbaros eigener 22.-April-Eintrag ist technisch (gefettete
+   Rollen, **72** Schiffe — Kritobulos zählt ~67, deshalb bindet das Skript
+   die 72 an den Zeugen: "Barbaro counted them").
 2. (22. Mai, Mondfinsternis) Barbaro: "The moon rose... but it rose as if it
    were no more than a three-day moon, with only a little of it showing."
    Prophezeiung (separat im VO, ebenfalls bei Barbaro berichtet): die Stadt
-   falle erst, "when the full moon should give a sign".
-3. (29. Mai, Sturm) Barbaro: "It seemed a thing not of this world — the
-   shouting was heard as far away as Anatolia, twelve miles away from their camp."
-4. (29. Mai, Flucht) Barbaro: "The corpses of Turks and of Christians were
-   thrown into the sea — and they floated out to sea, like melons along a canal."
+   falle erst, "when the full moon should give a sign". -> Diary-Karte #65.
+3. (29. Mai, Sturm — DRITTE Welle/Janitscharen!) Barbaro: "It seemed a thing
+   not of this world — the shouting was heard as far away as Anatolia, twelve
+   miles away from their camp." Kontext lt. Melville-Jones: gehört zur
+   dritten Angriffsgruppe ("not like Turks but like lions, with such shouting
+   and sounding of castanets") — im Skript NUR an der Janitscharen-Welle
+   verwenden; "silent Janissaries" ist quellenwidrig. -> Diary-Karte #86b.
+4. (29. Mai, Flucht) Barbaro, mit markierter Auslassung (Audit-Lauf 2 —
+   Original: "...thrown into the Dardanelles, where they floated out to
+   sea..."): "The corpses of Turks and Christians [...] floated out to sea
+   like melons along a canal." Entscheidung: Auslassungs-Variante statt
+   stiller Ersetzung von "Dardanelles". -> Diary-Karte #101.
    (Der frühere Vorsatz "Wir kappten die Taue und beteten" war erfunden - gestrichen.)
+5. (Spinnen-Vers, Act 4) "The spider weaves the curtains in the palace of the
+   Caesars." — Wortlaut nach Runciman (The Fall of Constantinople 1453,
+   Kap. 9; persisches Distichon, via Tursun-Beg-Tradition); im Skript als
+   Überlieferung attribuiert ("so the Ottoman chroniclers would later
+   record"). Vollform mit zweiter Zeile ("the owl calls the watches in the
+   towers of Afrasiab") — vor etwaiger Nutzung gegen die Ausgabe prüfen.

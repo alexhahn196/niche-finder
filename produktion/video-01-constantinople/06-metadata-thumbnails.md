@@ -66,6 +66,9 @@ artistic interpretations of documented events.
 
 Volle Quellenliste (15+), Fehler-Spiel-Regeln, Stadtwahl-Zählung ("Vote mit A/B/C,
 Zählung Sonntag 18:00 UTC"), Dank + Frage: "Which detail surprised you most?"
+**Trapezunt-Preempt (Superlativ-Regel, Audit-Lauf 2):** "Yes — the breakaway
+Empire of Trebizond survived until 1461. But the Roman imperial line of
+Constantinople, unbroken since 330 AD, ended on this morning."
 
 ## YouTube-Einstellungen
 
@@ -79,5 +82,6 @@ Zählung Sonntag 18:00 UTC"), Dank + Frage: "Which detail surprised you most?"
 
 1. **Time-Slip-Short (15 s)**: Hagia Sophia heute -> 1453, Text: "In 1453, the
    minarets weren't there yet. Full reconstruction on the channel."
-2. **Ships-over-land-Short (25 s)**: S55-58-Sequenz, Hook-Text: "The night a
-   navy sailed over a mountain."
+2. **Ships-over-land-Short (25 s)**: S55-58-Sequenz, Hook-Text: "The day a
+   navy sailed over a hill — around an unbreakable chain." (Timing Tag/Nacht
+   in den Quellen uneins — nicht "night" behaupten; "mountain" wäre falsch)

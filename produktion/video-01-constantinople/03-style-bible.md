@@ -64,11 +64,16 @@ identische Komposition 1453: Minarette lösen sich auf, Werbetafeln/Menschenmeng
 weichen byzantinischen Prozessionsfahnen. Umsetzung: 2 Keyframes (image-to-image,
 gleiche Kamera) + Video-Morph. Wiederverwendbar als 15-s-Short.
 
-## 5. Diary-Inserts (4 Stück)
+## 5. Diary-Inserts (4 Shots: 1 Intro-Look + 3 Datums-Karten, Audit-Lauf 2)
 
 Eigenes visuelles Format: Nahaufnahme Manuskript/Feder im Kerzenlicht,
-Datums-Karte ("FROM THE DIARY OF NICOLÒ BARBARO — APRIL 22, 1453"),
+Datums-Karte ("FROM THE DIARY OF NICOLÒ BARBARO — MAY 22, 1453"),
 VO wechselt in leicht intimeren Ton. Selber Look bei allen 4 -> Ritual.
+Verteilung: Shot #18 = Intro-Look OHNE Zitat/Karte; #65 (22. Mai), #86b
+(29. Mai Sturm), #101 (29. Mai Flucht) = Datums-Karten, Zitat trägt IMMER
+das VO (Karten als exakter Text-Overlay im Assembly, nie im Bild-Prompt).
+Das Kritovoulos-Zitat (Schiffe über Land) läuft als Erzähler-VO mit
+Attributions-Overlay — NIEMALS im Barbaro-Diary-Rahmen (Dossier Zitat 1).
 
 ## 6. DAS EINE FALSCHE DETAIL (Video 01)
 

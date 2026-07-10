@@ -8,8 +8,10 @@
   Stability hoch, Style niedrig.
 - **Tempo:** 148-152 wpm Grundtempo. Diary-Inserts: -10 % Tempo, intimer.
   Act 3 Sturm: +5 %, härtere Konsonanten. Nach S77 ("the world ends"): 1,5 s Pause.
-- **Beat-Pausen:** nach jeder Zahlen-Salve (z. B. "Eight thousand defenders.
-  [Pause] Five point seven kilometers.") 0,6-0,8 s.
+- **Beat-Pausen:** nach jeder Zahlen-Salve (Beispiel = echte Skriptzeile:
+  "Eight thousand defenders. [Pause] Twelve miles of wall — land and sea.")
+  0,6-0,8 s. NIE die Landmauer-Länge (5,7 km) allein mit der 8.000er-Zahl
+  koppeln (Dossier-Scoping-Regel).
 - **Diary-Stimme:** gleiche Stimme, aber näher am Mikro (ElevenLabs: separates
   Rendering mit mehr "Similarity", leiser Raumhall in der Mischung).
 
@@ -20,10 +22,10 @@
 | Nicolò Barbaro | nee-ko-LO BAR-ba-ro |
 | Giustiniani | joo-stee-nee-AH-nee |
 | Theodosian | thee-o-DOH-shan |
-| Mehmed | MEH-met |
+| Mehmed | meh-MET (Endbetonung, türkisch) |
 | bashi-bazouks | BAH-shee-ba-ZOOKS |
 | Kerkoporta | ker-ko-POR-ta |
-| Palaiologos | pa-lay-OH-lo-gos |
+| Palaiologos | pa-lay-o-LOH-gos (Betonung vorletzte Silbe, griechisch) |
 | Mese | MEH-see |
 | Hagia Sophia | HAH-ya so-FEE-a |
 
@@ -36,7 +38,10 @@ Schlüssel-Momente (aus Shotlist):
 - S43 Kanonenschuss: voller Impact, danach 2 s Tinnitus-Piep + gedämpfte Welt
   (der "Saving-Private-Ryan-Moment" — stärkster Audio-Beat des Videos)
 - S56/77 Glocken-Fadeout in Totenstille vor dem Sturm — Stille ist der Jumpscare
-- S85 Janitscharen: KEINE Musik, nur synchroner Marschtritt (Disziplin = Grusel)
+- S85 Janitscharen: diszipliniertes Vorrücken in geschlossener Ordnung —
+  Sound-Design-Entscheidung: Musik weg, nur synchroner Marschtritt, DANN
+  anschwellendes Geschrei + Kastagnetten (Barbaro: Geschrei bis Anatolien
+  hörbar). KEINE Stille-Behauptung im VO — das wäre quellenwidrig.
 - S95 Panorama nach dem Fall: nur Wind. 15 Sekunden kein einziger Musikton.
 - Mehter-Trommeln als Spannungs-Thermometer: Act 1 fern -> Act 3 überall -> Act 4 weg
 
