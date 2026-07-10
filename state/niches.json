@@ -1,5 +1,5 @@
 {
-  "iterations": 12,
+  "iterations": 13,
   "niches": {
     "ki-automatisierung-kmu": {
       "id": "ki-automatisierung-kmu",
@@ -746,7 +746,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K2",
@@ -1500,7 +1500,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -2264,7 +2264,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -2977,7 +2977,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K6"
       ],
@@ -3729,7 +3729,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -4481,7 +4481,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -5233,7 +5233,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -5986,7 +5986,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -6739,7 +6739,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -7492,7 +7492,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -8245,7 +8245,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -9019,7 +9019,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -9793,7 +9793,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K6"
       ],
@@ -10556,7 +10556,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 61,
       "score_breakdown": {
@@ -11317,7 +11317,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -12070,7 +12070,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -12823,7 +12823,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -13576,7 +13576,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -14328,7 +14328,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -15081,7 +15081,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -15834,7 +15834,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -16587,7 +16587,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -17340,7 +17340,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -18092,7 +18092,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -18844,7 +18844,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -19595,7 +19595,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -20348,7 +20348,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -21112,7 +21112,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K6"
       ],
@@ -21850,7 +21850,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -22602,7 +22602,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -23354,7 +23354,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -24107,7 +24107,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -24860,7 +24860,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -25613,7 +25613,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K2",
@@ -26367,7 +26367,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -27130,7 +27130,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K6"
@@ -27896,7 +27896,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 57,
       "score_breakdown": {
@@ -28657,7 +28657,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -29442,7 +29442,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K2"
       ],
@@ -30216,7 +30216,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 51,
       "score_breakdown": {
@@ -30999,7 +30999,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 43,
       "score_breakdown": {
@@ -31771,7 +31771,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K2"
@@ -32525,7 +32525,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -33330,7 +33330,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 71,
       "score_breakdown": {
@@ -34091,7 +34091,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K2"
@@ -34856,7 +34856,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -35620,7 +35620,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 65,
       "score_breakdown": {
@@ -36392,7 +36392,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -37156,7 +37156,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 73,
       "score_breakdown": {
@@ -37939,7 +37939,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 73,
       "score_breakdown": {
@@ -38700,7 +38700,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -39451,7 +39451,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -40266,7 +40266,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K2"
       ],
@@ -41019,7 +41019,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -41793,7 +41793,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 68,
       "score_breakdown": {
@@ -42626,7 +42626,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K2"
       ],
@@ -43237,7 +43237,7 @@
           "living_outliers": []
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -43988,7 +43988,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -44773,7 +44773,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 60,
       "score_breakdown": {
@@ -45534,7 +45534,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K2"
@@ -46288,7 +46288,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -47093,7 +47093,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 85,
       "score_breakdown": {
@@ -47907,7 +47907,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K2"
@@ -48693,7 +48693,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 65,
       "score_breakdown": {
@@ -49475,7 +49475,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 63,
       "score_breakdown": {
@@ -50236,7 +50236,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -51011,7 +51011,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K2"
       ],
@@ -51775,7 +51775,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K2"
       ],
@@ -52528,7 +52528,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -53313,7 +53313,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 69,
       "score_breakdown": {
@@ -54156,7 +54156,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 86,
       "score_breakdown": {
@@ -54981,7 +54981,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 58,
       "score_breakdown": {
@@ -55753,7 +55753,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K2"
@@ -56507,7 +56507,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -57281,7 +57281,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -58045,7 +58045,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 75,
       "score_breakdown": {
@@ -58817,7 +58817,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 79,
       "score_breakdown": {
@@ -59578,7 +59578,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -60363,7 +60363,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 82,
       "score_breakdown": {
@@ -61166,7 +61166,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -61919,7 +61919,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K2"
@@ -62684,7 +62684,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 56,
       "score_breakdown": {
@@ -63487,7 +63487,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K2"
       ],
@@ -64272,7 +64272,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 77,
       "score_breakdown": {
@@ -65054,7 +65054,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 76,
       "score_breakdown": {
@@ -65816,7 +65816,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 81,
       "score_breakdown": {
@@ -66619,7 +66619,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -67383,7 +67383,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 58,
       "score_breakdown": {
@@ -68144,7 +68144,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -68918,7 +68918,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 62,
       "score_breakdown": {
@@ -69679,7 +69679,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -70453,7 +70453,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 76,
       "score_breakdown": {
@@ -71214,7 +71214,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K2"
@@ -71968,7 +71968,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1",
         "K2"
@@ -72744,7 +72744,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 55,
       "score_breakdown": {
@@ -73557,7 +73557,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 78,
       "score_breakdown": {
@@ -74318,7 +74318,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -75071,7 +75071,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -75824,7 +75824,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -76629,7 +76629,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K2"
       ],
@@ -77382,7 +77382,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -78146,7 +78146,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -78910,7 +78910,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 61,
       "score_breakdown": {
@@ -79692,7 +79692,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 84,
       "score_breakdown": {
@@ -80506,7 +80506,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -81259,7 +81259,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [
         "K1"
       ],
@@ -82044,7 +82044,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 74,
       "score_breakdown": {
@@ -82847,7 +82847,7 @@
           ]
         }
       },
-      "evaluated_at": "2026-07-05T07:29:07Z",
+      "evaluated_at": "2026-07-10T18:23:44Z",
       "kill_reasons": [],
       "score": 67,
       "score_breakdown": {
@@ -82858,6 +82858,2321 @@
         "feasibility_10": 8,
         "slop_penalty": -15,
         "de_transferability_10": 10,
+        "energiepilot_bonus_10": 0
+      }
+    },
+    "finanz-stories-animiert": {
+      "id": "finanz-stories-animiert",
+      "name": "Finanzkrisen & Geld-Stories — animierte Erklärstücke",
+      "topic": "Finanzgeschichte/Wirtschaft",
+      "audience": "Finanz-interessierte Laien (US/EN)",
+      "format": "Animierte Story-Erklärstücke (Crayon-Capital-Muster)",
+      "queries_en": [
+        "financial crisis explained",
+        "biggest corporate frauds documentary"
+      ],
+      "queries_de": [
+        "Finanzkrise einfach erklärt",
+        "Wirtschaftsskandale Doku"
+      ],
+      "rpm_category_usd": 15,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 8,
+      "de_transferability": 8,
+      "energiepilot_synergy": false,
+      "slop_share": 0.4,
+      "notes": "B-Sweep-Geld-Beweis: Crayon Capital (15,3 Mo, 25 Videos, 16,3M Lifetime-Views, Hits 4,1M/2,6M/2,2M, ~650k Views/Video ≈ 8-13k $ pro Video); Casual Finance (11,8 Mo, 1 LF-Video/Monat, ~404k Views/Video ≈ 5-8k $/Video, Run-Rate 9-15k $/Mo). Ceiling: How Money Works 36-72k $/Mo, Infographics Show 286-500k $/Mo. Affiliate: Broker, Budget-Apps, Kreditkarten (Top-Provisionen).",
+      "status": "evaluated",
+      "added_at": "2026-07-10T18:21:04Z",
+      "evidence": {
+        "en": {
+          "query": "financial crisis explained",
+          "lang": "en",
+          "result_count": 50,
+          "trend": "rising",
+          "trend_detail": {
+            "videos_0_6m": 2,
+            "videos_6_18m": 22,
+            "median_views_0_6m": 4155992.5,
+            "median_views_6_18m": 31399.0,
+            "rate_ratio": 0.18,
+            "view_ratio": 132.36
+          },
+          "saturation": {
+            "results": 50,
+            "unique_channels": 46,
+            "unique_ratio": 0.92,
+            "mega_channel_share": 0.3,
+            "young_channel_share": 0.18
+          },
+          "young_100k_channels": [
+            {
+              "channel_title": "The Money Files",
+              "channel_url": "https://www.youtube.com/channel/UCPBEqHIU1d4OFj7rHDooD4g",
+              "channel_age_months": 7.5,
+              "subscribers": 4840,
+              "best_video_title": "The Balkan Economic Trap No One Ever Escapes",
+              "best_video_url": "https://www.youtube.com/watch?v=2VbNiYupqc8",
+              "views": 106377,
+              "outlier_score": 91.7
+            }
+          ],
+          "top_outliers": [
+            {
+              "video_id": "bluUxKIB4pA",
+              "title": "Stock Market Crash of 2008",
+              "url": "https://www.youtube.com/watch?v=bluUxKIB4pA",
+              "views": 14364835,
+              "published_at": "2019-12-17T00:09:24Z",
+              "age_days": 2397,
+              "outlier_score": 45820.8,
+              "channel_title": "Danny Cheek",
+              "channel_url": "https://www.youtube.com/channel/UCJsc0uHyv_G5sIkAM1y0S7Q",
+              "channel_age_months": 122.4,
+              "channel_median_views": 313.5,
+              "channel_subscribers": 9020
+            },
+            {
+              "video_id": "wPNPvDA_GBs",
+              "title": "Stock Market Crash of 2020 Coronavirus",
+              "url": "https://www.youtube.com/watch?v=wPNPvDA_GBs",
+              "views": 152891,
+              "published_at": "2021-03-29T01:54:25Z",
+              "age_days": 1929,
+              "outlier_score": 487.7,
+              "channel_title": "Danny Cheek",
+              "channel_url": "https://www.youtube.com/channel/UCJsc0uHyv_G5sIkAM1y0S7Q",
+              "channel_age_months": 122.4,
+              "channel_median_views": 313.5,
+              "channel_subscribers": 9020
+            },
+            {
+              "video_id": "x4F5gIWS_Is",
+              "title": "The Great Depression - America's Biggest Economic Crisis | Free Documentary History",
+              "url": "https://www.youtube.com/watch?v=x4F5gIWS_Is",
+              "views": 3312608,
+              "published_at": "2023-02-21T23:00:25Z",
+              "age_days": 1234,
+              "outlier_score": 265.6,
+              "channel_title": "Free Documentary - History",
+              "channel_url": "https://www.youtube.com/channel/UCsgPO6cNV0wBG-Og3bUZoFA",
+              "channel_age_months": 69.9,
+              "channel_median_views": 12472.0,
+              "channel_subscribers": 1120000
+            },
+            {
+              "video_id": "GPOv72Awo68",
+              "title": "How it Happened - The 2008 Financial Crisis: Crash Course Economics #12",
+              "url": "https://www.youtube.com/watch?v=GPOv72Awo68",
+              "views": 4920196,
+              "published_at": "2015-10-21T22:32:47Z",
+              "age_days": 3914,
+              "outlier_score": 155.5,
+              "channel_title": "CrashCourse",
+              "channel_url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
+              "channel_age_months": 241.7,
+              "channel_median_views": 31647.0,
+              "channel_subscribers": 17100000
+            },
+            {
+              "video_id": "i-To1GILOhA",
+              "title": "Every Type of Investment Explained for Beginners",
+              "url": "https://www.youtube.com/watch?v=i-To1GILOhA",
+              "views": 100286,
+              "published_at": "2025-07-30T22:30:13Z",
+              "age_days": 344,
+              "outlier_score": 122.2,
+              "channel_title": "The Financial Archives",
+              "channel_url": "https://www.youtube.com/channel/UCGX87RKo_twbvQDIc9hCfBA",
+              "channel_age_months": 17.4,
+              "channel_median_views": 821.0,
+              "channel_subscribers": 3030
+            },
+            {
+              "video_id": "Xlou6iv3aJs",
+              "title": "What is Quantitative Easing? An Explantion of Quantitative Easing (QE)",
+              "url": "https://www.youtube.com/watch?v=Xlou6iv3aJs",
+              "views": 33979,
+              "published_at": "2021-09-14T18:24:18Z",
+              "age_days": 1759,
+              "outlier_score": 108.4,
+              "channel_title": "Danny Cheek",
+              "channel_url": "https://www.youtube.com/channel/UCJsc0uHyv_G5sIkAM1y0S7Q",
+              "channel_age_months": 122.4,
+              "channel_median_views": 313.5,
+              "channel_subscribers": 9020
+            },
+            {
+              "video_id": "2VbNiYupqc8",
+              "title": "The Balkan Economic Trap No One Ever Escapes",
+              "url": "https://www.youtube.com/watch?v=2VbNiYupqc8",
+              "views": 106377,
+              "published_at": "2026-01-16T00:03:42Z",
+              "age_days": 175,
+              "outlier_score": 91.7,
+              "channel_title": "The Money Files",
+              "channel_url": "https://www.youtube.com/channel/UCPBEqHIU1d4OFj7rHDooD4g",
+              "channel_age_months": 7.5,
+              "channel_median_views": 1160.5,
+              "channel_subscribers": 4840
+            },
+            {
+              "video_id": "bx_LWm6_6tA",
+              "title": "The Crisis of Credit Visualized - HD",
+              "url": "https://www.youtube.com/watch?v=bx_LWm6_6tA",
+              "views": 3211673,
+              "published_at": "2011-01-23T03:55:31Z",
+              "age_days": 5647,
+              "outlier_score": 52.8,
+              "channel_title": "graphixmdp",
+              "channel_url": "https://www.youtube.com/channel/UCsJx8_u0t6HhMOeetS1hQ4w",
+              "channel_age_months": 227.1,
+              "channel_median_views": 60814.0,
+              "channel_subscribers": 14100
+            }
+          ],
+          "channel_profiles": [
+            {
+              "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
+              "title": "The Diary Of A CEO",
+              "url": "https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw",
+              "age_months": 87.6,
+              "subscribers": 18100000,
+              "median_views": 535350.0,
+              "uploads_per_week": 5.34,
+              "last_upload_days_ago": 8
+            },
+            {
+              "channel_id": "UCX6b17PVsYBQ0ip5gyeme-Q",
+              "title": "CrashCourse",
+              "url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
+              "age_months": 241.7,
+              "subscribers": 17100000,
+              "median_views": 31647.0,
+              "uploads_per_week": 1.25,
+              "last_upload_days_ago": 15
+            },
+            {
+              "channel_id": "UCnxGkOGNMqQEUMvroOWps6Q",
+              "title": "JRE Clips",
+              "url": "https://www.youtube.com/channel/UCnxGkOGNMqQEUMvroOWps6Q",
+              "age_months": 113.6,
+              "subscribers": 8330000,
+              "median_views": 276015.5,
+              "uploads_per_week": 4.95,
+              "last_upload_days_ago": 1
+            },
+            {
+              "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+              "title": "ColdFusion",
+              "url": "https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A",
+              "age_months": 223.2,
+              "subscribers": 5220000,
+              "median_views": 567856.5,
+              "uploads_per_week": 1.07,
+              "last_upload_days_ago": 21
+            },
+            {
+              "channel_id": "UCsgPO6cNV0wBG-Og3bUZoFA",
+              "title": "Free Documentary - History",
+              "url": "https://www.youtube.com/channel/UCsgPO6cNV0wBG-Og3bUZoFA",
+              "age_months": 69.9,
+              "subscribers": 1120000,
+              "median_views": 12472.0,
+              "uploads_per_week": 1.66,
+              "last_upload_days_ago": 6
+            },
+            {
+              "channel_id": "UCP9RPj_BG0vit2TNM7LuRxA",
+              "title": "Crayon Capital",
+              "url": "https://www.youtube.com/channel/UCP9RPj_BG0vit2TNM7LuRxA",
+              "age_months": 15.3,
+              "subscribers": 226000,
+              "median_views": 210684.0,
+              "uploads_per_week": 0.37,
+              "last_upload_days_ago": 12
+            },
+            {
+              "channel_id": "UC_x-4nLmrEVrInhQ09x70RA",
+              "title": "Defiant Gatekeeper",
+              "url": "https://www.youtube.com/channel/UC_x-4nLmrEVrInhQ09x70RA",
+              "age_months": 20.0,
+              "subscribers": 96000,
+              "median_views": 32442.5,
+              "uploads_per_week": 0.94,
+              "last_upload_days_ago": 6
+            },
+            {
+              "channel_id": "UCsJx8_u0t6HhMOeetS1hQ4w",
+              "title": "graphixmdp",
+              "url": "https://www.youtube.com/channel/UCsJx8_u0t6HhMOeetS1hQ4w",
+              "age_months": 227.1,
+              "subscribers": 14100,
+              "median_views": 60814.0,
+              "uploads_per_week": 0.03,
+              "last_upload_days_ago": 5647
+            },
+            {
+              "channel_id": "UCJsc0uHyv_G5sIkAM1y0S7Q",
+              "title": "Danny Cheek",
+              "url": "https://www.youtube.com/channel/UCJsc0uHyv_G5sIkAM1y0S7Q",
+              "age_months": 122.4,
+              "subscribers": 9020,
+              "median_views": 313.5,
+              "uploads_per_week": 0.03,
+              "last_upload_days_ago": 84
+            },
+            {
+              "channel_id": "UCPBEqHIU1d4OFj7rHDooD4g",
+              "title": "The Money Files",
+              "url": "https://www.youtube.com/channel/UCPBEqHIU1d4OFj7rHDooD4g",
+              "age_months": 7.5,
+              "subscribers": 4840,
+              "median_views": 1160.5,
+              "uploads_per_week": 3.44,
+              "last_upload_days_ago": 158
+            },
+            {
+              "channel_id": "UCGX87RKo_twbvQDIc9hCfBA",
+              "title": "The Financial Archives",
+              "url": "https://www.youtube.com/channel/UCGX87RKo_twbvQDIc9hCfBA",
+              "age_months": 17.4,
+              "subscribers": 3030,
+              "median_views": 821.0,
+              "uploads_per_week": 0.35,
+              "last_upload_days_ago": 2
+            },
+            {
+              "channel_id": "UCoQNa4L9Lo-chmz3sPyqNbw",
+              "title": "The Invisible World™ ",
+              "url": "https://www.youtube.com/channel/UCoQNa4L9Lo-chmz3sPyqNbw",
+              "age_months": 11.0,
+              "subscribers": 646,
+              "median_views": 3227.5,
+              "uploads_per_week": 0.93,
+              "last_upload_days_ago": 10
+            },
+            {
+              "channel_id": "UCR92Wj-ENLVlxZ6ayZzLuGA",
+              "title": "Chai Pe Economics",
+              "url": "https://www.youtube.com/channel/UCR92Wj-ENLVlxZ6ayZzLuGA",
+              "age_months": 9.2,
+              "subscribers": 567,
+              "median_views": 1283.0,
+              "uploads_per_week": 1.21,
+              "last_upload_days_ago": 27
+            },
+            {
+              "channel_id": "UCXy-SAfG5Jv4T4Z0-zqRemA",
+              "title": "Stickonomics",
+              "url": "https://www.youtube.com/channel/UCXy-SAfG5Jv4T4Z0-zqRemA",
+              "age_months": 8.7,
+              "subscribers": 58,
+              "median_views": 1402.0,
+              "uploads_per_week": 2.55,
+              "last_upload_days_ago": 175
+            },
+            {
+              "channel_id": "UC9BVKXOlJprYJfNKNrV2kDQ",
+              "title": "Historyawn",
+              "url": "https://www.youtube.com/channel/UC9BVKXOlJprYJfNKNrV2kDQ",
+              "age_months": 7.6,
+              "subscribers": 24,
+              "median_views": 56.0,
+              "uploads_per_week": 7.0,
+              "last_upload_days_ago": 215
+            }
+          ],
+          "living_channel_count": 11,
+          "living_outliers": [
+            {
+              "video_id": "i-To1GILOhA",
+              "title": "Every Type of Investment Explained for Beginners",
+              "url": "https://www.youtube.com/watch?v=i-To1GILOhA",
+              "views": 100286,
+              "published_at": "2025-07-30T22:30:13Z",
+              "age_days": 344,
+              "outlier_score": 122.2,
+              "channel_title": "The Financial Archives",
+              "channel_url": "https://www.youtube.com/channel/UCGX87RKo_twbvQDIc9hCfBA",
+              "channel_age_months": 17.4,
+              "channel_median_views": 821.0,
+              "channel_subscribers": 3030
+            },
+            {
+              "video_id": "2VbNiYupqc8",
+              "title": "The Balkan Economic Trap No One Ever Escapes",
+              "url": "https://www.youtube.com/watch?v=2VbNiYupqc8",
+              "views": 106377,
+              "published_at": "2026-01-16T00:03:42Z",
+              "age_days": 175,
+              "outlier_score": 91.7,
+              "channel_title": "The Money Files",
+              "channel_url": "https://www.youtube.com/channel/UCPBEqHIU1d4OFj7rHDooD4g",
+              "channel_age_months": 7.5,
+              "channel_median_views": 1160.5,
+              "channel_subscribers": 4840
+            },
+            {
+              "video_id": "Bz7hgEAdsmM",
+              "title": "How Cutting Russia From SWIFT Destroyed the Dollar Forever",
+              "url": "https://www.youtube.com/watch?v=Bz7hgEAdsmM",
+              "views": 51431,
+              "published_at": "2025-12-10T10:00:31Z",
+              "age_days": 212,
+              "outlier_score": 44.3,
+              "channel_title": "The Money Files",
+              "channel_url": "https://www.youtube.com/channel/UCPBEqHIU1d4OFj7rHDooD4g",
+              "channel_age_months": 7.5,
+              "channel_median_views": 1160.5,
+              "channel_subscribers": 4840
+            },
+            {
+              "video_id": "zzNjEYRdvIM",
+              "title": "The Rich Are Going Bankrupt — And It’s Accelerating",
+              "url": "https://www.youtube.com/watch?v=zzNjEYRdvIM",
+              "views": 48125,
+              "published_at": "2026-01-01T20:44:23Z",
+              "age_days": 189,
+              "outlier_score": 41.5,
+              "channel_title": "The Money Files",
+              "channel_url": "https://www.youtube.com/channel/UCPBEqHIU1d4OFj7rHDooD4g",
+              "channel_age_months": 7.5,
+              "channel_median_views": 1160.5,
+              "channel_subscribers": 4840
+            },
+            {
+              "video_id": "FKfc6LgpxQk",
+              "title": "Lockdown 2026? Truth No One Is Telling You #chaipeeconomics #lockdown",
+              "url": "https://www.youtube.com/watch?v=FKfc6LgpxQk",
+              "views": 39100,
+              "published_at": "2026-03-24T20:15:11Z",
+              "age_days": 107,
+              "outlier_score": 30.5,
+              "channel_title": "Chai Pe Economics",
+              "channel_url": "https://www.youtube.com/channel/UCR92Wj-ENLVlxZ6ayZzLuGA",
+              "channel_age_months": 9.2,
+              "channel_median_views": 1283.0,
+              "channel_subscribers": 567
+            }
+          ]
+        },
+        "de": {
+          "query": "Finanzkrise einfach erklärt",
+          "lang": "de",
+          "result_count": 50,
+          "trend": "flat",
+          "trend_detail": {
+            "videos_0_6m": 3,
+            "videos_6_18m": 6,
+            "median_views_0_6m": 87.0,
+            "median_views_6_18m": 185.0,
+            "rate_ratio": 1.0,
+            "view_ratio": 0.47
+          },
+          "saturation": {
+            "results": 50,
+            "unique_channels": 45,
+            "unique_ratio": 0.9,
+            "mega_channel_share": 0.14,
+            "young_channel_share": 0.14
+          },
+          "young_100k_channels": [],
+          "top_outliers": [
+            {
+              "video_id": "un4kvukAfcI",
+              "title": "Volker Pispers: Geldsystem einfach erklärt!",
+              "url": "https://www.youtube.com/watch?v=un4kvukAfcI",
+              "views": 581663,
+              "published_at": "2017-05-14T19:47:44Z",
+              "age_days": 3343,
+              "outlier_score": 3069.5,
+              "channel_title": "Josef Schöftenhuber",
+              "channel_url": "https://www.youtube.com/channel/UC4SUNtbSKS8zwe2GGv7jmIg",
+              "channel_age_months": 194.2,
+              "channel_median_views": 189.5,
+              "channel_subscribers": 5020
+            },
+            {
+              "video_id": "k1AJ-PuBQUc",
+              "title": "CR Booster Aus 2018 Geöffnet Rare Karte Gezogen!",
+              "url": "https://www.youtube.com/watch?v=k1AJ-PuBQUc",
+              "views": 2204234,
+              "published_at": "2026-01-21T14:57:01Z",
+              "age_days": 170,
+              "outlier_score": 365.2,
+              "channel_title": "Aktienavocado",
+              "channel_url": "https://www.youtube.com/channel/UCBk8DkN4zUw3BBKBNceO_CQ",
+              "channel_age_months": 52.3,
+              "channel_median_views": 6036.0,
+              "channel_subscribers": 56900
+            },
+            {
+              "video_id": "APagAAsmAik",
+              "title": "Europäisches Finanzsystem Die Warnzeichen nehmen zu!!!",
+              "url": "https://www.youtube.com/watch?v=APagAAsmAik",
+              "views": 45493,
+              "published_at": "2019-02-10T17:04:22Z",
+              "age_days": 2707,
+              "outlier_score": 240.1,
+              "channel_title": "Josef Schöftenhuber",
+              "channel_url": "https://www.youtube.com/channel/UC4SUNtbSKS8zwe2GGv7jmIg",
+              "channel_age_months": 194.2,
+              "channel_median_views": 189.5,
+              "channel_subscribers": 5020
+            },
+            {
+              "video_id": "ihT6uOSl5s0",
+              "title": "Dirk Müller über unser Geldsystem",
+              "url": "https://www.youtube.com/watch?v=ihT6uOSl5s0",
+              "views": 1813536,
+              "published_at": "2011-09-28T15:41:33Z",
+              "age_days": 5399,
+              "outlier_score": 231.4,
+              "channel_title": "TheRedefreiheit",
+              "channel_url": "https://www.youtube.com/channel/UCTlAvjAuaq5gKfKm3BfateA",
+              "channel_age_months": 204.9,
+              "channel_median_views": 7838.5,
+              "channel_subscribers": 1770
+            },
+            {
+              "video_id": "Rzr30c02XyI",
+              "title": "Markus Lanz wird von Wagenknecht gedemütigt #politik #deutschland #wagenknecht #lanz",
+              "url": "https://www.youtube.com/watch?v=Rzr30c02XyI",
+              "views": 1707497,
+              "published_at": "2024-03-28T11:00:21Z",
+              "age_days": 834,
+              "outlier_score": 115.4,
+              "channel_title": "tinytalksreviews",
+              "channel_url": "https://www.youtube.com/channel/UCyRYZlLzKYULHXdj3SUtBxw",
+              "channel_age_months": 39.4,
+              "channel_median_views": 14794.5,
+              "channel_subscribers": 9660
+            },
+            {
+              "video_id": "Beaa9-KVitE",
+              "title": "Warum Habeck unsere Stromversorgung zerstört #politik #deutschland #habeck",
+              "url": "https://www.youtube.com/watch?v=Beaa9-KVitE",
+              "views": 1058371,
+              "published_at": "2024-04-05T10:00:07Z",
+              "age_days": 826,
+              "outlier_score": 71.5,
+              "channel_title": "tinytalksreviews",
+              "channel_url": "https://www.youtube.com/channel/UCyRYZlLzKYULHXdj3SUtBxw",
+              "channel_age_months": 39.4,
+              "channel_median_views": 14794.5,
+              "channel_subscribers": 9660
+            },
+            {
+              "video_id": "QvEmsms7ngY",
+              "title": "Gregor Gysi platzt der Kragen #politik #deutschland #gysi",
+              "url": "https://www.youtube.com/watch?v=QvEmsms7ngY",
+              "views": 843100,
+              "published_at": "2024-03-22T11:00:32Z",
+              "age_days": 840,
+              "outlier_score": 57.0,
+              "channel_title": "tinytalksreviews",
+              "channel_url": "https://www.youtube.com/channel/UCyRYZlLzKYULHXdj3SUtBxw",
+              "channel_age_months": 39.4,
+              "channel_median_views": 14794.5,
+              "channel_subscribers": 9660
+            },
+            {
+              "video_id": "4DsIpONDMo8",
+              "title": "Paul Panzer erklärt die Finanzkrise in 5 Sätzen!",
+              "url": "https://www.youtube.com/watch?v=4DsIpONDMo8",
+              "views": 287823,
+              "published_at": "2023-05-05T15:00:03Z",
+              "age_days": 1162,
+              "outlier_score": 47.7,
+              "channel_title": "Aktienavocado",
+              "channel_url": "https://www.youtube.com/channel/UCBk8DkN4zUw3BBKBNceO_CQ",
+              "channel_age_months": 52.3,
+              "channel_median_views": 6036.0,
+              "channel_subscribers": 56900
+            }
+          ],
+          "channel_profiles": [
+            {
+              "channel_id": "UCLLibJTCy3sXjHLVaDimnpQ",
+              "title": "ARTEde",
+              "url": "https://www.youtube.com/channel/UCLLibJTCy3sXjHLVaDimnpQ",
+              "age_months": 230.2,
+              "subscribers": 2710000,
+              "median_views": 27909.5,
+              "uploads_per_week": 50.75,
+              "last_upload_days_ago": 7
+            },
+            {
+              "channel_id": "UCeARcCUiZg79SQQ-2_XNlXQ",
+              "title": "Finanzfluss",
+              "url": "https://www.youtube.com/channel/UCeARcCUiZg79SQQ-2_XNlXQ",
+              "age_months": 130.7,
+              "subscribers": 1630000,
+              "median_views": 24020.0,
+              "uploads_per_week": 18.45,
+              "last_upload_days_ago": 7
+            },
+            {
+              "channel_id": "UCA3mpqm67CpJ13YfA8qAnow",
+              "title": "Terra X History",
+              "url": "https://www.youtube.com/channel/UCA3mpqm67CpJ13YfA8qAnow",
+              "age_months": 116.8,
+              "subscribers": 1400000,
+              "median_views": 162317.0,
+              "uploads_per_week": 1.97,
+              "last_upload_days_ago": 7
+            },
+            {
+              "channel_id": "UC7FeuS5wwfSR9IwOPkBV7SQ",
+              "title": "ZDFinfo Dokus & Reportagen",
+              "url": "https://www.youtube.com/channel/UC7FeuS5wwfSR9IwOPkBV7SQ",
+              "age_months": 109.6,
+              "subscribers": 775000,
+              "median_views": 148367.5,
+              "uploads_per_week": 6.15,
+              "last_upload_days_ago": 7
+            },
+            {
+              "channel_id": "UCYUZr-O3UdDdm_mF4XA_TbA",
+              "title": "explainity ® Erklärvideos",
+              "url": "https://www.youtube.com/channel/UCYUZr-O3UdDdm_mF4XA_TbA",
+              "age_months": 183.4,
+              "subscribers": 246000,
+              "median_views": 34009.0,
+              "uploads_per_week": 0.25,
+              "last_upload_days_ago": 674
+            },
+            {
+              "channel_id": "UCBk8DkN4zUw3BBKBNceO_CQ",
+              "title": "Aktienavocado",
+              "url": "https://www.youtube.com/channel/UCBk8DkN4zUw3BBKBNceO_CQ",
+              "age_months": 52.3,
+              "subscribers": 56900,
+              "median_views": 6036.0,
+              "uploads_per_week": 1.25,
+              "last_upload_days_ago": 10
+            },
+            {
+              "channel_id": "UCyRYZlLzKYULHXdj3SUtBxw",
+              "title": "tinytalksreviews",
+              "url": "https://www.youtube.com/channel/UCyRYZlLzKYULHXdj3SUtBxw",
+              "age_months": 39.4,
+              "subscribers": 9660,
+              "median_views": 14794.5,
+              "uploads_per_week": 4.23,
+              "last_upload_days_ago": 793
+            },
+            {
+              "channel_id": "UC4SUNtbSKS8zwe2GGv7jmIg",
+              "title": "Josef Schöftenhuber",
+              "url": "https://www.youtube.com/channel/UC4SUNtbSKS8zwe2GGv7jmIg",
+              "age_months": 194.2,
+              "subscribers": 5020,
+              "median_views": 189.5,
+              "uploads_per_week": 0.08,
+              "last_upload_days_ago": 103
+            },
+            {
+              "channel_id": "UC2X9szi1Klv-NDKoV9zVJgQ",
+              "title": "StudioEinfach - Wissen, das Klick macht! ",
+              "url": "https://www.youtube.com/channel/UC2X9szi1Klv-NDKoV9zVJgQ",
+              "age_months": 8.4,
+              "subscribers": 1860,
+              "median_views": 44.0,
+              "uploads_per_week": 40.6,
+              "last_upload_days_ago": 49
+            },
+            {
+              "channel_id": "UCTlAvjAuaq5gKfKm3BfateA",
+              "title": "TheRedefreiheit",
+              "url": "https://www.youtube.com/channel/UCTlAvjAuaq5gKfKm3BfateA",
+              "age_months": 204.9,
+              "subscribers": 1770,
+              "median_views": 7838.5,
+              "uploads_per_week": 0.03,
+              "last_upload_days_ago": 5399
+            },
+            {
+              "channel_id": "UCY6PlkFbGRaecBwrgnSSnMA",
+              "title": "FinanzDenken",
+              "url": "https://www.youtube.com/channel/UCY6PlkFbGRaecBwrgnSSnMA",
+              "age_months": 8.4,
+              "subscribers": 1060,
+              "median_views": 1024.0,
+              "uploads_per_week": 1.28,
+              "last_upload_days_ago": 10
+            },
+            {
+              "channel_id": "UCzOjpjD7omlNDk1woTvlwnA",
+              "title": "qwertlp97",
+              "url": "https://www.youtube.com/channel/UCzOjpjD7omlNDk1woTvlwnA",
+              "age_months": 171.1,
+              "subscribers": 163,
+              "median_views": 87505.0,
+              "uploads_per_week": 0.04,
+              "last_upload_days_ago": 4836
+            },
+            {
+              "channel_id": "UCyE_qz_2ndfgpYl4dCCD4vA",
+              "title": "PrintedSuccess",
+              "url": "https://www.youtube.com/channel/UCyE_qz_2ndfgpYl4dCCD4vA",
+              "age_months": 19.2,
+              "subscribers": 116,
+              "median_views": 1018.0,
+              "uploads_per_week": 4.14,
+              "last_upload_days_ago": 314
+            },
+            {
+              "channel_id": "UCGFOZKYfOitL8w7UcoU699Q",
+              "title": "Finanzlogik - Wirtschaft entschlüsselt",
+              "url": "https://www.youtube.com/channel/UCGFOZKYfOitL8w7UcoU699Q",
+              "age_months": 5.0,
+              "subscribers": 15,
+              "median_views": 31.0,
+              "uploads_per_week": 1.42,
+              "last_upload_days_ago": 55
+            },
+            {
+              "channel_id": "UCRZOqZC6Z06ugawWSRxP3pA",
+              "title": "KYRIONMONEY-AL",
+              "url": "https://www.youtube.com/channel/UCRZOqZC6Z06ugawWSRxP3pA",
+              "age_months": 9.3,
+              "subscribers": 0,
+              "median_views": 9.0,
+              "uploads_per_week": 3.0,
+              "last_upload_days_ago": 235
+            }
+          ],
+          "living_channel_count": 9,
+          "living_outliers": [
+            {
+              "video_id": "k1AJ-PuBQUc",
+              "title": "CR Booster Aus 2018 Geöffnet Rare Karte Gezogen!",
+              "url": "https://www.youtube.com/watch?v=k1AJ-PuBQUc",
+              "views": 2204234,
+              "published_at": "2026-01-21T14:57:01Z",
+              "age_days": 170,
+              "outlier_score": 365.2,
+              "channel_title": "Aktienavocado",
+              "channel_url": "https://www.youtube.com/channel/UCBk8DkN4zUw3BBKBNceO_CQ",
+              "channel_age_months": 52.3,
+              "channel_median_views": 6036.0,
+              "channel_subscribers": 56900
+            },
+            {
+              "video_id": "1bXy2UxlUek",
+              "title": "Bernd Schröder warnt: Was bei Silber kommt ist größer als alle glauben! (Sei vorbereitet)",
+              "url": "https://www.youtube.com/watch?v=1bXy2UxlUek",
+              "views": 34291,
+              "published_at": "2026-04-01T13:15:00Z",
+              "age_days": 100,
+              "outlier_score": 33.5,
+              "channel_title": "FinanzDenken",
+              "channel_url": "https://www.youtube.com/channel/UCY6PlkFbGRaecBwrgnSSnMA",
+              "channel_age_months": 8.4,
+              "channel_median_views": 1024.0,
+              "channel_subscribers": 1060
+            },
+            {
+              "video_id": "OHZYEx7_9Ww",
+              "title": "CR Booster Aus 2018 Geöffnet Epische Karte Gezogen!",
+              "url": "https://www.youtube.com/watch?v=OHZYEx7_9Ww",
+              "views": 148056,
+              "published_at": "2026-01-23T15:57:00Z",
+              "age_days": 168,
+              "outlier_score": 24.5,
+              "channel_title": "Aktienavocado",
+              "channel_url": "https://www.youtube.com/channel/UCBk8DkN4zUw3BBKBNceO_CQ",
+              "channel_age_months": 52.3,
+              "channel_median_views": 6036.0,
+              "channel_subscribers": 56900
+            },
+            {
+              "video_id": "ZhzepYmpnk8",
+              "title": "Putins Fassade bröckelt: Moskau unter Drohnen | Tracks East | ARTE",
+              "url": "https://www.youtube.com/watch?v=ZhzepYmpnk8",
+              "views": 682306,
+              "published_at": "2026-07-02T16:30:27Z",
+              "age_days": 8,
+              "outlier_score": 24.4,
+              "channel_title": "ARTEde",
+              "channel_url": "https://www.youtube.com/channel/UCLLibJTCy3sXjHLVaDimnpQ",
+              "channel_age_months": 230.2,
+              "channel_median_views": 27909.5,
+              "channel_subscribers": 2710000
+            },
+            {
+              "video_id": "UknMsqird34",
+              "title": "CR Booster Aus 2018 Geöffnet Rare Karte Gezogen!",
+              "url": "https://www.youtube.com/watch?v=UknMsqird34",
+              "views": 129282,
+              "published_at": "2026-01-24T08:45:06Z",
+              "age_days": 167,
+              "outlier_score": 21.4,
+              "channel_title": "Aktienavocado",
+              "channel_url": "https://www.youtube.com/channel/UCBk8DkN4zUw3BBKBNceO_CQ",
+              "channel_age_months": 52.3,
+              "channel_median_views": 6036.0,
+              "channel_subscribers": 56900
+            }
+          ]
+        }
+      },
+      "evaluated_at": "2026-07-10T18:23:44Z",
+      "kill_reasons": [],
+      "score": 79,
+      "score_breakdown": {
+        "newcomer_25": 17,
+        "monetization_25": 22,
+        "trend_15": 12,
+        "saturation_inverse_15": 11,
+        "feasibility_10": 8,
+        "slop_penalty": 0,
+        "de_transferability_10": 9,
+        "energiepilot_bonus_10": 0
+      }
+    },
+    "reichen-geld-strategien": {
+      "id": "reichen-geld-strategien",
+      "name": "Steuertricks & Geld-Strategien der Reichen — animiert erklärt",
+      "topic": "Personal Finance/Steuern",
+      "audience": "Vermögensaufbau-Publikum (US/EN)",
+      "format": "Animierte Erklärstücke (Nick-Invests-Muster)",
+      "queries_en": [
+        "how billionaires avoid taxes",
+        "the truth about credit cards"
+      ],
+      "queries_de": [
+        "Steuertricks der Reichen",
+        "Geld Strategien einfach erklärt"
+      ],
+      "rpm_category_usd": 22,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 8,
+      "de_transferability": 7,
+      "energiepilot_synergy": false,
+      "slop_share": null,
+      "notes": "B-Sweep: Nick Invests (17,9 Mo, Whiteboard-Animation faceless, 469k LF-Views/Mo, bei Personal-Finance-RPM 20-35$ ≈ 9-16k $/Mo Run-Rate; 16,6M Lifetime-Views). Personal-Finance/Kreditkarten = höchste RPM-Klasse auf YouTube. US-Steuerdetails auf Prinzip-Ebene erzählbar, K4 nicht nötig.",
+      "status": "killed",
+      "added_at": "2026-07-10T18:21:04Z",
+      "evidence": {
+        "en": {
+          "query": "how billionaires avoid taxes",
+          "lang": "en",
+          "result_count": 50,
+          "trend": "falling",
+          "trend_detail": {
+            "videos_0_6m": 4,
+            "videos_6_18m": 19,
+            "median_views_0_6m": 64985.0,
+            "median_views_6_18m": 158685.0,
+            "rate_ratio": 0.42,
+            "view_ratio": 0.41
+          },
+          "saturation": {
+            "results": 50,
+            "unique_channels": 43,
+            "unique_ratio": 0.86,
+            "mega_channel_share": 0.32,
+            "young_channel_share": 0.1
+          },
+          "young_100k_channels": [],
+          "top_outliers": [
+            {
+              "video_id": "VyeS0XiYJwk",
+              "title": "How Billionaires Avoid Paying Tax",
+              "url": "https://www.youtube.com/watch?v=VyeS0XiYJwk",
+              "views": 8206483,
+              "published_at": "2024-12-20T12:34:36Z",
+              "age_days": 567,
+              "outlier_score": 2481.5,
+              "channel_title": "BizFortunes",
+              "channel_url": "https://www.youtube.com/channel/UCuxucP6RpmbcSXmJc5RME2w",
+              "channel_age_months": 19.3,
+              "channel_median_views": 3307.0,
+              "channel_subscribers": 91100
+            },
+            {
+              "video_id": "zb9n9_wSu8o",
+              "title": "Ever wondered how billionaires avoid paying taxes on their shares.",
+              "url": "https://www.youtube.com/watch?v=zb9n9_wSu8o",
+              "views": 24778540,
+              "published_at": "2025-03-16T17:06:04Z",
+              "age_days": 481,
+              "outlier_score": 1759.6,
+              "channel_title": "Dispute Beast",
+              "channel_url": "https://www.youtube.com/channel/UCPkfCkus8mz94aYy57jJMuQ",
+              "channel_age_months": 30.6,
+              "channel_median_views": 14082.0,
+              "channel_subscribers": 113000
+            },
+            {
+              "video_id": "UdPfvrK8jWE",
+              "title": "Mark Cuban Bought The Mavs Like Like It Was Nothing",
+              "url": "https://www.youtube.com/watch?v=UdPfvrK8jWE",
+              "views": 8808441,
+              "published_at": "2024-02-15T10:00:21Z",
+              "age_days": 876,
+              "outlier_score": 974.8,
+              "channel_title": "INVESIGHT",
+              "channel_url": "https://www.youtube.com/channel/UCESqlpph_IUi1mzvnGJgWhg",
+              "channel_age_months": 47.7,
+              "channel_median_views": 9036.5,
+              "channel_subscribers": 33400
+            },
+            {
+              "video_id": "_9ehONOxy5o",
+              "title": "How Big Earners Reduce their Taxes to Zero",
+              "url": "https://www.youtube.com/watch?v=_9ehONOxy5o",
+              "views": 2922132,
+              "published_at": "2021-08-24T12:30:06Z",
+              "age_days": 1781,
+              "outlier_score": 616.5,
+              "channel_title": "Grant Cardone",
+              "channel_url": "https://www.youtube.com/channel/UCdlNK1xcy-Sn8liq7feNxWw",
+              "channel_age_months": 224.8,
+              "channel_median_views": 4740.0,
+              "channel_subscribers": 3130000
+            },
+            {
+              "video_id": "zChUj46DtM4",
+              "title": "How to AVOID paying taxes (LEGAL)",
+              "url": "https://www.youtube.com/watch?v=zChUj46DtM4",
+              "views": 5274970,
+              "published_at": "2022-05-09T22:59:30Z",
+              "age_days": 1522,
+              "outlier_score": 449.5,
+              "channel_title": "Franklin Broke",
+              "channel_url": "https://www.youtube.com/channel/UCfIGMYNNkXdZurU7d6OqTCw",
+              "channel_age_months": 82.8,
+              "channel_median_views": 11736.0,
+              "channel_subscribers": 311000
+            },
+            {
+              "video_id": "v8yuSG0ZtUs",
+              "title": "How the Wealthy Avoid Paying Taxes",
+              "url": "https://www.youtube.com/watch?v=v8yuSG0ZtUs",
+              "views": 1299141,
+              "published_at": "2025-04-05T18:30:58Z",
+              "age_days": 460,
+              "outlier_score": 236.0,
+              "channel_title": "Jasmine DiLucci, Tax Attorney, CPA, EA",
+              "channel_url": "https://www.youtube.com/channel/UCbn3_LKM-WksMMgvBABf72Q",
+              "channel_age_months": 150.9,
+              "channel_median_views": 5504.5,
+              "channel_subscribers": 643000
+            },
+            {
+              "video_id": "GbB4Opm706g",
+              "title": "How Elon Musk Avoids Taxes",
+              "url": "https://www.youtube.com/watch?v=GbB4Opm706g",
+              "views": 1954798,
+              "published_at": "2024-02-10T10:00:10Z",
+              "age_days": 881,
+              "outlier_score": 216.3,
+              "channel_title": "INVESIGHT",
+              "channel_url": "https://www.youtube.com/channel/UCESqlpph_IUi1mzvnGJgWhg",
+              "channel_age_months": 47.7,
+              "channel_median_views": 9036.5,
+              "channel_subscribers": 33400
+            },
+            {
+              "video_id": "IcmNQYlTGSI",
+              "title": "Why You Should Own Tesla Stock",
+              "url": "https://www.youtube.com/watch?v=IcmNQYlTGSI",
+              "views": 1787050,
+              "published_at": "2024-02-02T10:00:17Z",
+              "age_days": 889,
+              "outlier_score": 197.8,
+              "channel_title": "INVESIGHT",
+              "channel_url": "https://www.youtube.com/channel/UCESqlpph_IUi1mzvnGJgWhg",
+              "channel_age_months": 47.7,
+              "channel_median_views": 9036.5,
+              "channel_subscribers": 33400
+            }
+          ],
+          "channel_profiles": [
+            {
+              "channel_id": "UCLXo7UDZvByw2ixzpQCufnA",
+              "title": "Vox",
+              "url": "https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA",
+              "age_months": 148.2,
+              "subscribers": 12700000,
+              "median_views": 32886.0,
+              "uploads_per_week": 14.5,
+              "last_upload_days_ago": 7
+            },
+            {
+              "channel_id": "UCxgAuX3XZROujMmGphN_scA",
+              "title": "Mark Tilbury",
+              "url": "https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA",
+              "age_months": 147.8,
+              "subscribers": 8620000,
+              "median_views": 2164851.5,
+              "uploads_per_week": 2.39,
+              "last_upload_days_ago": 8
+            },
+            {
+              "channel_id": "UCdlNK1xcy-Sn8liq7feNxWw",
+              "title": "Grant Cardone",
+              "url": "https://www.youtube.com/channel/UCdlNK1xcy-Sn8liq7feNxWw",
+              "age_months": 224.8,
+              "subscribers": 3130000,
+              "median_views": 4740.0,
+              "uploads_per_week": 25.38,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UCkCGANrihzExmu9QiqZpPlQ",
+              "title": "How Money Works",
+              "url": "https://www.youtube.com/channel/UCkCGANrihzExmu9QiqZpPlQ",
+              "age_months": 90.6,
+              "subscribers": 1720000,
+              "median_views": 795440.5,
+              "uploads_per_week": 1.07,
+              "last_upload_days_ago": 10
+            },
+            {
+              "channel_id": "UCbn3_LKM-WksMMgvBABf72Q",
+              "title": "Jasmine DiLucci, Tax Attorney, CPA, EA",
+              "url": "https://www.youtube.com/channel/UCbn3_LKM-WksMMgvBABf72Q",
+              "age_months": 150.9,
+              "subscribers": 643000,
+              "median_views": 5504.5,
+              "uploads_per_week": 12.69,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UClxlF0LMmgrDXkfV6cN4fuA",
+              "title": "GenericArtDad",
+              "url": "https://www.youtube.com/channel/UClxlF0LMmgrDXkfV6cN4fuA",
+              "age_months": 215.8,
+              "subscribers": 339000,
+              "median_views": 300156.5,
+              "uploads_per_week": 1.39,
+              "last_upload_days_ago": 3
+            },
+            {
+              "channel_id": "UCp5hG8rt1z2MJ9aNVxY2Xdg",
+              "title": "New Economic Thinking",
+              "url": "https://www.youtube.com/channel/UCp5hG8rt1z2MJ9aNVxY2Xdg",
+              "age_months": 196.1,
+              "subscribers": 337000,
+              "median_views": 7708.0,
+              "uploads_per_week": 0.74,
+              "last_upload_days_ago": 212
+            },
+            {
+              "channel_id": "UCfIGMYNNkXdZurU7d6OqTCw",
+              "title": "Franklin Broke",
+              "url": "https://www.youtube.com/channel/UCfIGMYNNkXdZurU7d6OqTCw",
+              "age_months": 82.8,
+              "subscribers": 311000,
+              "median_views": 11736.0,
+              "uploads_per_week": 0.66,
+              "last_upload_days_ago": 689
+            },
+            {
+              "channel_id": "UCXzNNA2ngRpRiWvyA7eGd6w",
+              "title": "Nick Invests",
+              "url": "https://www.youtube.com/channel/UCXzNNA2ngRpRiWvyA7eGd6w",
+              "age_months": 17.8,
+              "subscribers": 187000,
+              "median_views": 5719.0,
+              "uploads_per_week": 7.0,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UCPkfCkus8mz94aYy57jJMuQ",
+              "title": "Dispute Beast",
+              "url": "https://www.youtube.com/channel/UCPkfCkus8mz94aYy57jJMuQ",
+              "age_months": 30.6,
+              "subscribers": 113000,
+              "median_views": 14082.0,
+              "uploads_per_week": 1.42,
+              "last_upload_days_ago": 36
+            },
+            {
+              "channel_id": "UCuxucP6RpmbcSXmJc5RME2w",
+              "title": "BizFortunes",
+              "url": "https://www.youtube.com/channel/UCuxucP6RpmbcSXmJc5RME2w",
+              "age_months": 19.3,
+              "subscribers": 91100,
+              "median_views": 3307.0,
+              "uploads_per_week": 3.56,
+              "last_upload_days_ago": 2
+            },
+            {
+              "channel_id": "UCESqlpph_IUi1mzvnGJgWhg",
+              "title": "INVESIGHT",
+              "url": "https://www.youtube.com/channel/UCESqlpph_IUi1mzvnGJgWhg",
+              "age_months": 47.7,
+              "subscribers": 33400,
+              "median_views": 9036.5,
+              "uploads_per_week": 7.25,
+              "last_upload_days_ago": 869
+            },
+            {
+              "channel_id": "UCYSQ1M0zemTM2PZjX6oCf-Q",
+              "title": "Legal Tax Loophole 💸",
+              "url": "https://www.youtube.com/channel/UCYSQ1M0zemTM2PZjX6oCf-Q",
+              "age_months": 15.9,
+              "subscribers": 1350,
+              "median_views": 1297.0,
+              "uploads_per_week": 0.37,
+              "last_upload_days_ago": 64
+            },
+            {
+              "channel_id": "UCCuM7EFVGkABEPxijgFty0g",
+              "title": "Insight Travel Club",
+              "url": "https://www.youtube.com/channel/UCCuM7EFVGkABEPxijgFty0g",
+              "age_months": 2.0,
+              "subscribers": 146,
+              "median_views": 366.0,
+              "uploads_per_week": 4.32,
+              "last_upload_days_ago": 1
+            },
+            {
+              "channel_id": "UCfFfe3O8iNttDwTBHql007w",
+              "title": "The American Finance 🇺🇸",
+              "url": "https://www.youtube.com/channel/UCfFfe3O8iNttDwTBHql007w",
+              "age_months": 2.7,
+              "subscribers": 30,
+              "median_views": 154.0,
+              "uploads_per_week": 1.13,
+              "last_upload_days_ago": 1
+            }
+          ],
+          "living_channel_count": 12,
+          "living_outliers": [
+            {
+              "video_id": "aLKacgW6YOI",
+              "title": "Why the Rich Don’t Pay Taxes",
+              "url": "https://www.youtube.com/watch?v=aLKacgW6YOI",
+              "views": 1165925,
+              "published_at": "2025-10-22T16:00:06Z",
+              "age_days": 261,
+              "outlier_score": 151.3,
+              "channel_title": "New Economic Thinking",
+              "channel_url": "https://www.youtube.com/channel/UCp5hG8rt1z2MJ9aNVxY2Xdg",
+              "channel_age_months": 196.1,
+              "channel_median_views": 7708.0,
+              "channel_subscribers": 337000
+            },
+            {
+              "video_id": "Czsd7G5mExw",
+              "title": "Message To All Billionaires By Bill Burr's",
+              "url": "https://www.youtube.com/watch?v=Czsd7G5mExw",
+              "views": 415637,
+              "published_at": "2026-05-19T16:54:21Z",
+              "age_days": 52,
+              "outlier_score": 125.7,
+              "channel_title": "BizFortunes",
+              "channel_url": "https://www.youtube.com/channel/UCuxucP6RpmbcSXmJc5RME2w",
+              "channel_age_months": 19.3,
+              "channel_median_views": 3307.0,
+              "channel_subscribers": 91100
+            },
+            {
+              "video_id": "9T7nsBb5Cp0",
+              "title": "How Do Billionaires NOT Pay Taxes?",
+              "url": "https://www.youtube.com/watch?v=9T7nsBb5Cp0",
+              "views": 410666,
+              "published_at": "2026-04-16T16:30:05Z",
+              "age_days": 85,
+              "outlier_score": 74.6,
+              "channel_title": "Jasmine DiLucci, Tax Attorney, CPA, EA",
+              "channel_url": "https://www.youtube.com/channel/UCbn3_LKM-WksMMgvBABf72Q",
+              "channel_age_months": 150.9,
+              "channel_median_views": 5504.5,
+              "channel_subscribers": 643000
+            },
+            {
+              "video_id": "9coZbxqTY_o",
+              "title": "In 2023 alone, U.S. debt surpassed $33 trillion, fueled by this loop.",
+              "url": "https://www.youtube.com/watch?v=9coZbxqTY_o",
+              "views": 442176,
+              "published_at": "2026-02-01T16:49:15Z",
+              "age_days": 159,
+              "outlier_score": 31.4,
+              "channel_title": "Dispute Beast",
+              "channel_url": "https://www.youtube.com/channel/UCPkfCkus8mz94aYy57jJMuQ",
+              "channel_age_months": 30.6,
+              "channel_median_views": 14082.0,
+              "channel_subscribers": 113000
+            },
+            {
+              "video_id": "7W0uvrGuOW4",
+              "title": "Buy, Borrow, Die: How the Rich Actually Avoid Taxes",
+              "url": "https://www.youtube.com/watch?v=7W0uvrGuOW4",
+              "views": 155752,
+              "published_at": "2025-12-13T10:12:04Z",
+              "age_days": 209,
+              "outlier_score": 27.2,
+              "channel_title": "Nick Invests",
+              "channel_url": "https://www.youtube.com/channel/UCXzNNA2ngRpRiWvyA7eGd6w",
+              "channel_age_months": 17.8,
+              "channel_median_views": 5719.0,
+              "channel_subscribers": 187000
+            }
+          ]
+        },
+        "de": {
+          "query": "Steuertricks der Reichen",
+          "lang": "de",
+          "result_count": 50,
+          "trend": "falling",
+          "trend_detail": {
+            "videos_0_6m": 3,
+            "videos_6_18m": 12,
+            "median_views_0_6m": 74.0,
+            "median_views_6_18m": 29764.0,
+            "rate_ratio": 0.5,
+            "view_ratio": 0.0
+          },
+          "saturation": {
+            "results": 50,
+            "unique_channels": 38,
+            "unique_ratio": 0.76,
+            "mega_channel_share": 0.14,
+            "young_channel_share": 0.1
+          },
+          "young_100k_channels": [],
+          "top_outliers": [
+            {
+              "video_id": "AFJitRVpWFI",
+              "title": "Die geheime Welt der Superreichen | ZDFzeit",
+              "url": "https://www.youtube.com/watch?v=AFJitRVpWFI",
+              "views": 7325425,
+              "published_at": "2023-12-12T16:30:02Z",
+              "age_days": 941,
+              "outlier_score": 98.2,
+              "channel_title": "ZDFheute Nachrichten",
+              "channel_url": "https://www.youtube.com/channel/UCeqKIgPQfNInOswGRWt48kQ",
+              "channel_age_months": 83.1,
+              "channel_median_views": 74602.0,
+              "channel_subscribers": 1820000
+            },
+            {
+              "video_id": "Pg054d49gwo",
+              "title": "Polizeirazzia im Berliner Wedding | frontal #shorts #truecrime",
+              "url": "https://www.youtube.com/watch?v=Pg054d49gwo",
+              "views": 4740746,
+              "published_at": "2026-03-12T11:33:01Z",
+              "age_days": 120,
+              "outlier_score": 62.5,
+              "channel_title": "frontal",
+              "channel_url": "https://www.youtube.com/channel/UCDw0K7K658-ztRuCn2mn0Kw",
+              "channel_age_months": 56.5,
+              "channel_median_views": 75895.5,
+              "channel_subscribers": 219000
+            },
+            {
+              "video_id": "kXIy5IR0dRY",
+              "title": "Die 5 Säulen der Altersvorsorge, die dir niemand erklärt hat | Opa Klaus",
+              "url": "https://www.youtube.com/watch?v=kXIy5IR0dRY",
+              "views": 1179,
+              "published_at": "2026-05-11T19:00:41Z",
+              "age_days": 59,
+              "outlier_score": 59.0,
+              "channel_title": "Smarter Investieren",
+              "channel_url": "https://www.youtube.com/channel/UCTB9RxsjeTA0JCUMFaOQDlQ",
+              "channel_age_months": 2.5,
+              "channel_median_views": 20.0,
+              "channel_subscribers": 11
+            },
+            {
+              "video_id": "MzeD1kFhdj8",
+              "title": "Multimillionär und keine Steuern zahlen? | Wer kann das bezahlen? #shorts",
+              "url": "https://www.youtube.com/watch?v=MzeD1kFhdj8",
+              "views": 2217655,
+              "published_at": "2025-11-01T09:00:37Z",
+              "age_days": 251,
+              "outlier_score": 50.6,
+              "channel_title": "WDR",
+              "channel_url": "https://www.youtube.com/channel/UCn7wWR5KnpX_N6ZaBNuyVYw",
+              "channel_age_months": 155.5,
+              "channel_median_views": 43791.5,
+              "channel_subscribers": 1050000
+            },
+            {
+              "video_id": "V0NZ6f_2SSA",
+              "title": "Leon xskincare spricht aus, was die meisten Männer nie sagen würden | WDR #shorts #kölnertreff",
+              "url": "https://www.youtube.com/watch?v=V0NZ6f_2SSA",
+              "views": 2207182,
+              "published_at": "2026-06-07T10:00:22Z",
+              "age_days": 33,
+              "outlier_score": 50.4,
+              "channel_title": "WDR",
+              "channel_url": "https://www.youtube.com/channel/UCn7wWR5KnpX_N6ZaBNuyVYw",
+              "channel_age_months": 155.5,
+              "channel_median_views": 43791.5,
+              "channel_subscribers": 1050000
+            },
+            {
+              "video_id": "LdZ5JCsZ5QY",
+              "title": "Gysi über die steuertricks der reichen Konzerne und Banken!  https://vm.tiktok.com/ZNeE39ay9/",
+              "url": "https://www.youtube.com/watch?v=LdZ5JCsZ5QY",
+              "views": 66287,
+              "published_at": "2025-01-30T10:14:52Z",
+              "age_days": 526,
+              "outlier_score": 45.2,
+              "channel_title": "Fanpage der Roten Sonne ",
+              "channel_url": "https://www.youtube.com/channel/UCbLDnbT5A3Mrv3GlcCE7gQA",
+              "channel_age_months": 21.4,
+              "channel_median_views": 1465.5,
+              "channel_subscribers": 14200
+            },
+            {
+              "video_id": "X1PpJ7XfT3E",
+              "title": "Warum deine 50er über Reichtum oder Armut entscheiden",
+              "url": "https://www.youtube.com/watch?v=X1PpJ7XfT3E",
+              "views": 891,
+              "published_at": "2026-05-19T15:00:45Z",
+              "age_days": 52,
+              "outlier_score": 44.5,
+              "channel_title": "Smarter Investieren",
+              "channel_url": "https://www.youtube.com/channel/UCTB9RxsjeTA0JCUMFaOQDlQ",
+              "channel_age_months": 2.5,
+              "channel_median_views": 20.0,
+              "channel_subscribers": 11
+            },
+            {
+              "video_id": "qY5NC1l6sXE",
+              "title": "30 Minuten fahren und 50% Steuern sparen | @MarcSchippke",
+              "url": "https://www.youtube.com/watch?v=qY5NC1l6sXE",
+              "views": 50162,
+              "published_at": "2023-09-20T08:53:02Z",
+              "age_days": 1024,
+              "outlier_score": 29.6,
+              "channel_title": "Marc Schippke",
+              "channel_url": "https://www.youtube.com/channel/UCOwhYBisiZwBfZXj5y0bTzA",
+              "channel_age_months": 92.1,
+              "channel_median_views": 1695.0,
+              "channel_subscribers": 4800
+            }
+          ],
+          "channel_profiles": [
+            {
+              "channel_id": "UCeqKIgPQfNInOswGRWt48kQ",
+              "title": "ZDFheute Nachrichten",
+              "url": "https://www.youtube.com/channel/UCeqKIgPQfNInOswGRWt48kQ",
+              "age_months": 83.1,
+              "subscribers": 1820000,
+              "median_views": 74602.0,
+              "uploads_per_week": 203.0,
+              "last_upload_days_ago": 7
+            },
+            {
+              "channel_id": "UCeARcCUiZg79SQQ-2_XNlXQ",
+              "title": "Finanzfluss",
+              "url": "https://www.youtube.com/channel/UCeARcCUiZg79SQQ-2_XNlXQ",
+              "age_months": 130.7,
+              "subscribers": 1630000,
+              "median_views": 24020.0,
+              "uploads_per_week": 18.45,
+              "last_upload_days_ago": 7
+            },
+            {
+              "channel_id": "UCb5TfGtSgvNPVPQawfCFuAw",
+              "title": "WBS LEGAL",
+              "url": "https://www.youtube.com/channel/UCb5TfGtSgvNPVPQawfCFuAw",
+              "age_months": 191.6,
+              "subscribers": 1060000,
+              "median_views": 86018.5,
+              "uploads_per_week": 4.95,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UCn7wWR5KnpX_N6ZaBNuyVYw",
+              "title": "WDR",
+              "url": "https://www.youtube.com/channel/UCn7wWR5KnpX_N6ZaBNuyVYw",
+              "age_months": 155.5,
+              "subscribers": 1050000,
+              "median_views": 43791.5,
+              "uploads_per_week": 7.25,
+              "last_upload_days_ago": 7
+            },
+            {
+              "channel_id": "UCqLv2nTsMB_FXtQRFNXjWhA",
+              "title": "Geld für die Welt — Maurice Höfgen",
+              "url": "https://www.youtube.com/channel/UCqLv2nTsMB_FXtQRFNXjWhA",
+              "age_months": 66.9,
+              "subscribers": 316000,
+              "median_views": 116702.5,
+              "uploads_per_week": 3.76,
+              "last_upload_days_ago": 8
+            },
+            {
+              "channel_id": "UCVUYh7UEdKW8v3cPIDA4Iow",
+              "title": "immocation",
+              "url": "https://www.youtube.com/channel/UCVUYh7UEdKW8v3cPIDA4Iow",
+              "age_months": 116.2,
+              "subscribers": 250000,
+              "median_views": 6834.0,
+              "uploads_per_week": 2.82,
+              "last_upload_days_ago": 2
+            },
+            {
+              "channel_id": "UCDw0K7K658-ztRuCn2mn0Kw",
+              "title": "frontal",
+              "url": "https://www.youtube.com/channel/UCDw0K7K658-ztRuCn2mn0Kw",
+              "age_months": 56.5,
+              "subscribers": 219000,
+              "median_views": 75895.5,
+              "uploads_per_week": 1.75,
+              "last_upload_days_ago": 9
+            },
+            {
+              "channel_id": "UCzVWuGMqU-xijTaoiVua6KQ",
+              "title": "immo tommy",
+              "url": "https://www.youtube.com/channel/UCzVWuGMqU-xijTaoiVua6KQ",
+              "age_months": 66.8,
+              "subscribers": 172000,
+              "median_views": 40703.0,
+              "uploads_per_week": 12.69,
+              "last_upload_days_ago": 7
+            },
+            {
+              "channel_id": "UCigtuurEEt3QLwazM_9OvVA",
+              "title": "MR.STEUER",
+              "url": "https://www.youtube.com/channel/UCigtuurEEt3QLwazM_9OvVA",
+              "age_months": 108.5,
+              "subscribers": 59100,
+              "median_views": 7174.0,
+              "uploads_per_week": 4.61,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UCbLDnbT5A3Mrv3GlcCE7gQA",
+              "title": "Fanpage der Roten Sonne ",
+              "url": "https://www.youtube.com/channel/UCbLDnbT5A3Mrv3GlcCE7gQA",
+              "age_months": 21.4,
+              "subscribers": 14200,
+              "median_views": 1465.5,
+              "uploads_per_week": 2.28,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UCOwhYBisiZwBfZXj5y0bTzA",
+              "title": "Marc Schippke",
+              "url": "https://www.youtube.com/channel/UCOwhYBisiZwBfZXj5y0bTzA",
+              "age_months": 92.1,
+              "subscribers": 4800,
+              "median_views": 1695.0,
+              "uploads_per_week": 3.83,
+              "last_upload_days_ago": 317
+            },
+            {
+              "channel_id": "UCkByi5yIbG5qUbJppOdvILA",
+              "title": "Der Raumversteher",
+              "url": "https://www.youtube.com/channel/UCkByi5yIbG5qUbJppOdvILA",
+              "age_months": 19.8,
+              "subscribers": 1320,
+              "median_views": 550.0,
+              "uploads_per_week": 2.39,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UCf9MMVvtGmNZEcd7TptXV5g",
+              "title": "StaatsWired",
+              "url": "https://www.youtube.com/channel/UCf9MMVvtGmNZEcd7TptXV5g",
+              "age_months": 13.3,
+              "subscribers": 97,
+              "median_views": 98.0,
+              "uploads_per_week": 6.15,
+              "last_upload_days_ago": 13
+            },
+            {
+              "channel_id": "UCylY6KHnfWOF3PpiiMCBLcA",
+              "title": "MaxInvestiert",
+              "url": "https://www.youtube.com/channel/UCylY6KHnfWOF3PpiiMCBLcA",
+              "age_months": 5.5,
+              "subscribers": 34,
+              "median_views": 96.5,
+              "uploads_per_week": 2.01,
+              "last_upload_days_ago": 33
+            },
+            {
+              "channel_id": "UCTB9RxsjeTA0JCUMFaOQDlQ",
+              "title": "Smarter Investieren",
+              "url": "https://www.youtube.com/channel/UCTB9RxsjeTA0JCUMFaOQDlQ",
+              "age_months": 2.5,
+              "subscribers": 11,
+              "median_views": 20.0,
+              "uploads_per_week": 3.08,
+              "last_upload_days_ago": 0
+            }
+          ],
+          "living_channel_count": 14,
+          "living_outliers": [
+            {
+              "video_id": "Pg054d49gwo",
+              "title": "Polizeirazzia im Berliner Wedding | frontal #shorts #truecrime",
+              "url": "https://www.youtube.com/watch?v=Pg054d49gwo",
+              "views": 4740746,
+              "published_at": "2026-03-12T11:33:01Z",
+              "age_days": 120,
+              "outlier_score": 62.5,
+              "channel_title": "frontal",
+              "channel_url": "https://www.youtube.com/channel/UCDw0K7K658-ztRuCn2mn0Kw",
+              "channel_age_months": 56.5,
+              "channel_median_views": 75895.5,
+              "channel_subscribers": 219000
+            },
+            {
+              "video_id": "MzeD1kFhdj8",
+              "title": "Multimillionär und keine Steuern zahlen? | Wer kann das bezahlen? #shorts",
+              "url": "https://www.youtube.com/watch?v=MzeD1kFhdj8",
+              "views": 2217655,
+              "published_at": "2025-11-01T09:00:37Z",
+              "age_days": 251,
+              "outlier_score": 50.6,
+              "channel_title": "WDR",
+              "channel_url": "https://www.youtube.com/channel/UCn7wWR5KnpX_N6ZaBNuyVYw",
+              "channel_age_months": 155.5,
+              "channel_median_views": 43791.5,
+              "channel_subscribers": 1050000
+            },
+            {
+              "video_id": "V0NZ6f_2SSA",
+              "title": "Leon xskincare spricht aus, was die meisten Männer nie sagen würden | WDR #shorts #kölnertreff",
+              "url": "https://www.youtube.com/watch?v=V0NZ6f_2SSA",
+              "views": 2207182,
+              "published_at": "2026-06-07T10:00:22Z",
+              "age_days": 33,
+              "outlier_score": 50.4,
+              "channel_title": "WDR",
+              "channel_url": "https://www.youtube.com/channel/UCn7wWR5KnpX_N6ZaBNuyVYw",
+              "channel_age_months": 155.5,
+              "channel_median_views": 43791.5,
+              "channel_subscribers": 1050000
+            },
+            {
+              "video_id": "OdvGP76oFcw",
+              "title": "Ernste Warnung: Immobilienmarkt kippt gerade!",
+              "url": "https://www.youtube.com/watch?v=OdvGP76oFcw",
+              "views": 181005,
+              "published_at": "2026-04-30T11:00:00Z",
+              "age_days": 71,
+              "outlier_score": 26.5,
+              "channel_title": "immocation",
+              "channel_url": "https://www.youtube.com/channel/UCVUYh7UEdKW8v3cPIDA4Iow",
+              "channel_age_months": 116.2,
+              "channel_median_views": 6834.0,
+              "channel_subscribers": 250000
+            },
+            {
+              "video_id": "Uyt02zV5kbY",
+              "title": "Schüsse, Schutzgeld, Erpressung – Der Bandenkrieg in Berlin | frontal",
+              "url": "https://www.youtube.com/watch?v=Uyt02zV5kbY",
+              "views": 1880780,
+              "published_at": "2026-03-11T17:00:46Z",
+              "age_days": 121,
+              "outlier_score": 24.8,
+              "channel_title": "frontal",
+              "channel_url": "https://www.youtube.com/channel/UCDw0K7K658-ztRuCn2mn0Kw",
+              "channel_age_months": 56.5,
+              "channel_median_views": 75895.5,
+              "channel_subscribers": 219000
+            }
+          ]
+        }
+      },
+      "evaluated_at": "2026-07-10T18:23:44Z",
+      "kill_reasons": [
+        "K1",
+        "K2"
+      ],
+      "score": 0
+    },
+    "ai-industrie-analysen": {
+      "id": "ai-industrie-analysen",
+      "name": "AI-Industrie-Analysen — Bubble, Deals, Machtkämpfe",
+      "topic": "KI-Wirtschaft",
+      "audience": "Tech/Invest-Publikum (US/EN)",
+      "format": "Video-Essay/Analyse (Asianometry-Muster, faceless)",
+      "queries_en": [
+        "AI bubble explained",
+        "OpenAI business model explained"
+      ],
+      "queries_de": [
+        "KI Blase erklärt",
+        "OpenAI Geschäftsmodell"
+      ],
+      "rpm_category_usd": 15,
+      "affiliate_potential": true,
+      "needs_us_context": false,
+      "pipeline_producible": true,
+      "feasibility_10_15h": 7,
+      "de_transferability": 8,
+      "energiepilot_synergy": false,
+      "slop_share": 0.15,
+      "notes": "VORSICHT bei Evidence-Lesart: Top-Jung-Kanal 'The Tech Report' (25-42k $/Mo) ist ein Ed-Zitron-INTERVIEW-Clips-Kanal (nicht K6-produzierbar, Fremd-Content) — zählt NICHT als Muster-Beweis. Gültiger Beweis: Casual Finance' AI-Bubble-Video 413k Views; Asianometry-Ceiling 11-23k $/Mo faceless. Thema hochaktuell, Trend-Risiko: Bubble-Diskurs kann abkühlen (K2 beobachten).",
+      "status": "evaluated",
+      "added_at": "2026-07-10T18:21:04Z",
+      "evidence": {
+        "en": {
+          "query": "AI bubble explained",
+          "lang": "en",
+          "result_count": 50,
+          "trend": "rising",
+          "trend_detail": {
+            "videos_0_6m": 22,
+            "videos_6_18m": 27,
+            "median_views_0_6m": 356304.0,
+            "median_views_6_18m": 400294.0,
+            "rate_ratio": 1.63,
+            "view_ratio": 0.89
+          },
+          "saturation": {
+            "results": 50,
+            "unique_channels": 44,
+            "unique_ratio": 0.88,
+            "mega_channel_share": 0.44,
+            "young_channel_share": 0.14
+          },
+          "young_100k_channels": [
+            {
+              "channel_title": "Casual Finance",
+              "channel_url": "https://www.youtube.com/channel/UCrNfRFWnLC3tCy1TnyhVQ7g",
+              "channel_age_months": 11.8,
+              "subscribers": 281000,
+              "best_video_title": "The $2.5 Trillion Credit Wave Nobody Sees Coming",
+              "best_video_url": "https://www.youtube.com/watch?v=YEhsWyY_WKQ",
+              "views": 634970,
+              "outlier_score": 26.7
+            }
+          ],
+          "top_outliers": [
+            {
+              "video_id": "SdzkVVRIl1s",
+              "title": "Ray Dalio on the AI Bubble",
+              "url": "https://www.youtube.com/watch?v=SdzkVVRIl1s",
+              "views": 2737747,
+              "published_at": "2026-03-19T15:07:57Z",
+              "age_days": 113,
+              "outlier_score": 180.8,
+              "channel_title": "Principles by Ray Dalio",
+              "channel_url": "https://www.youtube.com/channel/UCqvaXJ1K3HheTPNjH-KpwXQ",
+              "channel_age_months": 243.2,
+              "channel_median_views": 15144.5,
+              "channel_subscribers": 3150000
+            },
+            {
+              "video_id": "NFao97yTNPc",
+              "title": "The AI Bubble Will Pop - Here's Why",
+              "url": "https://www.youtube.com/watch?v=NFao97yTNPc",
+              "views": 1492380,
+              "published_at": "2025-10-15T21:45:30Z",
+              "age_days": 267,
+              "outlier_score": 135.0,
+              "channel_title": "Katie Couric",
+              "channel_url": "https://www.youtube.com/channel/UCim9TnNKH5yinZm8_L95C-A",
+              "channel_age_months": 243.0,
+              "channel_median_views": 11055.0,
+              "channel_subscribers": 680000
+            },
+            {
+              "video_id": "1kFV1Td2BQs",
+              "title": "If You Don't Understand the Petrodollar, You Don't Understand Geopolitics",
+              "url": "https://www.youtube.com/watch?v=1kFV1Td2BQs",
+              "views": 2350534,
+              "published_at": "2026-03-12T16:00:06Z",
+              "age_days": 120,
+              "outlier_score": 51.5,
+              "channel_title": "Lock Stock Finance",
+              "channel_url": "https://www.youtube.com/channel/UCEd_Fj-_VlXG-BiXpJ69Wfg",
+              "channel_age_months": 16.7,
+              "channel_median_views": 45612.5,
+              "channel_subscribers": 180000
+            },
+            {
+              "video_id": "pLwXXp6XEW0",
+              "title": "REGIME CHANGE: Katie’s One-on-One with Maggie Haberman",
+              "url": "https://www.youtube.com/watch?v=pLwXXp6XEW0",
+              "views": 440833,
+              "published_at": "2026-06-27T08:00:13Z",
+              "age_days": 13,
+              "outlier_score": 39.9,
+              "channel_title": "Katie Couric",
+              "channel_url": "https://www.youtube.com/channel/UCim9TnNKH5yinZm8_L95C-A",
+              "channel_age_months": 243.0,
+              "channel_median_views": 11055.0,
+              "channel_subscribers": 680000
+            },
+            {
+              "video_id": "0wxBHxpMFXA",
+              "title": "Brace Yourself for the AI Bubble",
+              "url": "https://www.youtube.com/watch?v=0wxBHxpMFXA",
+              "views": 2104338,
+              "published_at": "2025-12-18T15:00:03Z",
+              "age_days": 204,
+              "outlier_score": 35.7,
+              "channel_title": "Robert Reich",
+              "channel_url": "https://www.youtube.com/channel/UCuDv5p8E-evaRSh542hDV5g",
+              "channel_age_months": 132.8,
+              "channel_median_views": 59015.0,
+              "channel_subscribers": 1560000
+            },
+            {
+              "video_id": "nxAoTGQoTgM",
+              "title": "How Powerful Is Stephen Miller? Maggie Haberman Explains",
+              "url": "https://www.youtube.com/watch?v=nxAoTGQoTgM",
+              "views": 387996,
+              "published_at": "2026-06-27T18:00:10Z",
+              "age_days": 13,
+              "outlier_score": 35.1,
+              "channel_title": "Katie Couric",
+              "channel_url": "https://www.youtube.com/channel/UCim9TnNKH5yinZm8_L95C-A",
+              "channel_age_months": 243.0,
+              "channel_median_views": 11055.0,
+              "channel_subscribers": 680000
+            },
+            {
+              "video_id": "Z_xvkbGWauU",
+              "title": "China Just Shut Down Gold Trading",
+              "url": "https://www.youtube.com/watch?v=Z_xvkbGWauU",
+              "views": 2128836,
+              "published_at": "2026-06-30T16:00:25Z",
+              "age_days": 10,
+              "outlier_score": 31.7,
+              "channel_title": "Andrei Jikh",
+              "channel_url": "https://www.youtube.com/channel/UCGy7SkBjcIAgTiwkXEtPnYg",
+              "channel_age_months": 111.5,
+              "channel_median_views": 67051.0,
+              "channel_subscribers": 3270000
+            },
+            {
+              "video_id": "YEhsWyY_WKQ",
+              "title": "The $2.5 Trillion Credit Wave Nobody Sees Coming",
+              "url": "https://www.youtube.com/watch?v=YEhsWyY_WKQ",
+              "views": 634970,
+              "published_at": "2026-06-14T18:00:02Z",
+              "age_days": 26,
+              "outlier_score": 26.7,
+              "channel_title": "Casual Finance",
+              "channel_url": "https://www.youtube.com/channel/UCrNfRFWnLC3tCy1TnyhVQ7g",
+              "channel_age_months": 11.8,
+              "channel_median_views": 23747.0,
+              "channel_subscribers": 281000
+            }
+          ],
+          "channel_profiles": [
+            {
+              "channel_id": "UCxgAuX3XZROujMmGphN_scA",
+              "title": "Mark Tilbury",
+              "url": "https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA",
+              "age_months": 147.8,
+              "subscribers": 8620000,
+              "median_views": 2164851.5,
+              "uploads_per_week": 2.39,
+              "last_upload_days_ago": 8
+            },
+            {
+              "channel_id": "UCGy7SkBjcIAgTiwkXEtPnYg",
+              "title": "Andrei Jikh",
+              "url": "https://www.youtube.com/channel/UCGy7SkBjcIAgTiwkXEtPnYg",
+              "age_months": 111.5,
+              "subscribers": 3270000,
+              "median_views": 67051.0,
+              "uploads_per_week": 8.46,
+              "last_upload_days_ago": 2
+            },
+            {
+              "channel_id": "UCOT2iLov0V7Re7ku_3UBtcQ",
+              "title": "Hank Green",
+              "url": "https://www.youtube.com/channel/UCOT2iLov0V7Re7ku_3UBtcQ",
+              "age_months": 200.0,
+              "subscribers": 3180000,
+              "median_views": 192768.5,
+              "uploads_per_week": 4.23,
+              "last_upload_days_ago": 1
+            },
+            {
+              "channel_id": "UCqvaXJ1K3HheTPNjH-KpwXQ",
+              "title": "Principles by Ray Dalio",
+              "url": "https://www.youtube.com/channel/UCqvaXJ1K3HheTPNjH-KpwXQ",
+              "age_months": 243.2,
+              "subscribers": 3150000,
+              "median_views": 15144.5,
+              "uploads_per_week": 2.94,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UC28n0tlcNSa1iPe5mettocg",
+              "title": "voidzilla",
+              "url": "https://www.youtube.com/channel/UC28n0tlcNSa1iPe5mettocg",
+              "age_months": 44.6,
+              "subscribers": 1580000,
+              "median_views": 1349077.0,
+              "uploads_per_week": 1.04,
+              "last_upload_days_ago": 8
+            },
+            {
+              "channel_id": "UCuDv5p8E-evaRSh542hDV5g",
+              "title": "Robert Reich",
+              "url": "https://www.youtube.com/channel/UCuDv5p8E-evaRSh542hDV5g",
+              "age_months": 132.8,
+              "subscribers": 1560000,
+              "median_views": 59015.0,
+              "uploads_per_week": 8.46,
+              "last_upload_days_ago": 3
+            },
+            {
+              "channel_id": "UCim9TnNKH5yinZm8_L95C-A",
+              "title": "Katie Couric",
+              "url": "https://www.youtube.com/channel/UCim9TnNKH5yinZm8_L95C-A",
+              "age_months": 243.0,
+              "subscribers": 680000,
+              "median_views": 11055.0,
+              "uploads_per_week": 14.5,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UCUEmaeh13ai1ivT5wzz5Lhg",
+              "title": "Maxinomics",
+              "url": "https://www.youtube.com/channel/UCUEmaeh13ai1ivT5wzz5Lhg",
+              "age_months": 44.4,
+              "subscribers": 558000,
+              "median_views": 71453.5,
+              "uploads_per_week": 1.97,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UCrNfRFWnLC3tCy1TnyhVQ7g",
+              "title": "Casual Finance",
+              "url": "https://www.youtube.com/channel/UCrNfRFWnLC3tCy1TnyhVQ7g",
+              "age_months": 11.8,
+              "subscribers": 281000,
+              "median_views": 23747.0,
+              "uploads_per_week": 8.12,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UCP9RPj_BG0vit2TNM7LuRxA",
+              "title": "Crayon Capital",
+              "url": "https://www.youtube.com/channel/UCP9RPj_BG0vit2TNM7LuRxA",
+              "age_months": 15.3,
+              "subscribers": 226000,
+              "median_views": 210687.5,
+              "uploads_per_week": 0.37,
+              "last_upload_days_ago": 12
+            },
+            {
+              "channel_id": "UCiBGqUxeTe4AYQyRseSZaKw",
+              "title": "MonkeyExplains",
+              "url": "https://www.youtube.com/channel/UCiBGqUxeTe4AYQyRseSZaKw",
+              "age_months": 165.7,
+              "subscribers": 223000,
+              "median_views": 164860.5,
+              "uploads_per_week": 0.87,
+              "last_upload_days_ago": 4
+            },
+            {
+              "channel_id": "UCEd_Fj-_VlXG-BiXpJ69Wfg",
+              "title": "Lock Stock Finance",
+              "url": "https://www.youtube.com/channel/UCEd_Fj-_VlXG-BiXpJ69Wfg",
+              "age_months": 16.7,
+              "subscribers": 180000,
+              "median_views": 45612.5,
+              "uploads_per_week": 0.65,
+              "last_upload_days_ago": 1
+            },
+            {
+              "channel_id": "UCPiMR-Ize9p3dgjzZ8bo9ZQ",
+              "title": "The Tech Report",
+              "url": "https://www.youtube.com/channel/UCPiMR-Ize9p3dgjzZ8bo9ZQ",
+              "age_months": 12.7,
+              "subscribers": 79300,
+              "median_views": 69862.0,
+              "uploads_per_week": 3.98,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UCcvqik_5eJwEUCYoLj6_3ZA",
+              "title": "ZAUEY (Claire Zau)",
+              "url": "https://www.youtube.com/channel/UCcvqik_5eJwEUCYoLj6_3ZA",
+              "age_months": 8.6,
+              "subscribers": 18500,
+              "median_views": 13646.5,
+              "uploads_per_week": 2.33,
+              "last_upload_days_ago": 3
+            },
+            {
+              "channel_id": "UCybXH8gwK4vpho1QipdEY-Q",
+              "title": "The IB Journalist",
+              "url": "https://www.youtube.com/channel/UCybXH8gwK4vpho1QipdEY-Q",
+              "age_months": 12.2,
+              "subscribers": 68,
+              "median_views": 365.0,
+              "uploads_per_week": 0.24,
+              "last_upload_days_ago": 162
+            }
+          ],
+          "living_channel_count": 23,
+          "living_outliers": [
+            {
+              "video_id": "SdzkVVRIl1s",
+              "title": "Ray Dalio on the AI Bubble",
+              "url": "https://www.youtube.com/watch?v=SdzkVVRIl1s",
+              "views": 2737747,
+              "published_at": "2026-03-19T15:07:57Z",
+              "age_days": 113,
+              "outlier_score": 180.8,
+              "channel_title": "Principles by Ray Dalio",
+              "channel_url": "https://www.youtube.com/channel/UCqvaXJ1K3HheTPNjH-KpwXQ",
+              "channel_age_months": 243.2,
+              "channel_median_views": 15144.5,
+              "channel_subscribers": 3150000
+            },
+            {
+              "video_id": "NFao97yTNPc",
+              "title": "The AI Bubble Will Pop - Here's Why",
+              "url": "https://www.youtube.com/watch?v=NFao97yTNPc",
+              "views": 1492380,
+              "published_at": "2025-10-15T21:45:30Z",
+              "age_days": 267,
+              "outlier_score": 135.0,
+              "channel_title": "Katie Couric",
+              "channel_url": "https://www.youtube.com/channel/UCim9TnNKH5yinZm8_L95C-A",
+              "channel_age_months": 243.0,
+              "channel_median_views": 11055.0,
+              "channel_subscribers": 680000
+            },
+            {
+              "video_id": "1kFV1Td2BQs",
+              "title": "If You Don't Understand the Petrodollar, You Don't Understand Geopolitics",
+              "url": "https://www.youtube.com/watch?v=1kFV1Td2BQs",
+              "views": 2350534,
+              "published_at": "2026-03-12T16:00:06Z",
+              "age_days": 120,
+              "outlier_score": 51.5,
+              "channel_title": "Lock Stock Finance",
+              "channel_url": "https://www.youtube.com/channel/UCEd_Fj-_VlXG-BiXpJ69Wfg",
+              "channel_age_months": 16.7,
+              "channel_median_views": 45612.5,
+              "channel_subscribers": 180000
+            },
+            {
+              "video_id": "pLwXXp6XEW0",
+              "title": "REGIME CHANGE: Katie’s One-on-One with Maggie Haberman",
+              "url": "https://www.youtube.com/watch?v=pLwXXp6XEW0",
+              "views": 440833,
+              "published_at": "2026-06-27T08:00:13Z",
+              "age_days": 13,
+              "outlier_score": 39.9,
+              "channel_title": "Katie Couric",
+              "channel_url": "https://www.youtube.com/channel/UCim9TnNKH5yinZm8_L95C-A",
+              "channel_age_months": 243.0,
+              "channel_median_views": 11055.0,
+              "channel_subscribers": 680000
+            },
+            {
+              "video_id": "0wxBHxpMFXA",
+              "title": "Brace Yourself for the AI Bubble",
+              "url": "https://www.youtube.com/watch?v=0wxBHxpMFXA",
+              "views": 2104338,
+              "published_at": "2025-12-18T15:00:03Z",
+              "age_days": 204,
+              "outlier_score": 35.7,
+              "channel_title": "Robert Reich",
+              "channel_url": "https://www.youtube.com/channel/UCuDv5p8E-evaRSh542hDV5g",
+              "channel_age_months": 132.8,
+              "channel_median_views": 59015.0,
+              "channel_subscribers": 1560000
+            }
+          ]
+        },
+        "de": {
+          "query": "KI Blase erklärt",
+          "lang": "de",
+          "result_count": 50,
+          "trend": "rising",
+          "trend_detail": {
+            "videos_0_6m": 22,
+            "videos_6_18m": 25,
+            "median_views_0_6m": 15528.0,
+            "median_views_6_18m": 23668.0,
+            "rate_ratio": 1.76,
+            "view_ratio": 0.66
+          },
+          "saturation": {
+            "results": 50,
+            "unique_channels": 34,
+            "unique_ratio": 0.68,
+            "mega_channel_share": 0.12,
+            "young_channel_share": 0.16
+          },
+          "young_100k_channels": [
+            {
+              "channel_title": "Viktor Koza - Shorts",
+              "channel_url": "https://www.youtube.com/channel/UCaDu3NAJaPcQAALD9vP9Wwg",
+              "channel_age_months": 10.7,
+              "subscribers": 301,
+              "best_video_title": "Das ist ein echtes Problem!",
+              "best_video_url": "https://www.youtube.com/watch?v=fl9aiKiE_qI",
+              "views": 159517,
+              "outlier_score": 77.6
+            }
+          ],
+          "top_outliers": [
+            {
+              "video_id": "fl9aiKiE_qI",
+              "title": "Das ist ein echtes Problem!",
+              "url": "https://www.youtube.com/watch?v=fl9aiKiE_qI",
+              "views": 159517,
+              "published_at": "2026-06-10T05:23:41Z",
+              "age_days": 30,
+              "outlier_score": 77.6,
+              "channel_title": "Viktor Koza - Shorts",
+              "channel_url": "https://www.youtube.com/channel/UCaDu3NAJaPcQAALD9vP9Wwg",
+              "channel_age_months": 10.7,
+              "channel_median_views": 2054.5,
+              "channel_subscribers": 301
+            },
+            {
+              "video_id": "v4o0pveJS6s",
+              "title": "Größer als der KI-Boom?! 5 Quanten-Aktien mit Mega-Potenzial",
+              "url": "https://www.youtube.com/watch?v=v4o0pveJS6s",
+              "views": 166178,
+              "published_at": "2025-07-26T15:01:28Z",
+              "age_days": 349,
+              "outlier_score": 46.1,
+              "channel_title": "Philipp Trabant",
+              "channel_url": "https://www.youtube.com/channel/UCMxEhBkgqcLH70IvPV8ON8Q",
+              "channel_age_months": 20.7,
+              "channel_median_views": 3606.0,
+              "channel_subscribers": 4800
+            },
+            {
+              "video_id": "f_oseMjd0CU",
+              "title": "So fühlt es sich zumindest an 🤣",
+              "url": "https://www.youtube.com/watch?v=f_oseMjd0CU",
+              "views": 73327,
+              "published_at": "2026-05-11T05:27:37Z",
+              "age_days": 60,
+              "outlier_score": 35.7,
+              "channel_title": "Viktor Koza - Shorts",
+              "channel_url": "https://www.youtube.com/channel/UCaDu3NAJaPcQAALD9vP9Wwg",
+              "channel_age_months": 10.7,
+              "channel_median_views": 2054.5,
+              "channel_subscribers": 301
+            },
+            {
+              "video_id": "fNg15RTmIPk",
+              "title": "Die KI Blase einfach erklärt",
+              "url": "https://www.youtube.com/watch?v=fNg15RTmIPk",
+              "views": 264626,
+              "published_at": "2025-12-02T22:45:02Z",
+              "age_days": 219,
+              "outlier_score": 33.4,
+              "channel_title": "Kettner-Edelmetalle (Gold & Silber)",
+              "channel_url": "https://www.youtube.com/channel/UCICWTMc7Jni_u5ORVXBOnLQ",
+              "channel_age_months": 128.6,
+              "channel_median_views": 7913.0,
+              "channel_subscribers": 501000
+            },
+            {
+              "video_id": "zLgfpO2NCB8",
+              "title": "KI-Blase verstehen: Was passiert hier eigentlich?",
+              "url": "https://www.youtube.com/watch?v=zLgfpO2NCB8",
+              "views": 817,
+              "published_at": "2026-03-22T11:01:33Z",
+              "age_days": 110,
+              "outlier_score": 26.4,
+              "channel_title": "Finanzlogik - Wirtschaft entschlüsselt",
+              "channel_url": "https://www.youtube.com/channel/UCGFOZKYfOitL8w7UcoU699Q",
+              "channel_age_months": 5.0,
+              "channel_median_views": 31.0,
+              "channel_subscribers": 15
+            },
+            {
+              "video_id": "wwP8NRYvTSs",
+              "title": "Deutschland AG - Warum du arbeitest und andere kassieren",
+              "url": "https://www.youtube.com/watch?v=wwP8NRYvTSs",
+              "views": 709,
+              "published_at": "2026-04-25T11:26:25Z",
+              "age_days": 76,
+              "outlier_score": 22.9,
+              "channel_title": "Finanzlogik - Wirtschaft entschlüsselt",
+              "channel_url": "https://www.youtube.com/channel/UCGFOZKYfOitL8w7UcoU699Q",
+              "channel_age_months": 5.0,
+              "channel_median_views": 31.0,
+              "channel_subscribers": 15
+            },
+            {
+              "video_id": "M9l3Jp0PPbU",
+              "title": "Anleger werden bei Silber, Gold und Aktien überrascht werden / Neue Chance an Börse? / F. Hellmeyer",
+              "url": "https://www.youtube.com/watch?v=M9l3Jp0PPbU",
+              "views": 112241,
+              "published_at": "2026-06-07T06:43:27Z",
+              "age_days": 33,
+              "outlier_score": 22.3,
+              "channel_title": "Beating Beta",
+              "channel_url": "https://www.youtube.com/channel/UC4KOh3H9FJldjTgUkhQ1UyA",
+              "channel_age_months": 14.0,
+              "channel_median_views": 5040.5,
+              "channel_subscribers": 30100
+            },
+            {
+              "video_id": "TGZQKQKfh10",
+              "title": "Was das WM-Aus wirklich über Deutschland verrät – es ist brutal!",
+              "url": "https://www.youtube.com/watch?v=TGZQKQKfh10",
+              "views": 139395,
+              "published_at": "2026-06-30T17:46:50Z",
+              "age_days": 10,
+              "outlier_score": 17.6,
+              "channel_title": "Kettner-Edelmetalle (Gold & Silber)",
+              "channel_url": "https://www.youtube.com/channel/UCICWTMc7Jni_u5ORVXBOnLQ",
+              "channel_age_months": 128.6,
+              "channel_median_views": 7913.0,
+              "channel_subscribers": 501000
+            }
+          ],
+          "channel_profiles": [
+            {
+              "channel_id": "UCeARcCUiZg79SQQ-2_XNlXQ",
+              "title": "Finanzfluss",
+              "url": "https://www.youtube.com/channel/UCeARcCUiZg79SQQ-2_XNlXQ",
+              "age_months": 130.7,
+              "subscribers": 1630000,
+              "median_views": 24024.0,
+              "uploads_per_week": 18.45,
+              "last_upload_days_ago": 7
+            },
+            {
+              "channel_id": "UCpV9LpCg4uwYCQZ3qoEn_YQ",
+              "title": "Aktien mit Kopf",
+              "url": "https://www.youtube.com/channel/UCpV9LpCg4uwYCQZ3qoEn_YQ",
+              "age_months": 151.3,
+              "subscribers": 727000,
+              "median_views": 151382.0,
+              "uploads_per_week": 33.83,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UC-muQylmRx61Mt6U1oDSEVA",
+              "title": "Finanztip",
+              "url": "https://www.youtube.com/channel/UC-muQylmRx61Mt6U1oDSEVA",
+              "age_months": 120.4,
+              "subscribers": 582000,
+              "median_views": 19435.5,
+              "uploads_per_week": 12.69,
+              "last_upload_days_ago": 7
+            },
+            {
+              "channel_id": "UCICWTMc7Jni_u5ORVXBOnLQ",
+              "title": "Kettner-Edelmetalle (Gold & Silber)",
+              "url": "https://www.youtube.com/channel/UCICWTMc7Jni_u5ORVXBOnLQ",
+              "age_months": 128.6,
+              "subscribers": 501000,
+              "median_views": 7913.0,
+              "uploads_per_week": 39.2,
+              "last_upload_days_ago": 6
+            },
+            {
+              "channel_id": "UCuw4-WfkLIBSCrHsQqN0bGw",
+              "title": "Überfluss",
+              "url": "https://www.youtube.com/channel/UCuw4-WfkLIBSCrHsQqN0bGw",
+              "age_months": 69.3,
+              "subscribers": 330000,
+              "median_views": 40318.5,
+              "uploads_per_week": 4.95,
+              "last_upload_days_ago": 7
+            },
+            {
+              "channel_id": "UCWFnsgnkOAc0D7OweruB3hA",
+              "title": "Mario Lochner",
+              "url": "https://www.youtube.com/channel/UCWFnsgnkOAc0D7OweruB3hA",
+              "age_months": 48.3,
+              "subscribers": 295000,
+              "median_views": 75724.5,
+              "uploads_per_week": 3.9,
+              "last_upload_days_ago": 6
+            },
+            {
+              "channel_id": "UCL5ysObh1s_qTYq_37-KffQ",
+              "title": "VisualEconomik DE",
+              "url": "https://www.youtube.com/channel/UCL5ysObh1s_qTYq_37-KffQ",
+              "age_months": 45.6,
+              "subscribers": 125000,
+              "median_views": 25424.5,
+              "uploads_per_week": 1.95,
+              "last_upload_days_ago": 3
+            },
+            {
+              "channel_id": "UC3gHg9AkZpcoYhl8nQpcBMw",
+              "title": "Einfach Erklärt",
+              "url": "https://www.youtube.com/channel/UC3gHg9AkZpcoYhl8nQpcBMw",
+              "age_months": 38.8,
+              "subscribers": 82800,
+              "median_views": 41041.0,
+              "uploads_per_week": 1.41,
+              "last_upload_days_ago": 3
+            },
+            {
+              "channel_id": "UC4KOh3H9FJldjTgUkhQ1UyA",
+              "title": "Beating Beta",
+              "url": "https://www.youtube.com/channel/UC4KOh3H9FJldjTgUkhQ1UyA",
+              "age_months": 14.0,
+              "subscribers": 30100,
+              "median_views": 5040.5,
+              "uploads_per_week": 5.64,
+              "last_upload_days_ago": 1
+            },
+            {
+              "channel_id": "UCBqE2Yj4Zx0_LN1Y6otIBVg",
+              "title": "Surplus Magazin",
+              "url": "https://www.youtube.com/channel/UCBqE2Yj4Zx0_LN1Y6otIBVg",
+              "age_months": 17.9,
+              "subscribers": 25000,
+              "median_views": 13178.0,
+              "uploads_per_week": 1.39,
+              "last_upload_days_ago": 0
+            },
+            {
+              "channel_id": "UCMxEhBkgqcLH70IvPV8ON8Q",
+              "title": "Philipp Trabant",
+              "url": "https://www.youtube.com/channel/UCMxEhBkgqcLH70IvPV8ON8Q",
+              "age_months": 20.7,
+              "subscribers": 4800,
+              "median_views": 3606.0,
+              "uploads_per_week": 0.67,
+              "last_upload_days_ago": 153
+            },
+            {
+              "channel_id": "UCeb69KoIwVzIaSQen8MIorg",
+              "title": "Prof. Dr. Capital",
+              "url": "https://www.youtube.com/channel/UCeb69KoIwVzIaSQen8MIorg",
+              "age_months": 6.8,
+              "subscribers": 440,
+              "median_views": 402.0,
+              "uploads_per_week": 1.38,
+              "last_upload_days_ago": 127
+            },
+            {
+              "channel_id": "UCaDu3NAJaPcQAALD9vP9Wwg",
+              "title": "Viktor Koza - Shorts",
+              "url": "https://www.youtube.com/channel/UCaDu3NAJaPcQAALD9vP9Wwg",
+              "age_months": 10.7,
+              "subscribers": 301,
+              "median_views": 2054.5,
+              "uploads_per_week": 3.17,
+              "last_upload_days_ago": 1
+            },
+            {
+              "channel_id": "UCPCud9mYcFGIuUc6fplY_Vw",
+              "title": "Die AffenWirtschaft",
+              "url": "https://www.youtube.com/channel/UCPCud9mYcFGIuUc6fplY_Vw",
+              "age_months": 3.9,
+              "subscribers": 23,
+              "median_views": 69.0,
+              "uploads_per_week": 7.0,
+              "last_upload_days_ago": 114
+            },
+            {
+              "channel_id": "UCGFOZKYfOitL8w7UcoU699Q",
+              "title": "Finanzlogik - Wirtschaft entschlüsselt",
+              "url": "https://www.youtube.com/channel/UCGFOZKYfOitL8w7UcoU699Q",
+              "age_months": 5.0,
+              "subscribers": 15,
+              "median_views": 31.0,
+              "uploads_per_week": 1.42,
+              "last_upload_days_ago": 55
+            }
+          ],
+          "living_channel_count": 22,
+          "living_outliers": [
+            {
+              "video_id": "fl9aiKiE_qI",
+              "title": "Das ist ein echtes Problem!",
+              "url": "https://www.youtube.com/watch?v=fl9aiKiE_qI",
+              "views": 159517,
+              "published_at": "2026-06-10T05:23:41Z",
+              "age_days": 30,
+              "outlier_score": 77.6,
+              "channel_title": "Viktor Koza - Shorts",
+              "channel_url": "https://www.youtube.com/channel/UCaDu3NAJaPcQAALD9vP9Wwg",
+              "channel_age_months": 10.7,
+              "channel_median_views": 2054.5,
+              "channel_subscribers": 301
+            },
+            {
+              "video_id": "v4o0pveJS6s",
+              "title": "Größer als der KI-Boom?! 5 Quanten-Aktien mit Mega-Potenzial",
+              "url": "https://www.youtube.com/watch?v=v4o0pveJS6s",
+              "views": 166178,
+              "published_at": "2025-07-26T15:01:28Z",
+              "age_days": 349,
+              "outlier_score": 46.1,
+              "channel_title": "Philipp Trabant",
+              "channel_url": "https://www.youtube.com/channel/UCMxEhBkgqcLH70IvPV8ON8Q",
+              "channel_age_months": 20.7,
+              "channel_median_views": 3606.0,
+              "channel_subscribers": 4800
+            },
+            {
+              "video_id": "f_oseMjd0CU",
+              "title": "So fühlt es sich zumindest an 🤣",
+              "url": "https://www.youtube.com/watch?v=f_oseMjd0CU",
+              "views": 73327,
+              "published_at": "2026-05-11T05:27:37Z",
+              "age_days": 60,
+              "outlier_score": 35.7,
+              "channel_title": "Viktor Koza - Shorts",
+              "channel_url": "https://www.youtube.com/channel/UCaDu3NAJaPcQAALD9vP9Wwg",
+              "channel_age_months": 10.7,
+              "channel_median_views": 2054.5,
+              "channel_subscribers": 301
+            },
+            {
+              "video_id": "fNg15RTmIPk",
+              "title": "Die KI Blase einfach erklärt",
+              "url": "https://www.youtube.com/watch?v=fNg15RTmIPk",
+              "views": 264626,
+              "published_at": "2025-12-02T22:45:02Z",
+              "age_days": 219,
+              "outlier_score": 33.4,
+              "channel_title": "Kettner-Edelmetalle (Gold & Silber)",
+              "channel_url": "https://www.youtube.com/channel/UCICWTMc7Jni_u5ORVXBOnLQ",
+              "channel_age_months": 128.6,
+              "channel_median_views": 7913.0,
+              "channel_subscribers": 501000
+            },
+            {
+              "video_id": "M9l3Jp0PPbU",
+              "title": "Anleger werden bei Silber, Gold und Aktien überrascht werden / Neue Chance an Börse? / F. Hellmeyer",
+              "url": "https://www.youtube.com/watch?v=M9l3Jp0PPbU",
+              "views": 112241,
+              "published_at": "2026-06-07T06:43:27Z",
+              "age_days": 33,
+              "outlier_score": 22.3,
+              "channel_title": "Beating Beta",
+              "channel_url": "https://www.youtube.com/channel/UC4KOh3H9FJldjTgUkhQ1UyA",
+              "channel_age_months": 14.0,
+              "channel_median_views": 5040.5,
+              "channel_subscribers": 30100
+            }
+          ]
+        }
+      },
+      "evaluated_at": "2026-07-10T18:23:44Z",
+      "kill_reasons": [],
+      "score": 77,
+      "score_breakdown": {
+        "newcomer_25": 17,
+        "monetization_25": 22,
+        "trend_15": 12,
+        "saturation_inverse_15": 10,
+        "feasibility_10": 7,
+        "slop_penalty": 0,
+        "de_transferability_10": 9,
         "energiepilot_bonus_10": 0
       }
     }

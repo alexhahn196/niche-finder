@@ -1,0 +1,531 @@
+[
+ {
+  "id": "rise-fall-companies-v2",
+  "name": "Rise & Fall von Firmen v2 (Rerun)",
+  "query": "the rise and fall of company",
+  "rpm": [
+   12,
+   20
+  ],
+  "lf_results": 50,
+  "shorts_results": 0,
+  "young_channels": [
+   {
+    "channel_id": "UC98uYFd5PZbtYenQfrjq7oA",
+    "name": "TechButMakeItReal",
+    "url": "https://www.youtube.com/channel/UC98uYFd5PZbtYenQfrjq7oA",
+    "alter_monate": 19.6,
+    "subs": 74800,
+    "total_views": 2722803,
+    "videos_gesamt": 50,
+    "lf_views_90d": 392122,
+    "lf_n_90d": 10,
+    "lf_n_midroll": 10,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 132450,
+    "bestes_lf_video": {
+     "titel": "The Rise and Fall of Corporate Consulting",
+     "views": 589885,
+     "age_days": 149,
+     "dauer_min": 19.6,
+     "url": "https://www.youtube.com/watch?v=zUrwjSWzOLM"
+    },
+    "bestes_video_in_suche": "The Rise and Fall of Corporate Consulting"
+   },
+   {
+    "channel_id": "UCKz7EF79whNGRwuu-wj7Uvg",
+    "name": "Rise and Fall America",
+    "url": "https://www.youtube.com/channel/UCKz7EF79whNGRwuu-wj7Uvg",
+    "alter_monate": 21.7,
+    "subs": 23300,
+    "total_views": 5242479,
+    "videos_gesamt": 63,
+    "lf_views_90d": 1892,
+    "lf_n_90d": 2,
+    "lf_n_midroll": 2,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 639,
+    "bestes_lf_video": {
+     "titel": "Harbor Freight's Dirty Little Secret - How Their Tools are so Cheap an",
+     "views": 1244729,
+     "age_days": 220,
+     "dauer_min": 20.1,
+     "url": "https://www.youtube.com/watch?v=dWO9fxuRMpM"
+    },
+    "bestes_video_in_suche": "The Rise and Fall of Airbnb — Why Millions of Americans Just Stopped Booking"
+   }
+  ],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCa90xqK2odw1KV5wHU9WRhg",
+    "name": "The Office",
+    "url": "https://www.youtube.com/channel/UCa90xqK2odw1KV5wHU9WRhg",
+    "alter_monate": 147.0,
+    "subs": 3770000,
+    "total_views": 3940033323,
+    "videos_gesamt": 1782,
+    "lf_views_90d": 10553379,
+    "lf_n_90d": 43,
+    "lf_n_midroll": 40,
+    "shorts_views_90d": 631592,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 3564697,
+    "bestes_lf_video": {
+     "titel": "🔴 Insanely Funny Superfan DELETED SCENES S1-9 | The Office US",
+     "views": 839610,
+     "age_days": 72,
+     "dauer_min": 143.8,
+     "url": "https://www.youtube.com/watch?v=DkR4Ksuifo0"
+    },
+    "bestes_video_in_suche": "The Rise and Fall of Ryan Howard - The Office"
+   },
+   {
+    "channel_id": "UCcyq283he07B7_KUX07mmtA",
+    "name": "Business Insider",
+    "url": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
+    "alter_monate": 201.5,
+    "subs": 10500000,
+    "total_views": 6598901455,
+    "videos_gesamt": 8000,
+    "lf_views_90d": 1142371,
+    "lf_n_90d": 6,
+    "lf_n_midroll": 5,
+    "shorts_views_90d": 3476998,
+    "runrate_fenster_tage": 30,
+    "lf_monat": 1157603,
+    "bestes_lf_video": {
+     "titel": "Why Rolls-Royce Cars Are More Expensive Than Ever (with Supercar Blond",
+     "views": 363826,
+     "age_days": 6,
+     "dauer_min": 17.9,
+     "url": "https://www.youtube.com/watch?v=m8c-MRfKs5U"
+    },
+    "bestes_video_in_suche": "The Rise And Fall Of Subway"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 2119,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "finanzkrisen-erklaert",
+  "name": "Finanzkrisen erklärt (Crayon-Feld)",
+  "query": "financial crisis explained",
+  "rpm": [
+   12,
+   20
+  ],
+  "lf_results": 42,
+  "shorts_results": 8,
+  "young_channels": [
+   {
+    "channel_id": "UCP9RPj_BG0vit2TNM7LuRxA",
+    "name": "Crayon Capital",
+    "url": "https://www.youtube.com/channel/UCP9RPj_BG0vit2TNM7LuRxA",
+    "alter_monate": 15.3,
+    "subs": 226000,
+    "total_views": 16276991,
+    "videos_gesamt": 25,
+    "lf_views_90d": 533182,
+    "lf_n_90d": 6,
+    "lf_n_midroll": 6,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 180097,
+    "bestes_lf_video": {
+     "titel": "The Wolf of Wall Street Scam Explained Like You're 5",
+     "views": 4147948,
+     "age_days": 280,
+     "dauer_min": 16.6,
+     "url": "https://www.youtube.com/watch?v=HawmGu7oNrc"
+    },
+    "bestes_video_in_suche": "The 2008 Financial Crisis Explained Like You’re 5"
+   }
+  ],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCJsc0uHyv_G5sIkAM1y0S7Q",
+    "name": "Danny Cheek",
+    "url": "https://www.youtube.com/channel/UCJsc0uHyv_G5sIkAM1y0S7Q",
+    "alter_monate": 122.5,
+    "subs": 9020,
+    "total_views": 14553684,
+    "videos_gesamt": 10,
+    "lf_views_90d": 0,
+    "lf_n_90d": 0,
+    "lf_n_midroll": 0,
+    "shorts_views_90d": 1072,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 0,
+    "bestes_lf_video": {
+     "titel": "Stock Market Crash of 2008",
+     "views": 14364835,
+     "age_days": 2397,
+     "dauer_min": 3.2,
+     "url": "https://www.youtube.com/watch?v=bluUxKIB4pA"
+    },
+    "bestes_video_in_suche": "Stock Market Crash of 2008"
+   },
+   {
+    "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
+    "name": "The Diary Of A CEO",
+    "url": "https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw",
+    "alter_monate": 87.7,
+    "subs": 18100000,
+    "total_views": 1578386878,
+    "videos_gesamt": 814,
+    "lf_views_90d": 56858092,
+    "lf_n_90d": 18,
+    "lf_n_midroll": 18,
+    "shorts_views_90d": 11179292,
+    "runrate_fenster_tage": 60,
+    "lf_monat": 28808100,
+    "bestes_lf_video": {
+     "titel": "Archaeology Warning: They May Have Secretly Found Antarctica  300 Year",
+     "views": 8420458,
+     "age_days": 29,
+     "dauer_min": 116.7,
+     "url": "https://www.youtube.com/watch?v=Xs94KBeIiAo"
+    },
+    "bestes_video_in_suche": "Financial Crash Expert: The 90-Day Collapse Timeline They Are Desperately Hiding."
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 2882,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "warum-alles-teuer",
+  "name": "Warum alles so teuer ist (Cost-of-Living)",
+  "query": "why everything is so expensive",
+  "rpm": [
+   12,
+   20
+  ],
+  "lf_results": 29,
+  "shorts_results": 21,
+  "young_channels": [],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCcyq283he07B7_KUX07mmtA",
+    "name": "Business Insider",
+    "url": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
+    "alter_monate": 201.5,
+    "subs": 10500000,
+    "total_views": 6598901455,
+    "videos_gesamt": 8000,
+    "lf_views_90d": 1142371,
+    "lf_n_90d": 6,
+    "lf_n_midroll": 5,
+    "shorts_views_90d": 3476998,
+    "runrate_fenster_tage": 30,
+    "lf_monat": 1157603,
+    "bestes_lf_video": {
+     "titel": "Why Rolls-Royce Cars Are More Expensive Than Ever (with Supercar Blond",
+     "views": 363826,
+     "age_days": 6,
+     "dauer_min": 17.9,
+     "url": "https://www.youtube.com/watch?v=m8c-MRfKs5U"
+    },
+    "bestes_video_in_suche": "Why Airport Food Is So Expensive"
+   },
+   {
+    "channel_id": "UCMr1lqB1oN3-cYf6cj6-v-A",
+    "name": "Degenerocity",
+    "url": "https://www.youtube.com/channel/UCMr1lqB1oN3-cYf6cj6-v-A",
+    "alter_monate": 77.5,
+    "subs": 2660000,
+    "total_views": 384098270,
+    "videos_gesamt": 113,
+    "lf_views_90d": 0,
+    "lf_n_90d": 0,
+    "lf_n_midroll": 0,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 0,
+    "bestes_lf_video": {
+     "titel": "School Drills",
+     "views": 15176237,
+     "age_days": 1315,
+     "dauer_min": 8.2,
+     "url": "https://www.youtube.com/watch?v=XUfJnqCN_o0"
+    },
+    "bestes_video_in_suche": "Everything is Expensive"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 0,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "kreditkarten-wahrheit",
+  "name": "Kreditkarten/Kredit-System erklärt",
+  "query": "the truth about credit cards",
+  "rpm": [
+   20,
+   35
+  ],
+  "lf_results": 27,
+  "shorts_results": 23,
+  "young_channels": [],
+  "ceiling_channels": [
+   {
+    "channel_id": "UC6WzPg6yxF9dQx2_O6R4lww",
+    "name": "Nitish Rajput",
+    "url": "https://www.youtube.com/channel/UC6WzPg6yxF9dQx2_O6R4lww",
+    "alter_monate": 74.4,
+    "subs": 8450000,
+    "total_views": 994265060,
+    "videos_gesamt": 114,
+    "lf_views_90d": 21355895,
+    "lf_n_90d": 4,
+    "lf_n_midroll": 4,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 7213547,
+    "bestes_lf_video": {
+     "titel": "Planning Of Article 370 Removal",
+     "views": 45431181,
+     "age_days": 845,
+     "dauer_min": 41.9,
+     "url": "https://www.youtube.com/watch?v=3wCnVvdrqy8"
+    },
+    "bestes_video_in_suche": "Reality Of Credit Cards"
+   },
+   {
+    "channel_id": "UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "name": "FRONTLINE PBS | Official",
+    "url": "https://www.youtube.com/channel/UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "alter_monate": 155.2,
+    "subs": 4050000,
+    "total_views": 973071048,
+    "videos_gesamt": 1242,
+    "lf_views_90d": 6044344,
+    "lf_n_90d": 22,
+    "lf_n_midroll": 19,
+    "shorts_views_90d": 306228,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 2041645,
+    "bestes_lf_video": {
+     "titel": "Remaking the Middle East: The U.S., Israel & Iran (updated documentary",
+     "views": 3239014,
+     "age_days": 121,
+     "dauer_min": 113.3,
+     "url": "https://www.youtube.com/watch?v=vWaoon6lZM0"
+    },
+    "bestes_video_in_suche": "The Secret History of the Credit Card (full documentary) | FRONTLINE"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 0,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "versicherung-erklaert",
+  "name": "Wie Versicherungen wirklich funktionieren",
+  "query": "how insurance actually works",
+  "rpm": [
+   20,
+   35
+  ],
+  "lf_results": 20,
+  "shorts_results": 30,
+  "young_channels": [],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCfdNM3NAhaBOXCafH7krzrA",
+    "name": "The Infographics Show",
+    "url": "https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA",
+    "alter_monate": 184.6,
+    "subs": 15500000,
+    "total_views": 6834609405,
+    "videos_gesamt": 6212,
+    "lf_views_90d": 22576758,
+    "lf_n_90d": 49,
+    "lf_n_midroll": 49,
+    "shorts_views_90d": 71753,
+    "runrate_fenster_tage": 48,
+    "lf_monat": 14298613,
+    "bestes_lf_video": {
+     "titel": "Leave Windows 11 Idle for 24 Hours and Watch What Happens",
+     "views": 1702192,
+     "age_days": 15,
+     "dauer_min": 18.0,
+     "url": "https://www.youtube.com/watch?v=Wtg_s1GQiMU"
+    },
+    "bestes_video_in_suche": "Insurance Explained - How Do Insurance Companies Make Money and How Do They Work"
+   },
+   {
+    "channel_id": "UCwBx2Q2XG-suL4-eg66gT0g",
+    "name": "Concerning Reality",
+    "url": "https://www.youtube.com/channel/UCwBx2Q2XG-suL4-eg66gT0g",
+    "alter_monate": 116.2,
+    "subs": 239000,
+    "total_views": 44991989,
+    "videos_gesamt": 702,
+    "lf_views_90d": 0,
+    "lf_n_90d": 0,
+    "lf_n_midroll": 0,
+    "shorts_views_90d": 37476,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 0,
+    "bestes_lf_video": {
+     "titel": "Why the Earth is Currently Surrounded by Needles",
+     "views": 1319,
+     "age_days": 263,
+     "dauer_min": 4.4,
+     "url": "https://www.youtube.com/watch?v=UGIOkHof3Ng"
+    },
+    "bestes_video_in_suche": "How Does Insurance Work?"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 0,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "boerse-erklaert",
+  "name": "Börse/Investieren erklärt (Story-Format)",
+  "query": "how the stock market actually works",
+  "rpm": [
+   15,
+   25
+  ],
+  "lf_results": 27,
+  "shorts_results": 23,
+  "young_channels": [
+   {
+    "channel_id": "UCUh5m4D_bSOqw7cJF8EQ8Dw",
+    "name": "Finance Simply Explained",
+    "url": "https://www.youtube.com/channel/UCUh5m4D_bSOqw7cJF8EQ8Dw",
+    "alter_monate": 10.9,
+    "subs": 18100,
+    "total_views": 573155,
+    "videos_gesamt": 63,
+    "lf_views_90d": 6846,
+    "lf_n_90d": 14,
+    "lf_n_midroll": 14,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 2312,
+    "bestes_lf_video": {
+     "titel": "ETFs vs Index Funds vs Mutual Funds vs Hedge Funds Explained Simply | ",
+     "views": 8936,
+     "age_days": 251,
+     "dauer_min": 21.9,
+     "url": "https://www.youtube.com/watch?v=fUeOclCC9Bo"
+    },
+    "bestes_video_in_suche": "Every Stock Market Terms Explained: Stock Market For Beginners"
+   }
+  ],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+    "name": "Netflix",
+    "url": "https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw",
+    "alter_monate": 167.9,
+    "subs": 33400000,
+    "total_views": 11311780163,
+    "videos_gesamt": 9160,
+    "lf_views_90d": 137873,
+    "lf_n_90d": 1,
+    "lf_n_midroll": 0,
+    "shorts_views_90d": 16801611,
+    "runrate_fenster_tage": 30,
+    "lf_monat": 139711,
+    "bestes_lf_video": {
+     "titel": "Little House on the Prairie | Meet The Ingalls | Netflix",
+     "views": 137873,
+     "age_days": 7,
+     "dauer_min": 3.2,
+     "url": "https://www.youtube.com/watch?v=2dQw6luieLE"
+    },
+    "bestes_video_in_suche": "Explained | The Stock Market | FULL EPISODE | Netflix"
+   },
+   {
+    "channel_id": "UCsooa4yRKGN_zEE8iknghZA",
+    "name": "TED-Ed",
+    "url": "https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA",
+    "alter_monate": 184.5,
+    "subs": 22700000,
+    "total_views": 4643042084,
+    "videos_gesamt": 2368,
+    "lf_views_90d": 7025069,
+    "lf_n_90d": 24,
+    "lf_n_midroll": 0,
+    "shorts_views_90d": 31802,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 2372912,
+    "bestes_lf_video": {
+     "titel": "What happens if you eat a silica gel packet? - Vivian Jiang",
+     "views": 1641249,
+     "age_days": 101,
+     "dauer_min": 5.6,
+     "url": "https://www.youtube.com/watch?v=QWCHnR53oIw"
+    },
+    "bestes_video_in_suche": "How does the stock market work? - Oliver Elfenbaum"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 46,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "wealth-inequality",
+  "name": "Vermögensungleichheit & Geldsystem",
+  "query": "wealth inequality explained",
+  "rpm": [
+   12,
+   20
+  ],
+  "lf_results": 34,
+  "shorts_results": 16,
+  "young_channels": [],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCY0cmOmee24dMhj6kXaIs2A",
+    "name": "politizane",
+    "url": "https://www.youtube.com/channel/UCY0cmOmee24dMhj6kXaIs2A",
+    "alter_monate": 163.8,
+    "subs": 30000,
+    "total_views": 26524942,
+    "videos_gesamt": 1,
+    "lf_views_90d": 0,
+    "lf_n_90d": 0,
+    "lf_n_midroll": 0,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 0,
+    "bestes_lf_video": {
+     "titel": "Wealth Inequality in America",
+     "views": 26525233,
+     "age_days": 4979,
+     "dauer_min": 6.4,
+     "url": "https://www.youtube.com/watch?v=QPKKQnijnsM"
+    },
+    "bestes_video_in_suche": "Wealth Inequality in America"
+   },
+   {
+    "channel_id": "UCzWwWbbKHg4aodl0S35R6XA",
+    "name": "Hoover Institution",
+    "url": "https://www.youtube.com/channel/UCzWwWbbKHg4aodl0S35R6XA",
+    "alter_monate": 214.4,
+    "subs": 1190000,
+    "total_views": 420552408,
+    "videos_gesamt": 3458,
+    "lf_views_90d": 11435603,
+    "lf_n_90d": 24,
+    "lf_n_midroll": 22,
+    "shorts_views_90d": 909146,
+    "runrate_fenster_tage": 30,
+    "lf_monat": 11588078,
+    "bestes_lf_video": {
+     "titel": "The Billionaire Wealth Tax: A Recipe for Economic Disaster | Joshua Ra",
+     "views": 6553464,
+     "age_days": 14,
+     "dauer_min": 4.0,
+     "url": "https://www.youtube.com/watch?v=x6k4W5Qzg8U"
+    },
+    "bestes_video_in_suche": "Thomas Sowell on the Myths of Economic Inequality"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 0,
+  "verdict": "FAIL"
+ }
+]

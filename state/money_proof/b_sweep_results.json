@@ -1,0 +1,1111 @@
+[
+ {
+  "id": "corporate-fraud-dokus",
+  "name": "Corporate-Fraud-Dokus",
+  "query": "biggest corporate frauds documentary",
+  "rpm": [
+   12,
+   20
+  ],
+  "lf_results": 49,
+  "shorts_results": 1,
+  "young_channels": [
+   {
+    "channel_id": "UCYKp5EfW6JxkPxxhfbT8KQg",
+    "name": "Red Dot Roast",
+    "url": "https://www.youtube.com/channel/UCYKp5EfW6JxkPxxhfbT8KQg",
+    "alter_monate": 18.9,
+    "subs": 13400,
+    "total_views": 2544200,
+    "videos_gesamt": 55,
+    "lf_views_90d": 3623,
+    "lf_n_90d": 4,
+    "lf_n_midroll": 4,
+    "shorts_views_90d": 3553,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 1224,
+    "bestes_lf_video": {
+     "titel": "Singapore’s Biggest Financial Scam - The Rise and Fall of Ng Yu Zhi",
+     "views": 268366,
+     "age_days": 401,
+     "dauer_min": 12.1,
+     "url": "https://www.youtube.com/watch?v=Ulca25rSCyQ"
+    },
+    "bestes_video_in_suche": "Singapore’s Biggest Financial Scam - The Rise and Fall of Ng Yu Zhi"
+   }
+  ],
+  "ceiling_channels": [
+   {
+    "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+    "name": "ColdFusion",
+    "url": "https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A",
+    "alter_monate": 223.5,
+    "subs": 5220000,
+    "total_views": 567922781,
+    "videos_gesamt": 578,
+    "lf_views_90d": 5706925,
+    "lf_n_90d": 9,
+    "lf_n_midroll": 9,
+    "shorts_views_90d": 446016,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 1927672,
+    "bestes_lf_video": {
+     "titel": "The Windows 11 Crisis",
+     "views": 2494705,
+     "age_days": 211,
+     "dauer_min": 21.8,
+     "url": "https://www.youtube.com/watch?v=zKjo8Oc2qLk"
+    },
+    "bestes_video_in_suche": "Theranos – Silicon Valley’s Greatest Disaster"
+   },
+   {
+    "channel_id": "UCT0dmfFCLWuVKPWZ6wcdKyg",
+    "name": "James Jani",
+    "url": "https://www.youtube.com/channel/UCT0dmfFCLWuVKPWZ6wcdKyg",
+    "alter_monate": 79.2,
+    "subs": 2210000,
+    "total_views": 94124582,
+    "videos_gesamt": 28,
+    "lf_views_90d": 0,
+    "lf_n_90d": 0,
+    "lf_n_midroll": 0,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 0,
+    "bestes_lf_video": {
+     "titel": "The Untold Truth About Money: How to Build Wealth From Nothing.",
+     "views": 19132729,
+     "age_days": 2275,
+     "dauer_min": 17.4,
+     "url": "https://www.youtube.com/watch?v=6mRbDEtDoyA"
+    },
+    "bestes_video_in_suche": "The Fake Genius: a $30 BILLION Fraud."
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 20,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "startup-betrug-v2",
+  "name": "Startup-Betrug & Tech-Skandale v2",
+  "query": "tech startup scandal story",
+  "rpm": [
+   12,
+   20
+  ],
+  "lf_results": 26,
+  "shorts_results": 24,
+  "young_channels": [],
+  "ceiling_channels": [
+   {
+    "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+    "name": "ColdFusion",
+    "url": "https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A",
+    "alter_monate": 223.5,
+    "subs": 5220000,
+    "total_views": 567922781,
+    "videos_gesamt": 578,
+    "lf_views_90d": 5706925,
+    "lf_n_90d": 9,
+    "lf_n_midroll": 9,
+    "shorts_views_90d": 446016,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 1927672,
+    "bestes_lf_video": {
+     "titel": "The Windows 11 Crisis",
+     "views": 2494705,
+     "age_days": 211,
+     "dauer_min": 21.8,
+     "url": "https://www.youtube.com/watch?v=zKjo8Oc2qLk"
+    },
+    "bestes_video_in_suche": "Theranos – Silicon Valley’s Greatest Disaster"
+   },
+   {
+    "channel_id": "UCE4Gn00XZbpWvGUfIslT-tA",
+    "name": "MagnatesMedia",
+    "url": "https://www.youtube.com/channel/UCE4Gn00XZbpWvGUfIslT-tA",
+    "alter_monate": 90.8,
+    "subs": 1850000,
+    "total_views": 192956230,
+    "videos_gesamt": 255,
+    "lf_views_90d": 0,
+    "lf_n_90d": 0,
+    "lf_n_midroll": 0,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 0,
+    "bestes_lf_video": {
+     "titel": "Rockefeller: The World’s First Billionaire",
+     "views": 7616013,
+     "age_days": 964,
+     "dauer_min": 49.5,
+     "url": "https://www.youtube.com/watch?v=fNh_GyRbJDA"
+    },
+    "bestes_video_in_suche": "The $47 Billion Cult"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 0,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "krypto-skandale-v2",
+  "name": "Krypto-Skandale v2",
+  "query": "biggest crypto collapses explained",
+  "rpm": [
+   10,
+   18
+  ],
+  "lf_results": 30,
+  "shorts_results": 20,
+  "young_channels": [],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCbLhGKVY-bJPcawebgtNfbw",
+    "name": "Altcoin Daily",
+    "url": "https://www.youtube.com/channel/UCbLhGKVY-bJPcawebgtNfbw",
+    "alter_monate": 101.4,
+    "subs": 1650000,
+    "total_views": 298862531,
+    "videos_gesamt": 3774,
+    "lf_views_90d": 1453917,
+    "lf_n_90d": 32,
+    "lf_n_midroll": 32,
+    "shorts_views_90d": 525952,
+    "runrate_fenster_tage": 30,
+    "lf_monat": 1473303,
+    "bestes_lf_video": {
+     "titel": "The Looming Collapse Of Michael Saylor’s Bitcoin Empire (i'm sorry)",
+     "views": 88719,
+     "age_days": 21,
+     "dauer_min": 13.7,
+     "url": "https://www.youtube.com/watch?v=ea46IMwPLTE"
+    },
+    "bestes_video_in_suche": "The Greatest Bitcoin Explanation of ALL TIME (in Under 10 Minutes)"
+   },
+   {
+    "channel_id": "UCFQMnBA3CS502aghlcr0_aw",
+    "name": "Coffeezilla",
+    "url": "https://www.youtube.com/channel/UCFQMnBA3CS502aghlcr0_aw",
+    "alter_monate": 95.3,
+    "subs": 4690000,
+    "total_views": 592181143,
+    "videos_gesamt": 539,
+    "lf_views_90d": 11829654,
+    "lf_n_90d": 2,
+    "lf_n_midroll": 2,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 3995794,
+    "bestes_lf_video": {
+     "titel": "Investigating Logan Paul's Biggest Scam",
+     "views": 11373237,
+     "age_days": 1301,
+     "dauer_min": 24.8,
+     "url": "https://www.youtube.com/watch?v=386p68_lDHA"
+    },
+    "bestes_video_in_suche": "FTX Collapsed…Here’s Why"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 0,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "steueroasen-v2",
+  "name": "Steueroasen & Reichen-Steuertricks v2",
+  "query": "how billionaires avoid taxes",
+  "rpm": [
+   15,
+   25
+  ],
+  "lf_results": 23,
+  "shorts_results": 27,
+  "young_channels": [
+   {
+    "channel_id": "UCXzNNA2ngRpRiWvyA7eGd6w",
+    "name": "Nick Invests",
+    "url": "https://www.youtube.com/channel/UCXzNNA2ngRpRiWvyA7eGd6w",
+    "alter_monate": 17.9,
+    "subs": 187000,
+    "total_views": 16599183,
+    "videos_gesamt": 303,
+    "lf_views_90d": 787192,
+    "lf_n_90d": 50,
+    "lf_n_midroll": 50,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 51,
+    "lf_monat": 469228,
+    "bestes_lf_video": {
+     "titel": "If You Don't Understand Bonds, You Don't Understand Money",
+     "views": 105836,
+     "age_days": 31,
+     "dauer_min": 21.4,
+     "url": "https://www.youtube.com/watch?v=Dgp4_ehMo9k"
+    },
+    "bestes_video_in_suche": "Buy, Borrow, Die: How the Rich Actually Avoid Taxes"
+   }
+  ],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCLXo7UDZvByw2ixzpQCufnA",
+    "name": "Vox",
+    "url": "https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA",
+    "alter_monate": 148.4,
+    "subs": 12700000,
+    "total_views": 3828507424,
+    "videos_gesamt": 2251,
+    "lf_views_90d": 1168310,
+    "lf_n_90d": 13,
+    "lf_n_midroll": 13,
+    "shorts_views_90d": 1171336,
+    "runrate_fenster_tage": 30,
+    "lf_monat": 1183887,
+    "bestes_lf_video": {
+     "titel": "Why LA will never get a Mayor Zohran Mamdani",
+     "views": 448876,
+     "age_days": 21,
+     "dauer_min": 9.1,
+     "url": "https://www.youtube.com/watch?v=lbJR-G8CsR0"
+    },
+    "bestes_video_in_suche": "How the rich avoid paying taxes"
+   },
+   {
+    "channel_id": "UCdlNK1xcy-Sn8liq7feNxWw",
+    "name": "Grant Cardone",
+    "url": "https://www.youtube.com/channel/UCdlNK1xcy-Sn8liq7feNxWw",
+    "alter_monate": 225.1,
+    "subs": 3130000,
+    "total_views": 674234225,
+    "videos_gesamt": 6691,
+    "lf_views_90d": 104379,
+    "lf_n_90d": 14,
+    "lf_n_midroll": 13,
+    "shorts_views_90d": 334675,
+    "runrate_fenster_tage": 30,
+    "lf_monat": 105771,
+    "bestes_lf_video": {
+     "titel": "How John Morgan Built the Google of Law",
+     "views": 30802,
+     "age_days": 15,
+     "dauer_min": 67.4,
+     "url": "https://www.youtube.com/watch?v=h1mYd-wVjdM"
+    },
+    "bestes_video_in_suche": "How Big Earners Reduce their Taxes to Zero"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 9385,
+  "verdict": "PROMISING"
+ },
+ {
+  "id": "banken-kollaps",
+  "name": "Banken-Kollaps & Finanzkrisen",
+  "query": "why banks collapse explained",
+  "rpm": [
+   15,
+   25
+  ],
+  "lf_results": 42,
+  "shorts_results": 8,
+  "young_channels": [
+   {
+    "channel_id": "UCP9RPj_BG0vit2TNM7LuRxA",
+    "name": "Crayon Capital",
+    "url": "https://www.youtube.com/channel/UCP9RPj_BG0vit2TNM7LuRxA",
+    "alter_monate": 15.3,
+    "subs": 226000,
+    "total_views": 16276991,
+    "videos_gesamt": 25,
+    "lf_views_90d": 533182,
+    "lf_n_90d": 6,
+    "lf_n_midroll": 6,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 180097,
+    "bestes_lf_video": {
+     "titel": "The Wolf of Wall Street Scam Explained Like You're 5",
+     "views": 4147948,
+     "age_days": 280,
+     "dauer_min": 16.6,
+     "url": "https://www.youtube.com/watch?v=HawmGu7oNrc"
+    },
+    "bestes_video_in_suche": "The 2008 Financial Crisis Explained Like You’re 5"
+   }
+  ],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
+    "name": "Kurzgesagt – In a Nutshell",
+    "url": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
+    "alter_monate": 156.2,
+    "subs": 25300000,
+    "total_views": 3755906265,
+    "videos_gesamt": 375,
+    "lf_views_90d": 19452840,
+    "lf_n_90d": 6,
+    "lf_n_midroll": 6,
+    "shorts_views_90d": 18861177,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 6570737,
+    "bestes_lf_video": {
+     "titel": "This Is the Scariest Place in The Universe",
+     "views": 7442154,
+     "age_days": 122,
+     "dauer_min": 9.2,
+     "url": "https://www.youtube.com/watch?v=yDAAlojz8NU"
+    },
+    "bestes_video_in_suche": "Banking Explained – Money and Credit"
+   },
+   {
+    "channel_id": "UC-CSyyi47VX1lD9zyeABW3w",
+    "name": "Dhruv Rathee",
+    "url": "https://www.youtube.com/channel/UC-CSyyi47VX1lD9zyeABW3w",
+    "alter_monate": 162.2,
+    "subs": 32500000,
+    "total_views": 5855919087,
+    "videos_gesamt": 775,
+    "lf_views_90d": 178863333,
+    "lf_n_90d": 17,
+    "lf_n_midroll": 17,
+    "shorts_views_90d": 113584638,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 60416059,
+    "bestes_lf_video": {
+     "titel": "Iran Israel War | Why is ENTIRE Middle East under Attack? | Dhruv Rath",
+     "views": 23790702,
+     "age_days": 131,
+     "dauer_min": 8.6,
+     "url": "https://www.youtube.com/watch?v=yTV22sMVHPQ"
+    },
+    "bestes_video_in_suche": "Downfall of American Banks | Silicon Valley Bank Crash Explained | Dhruv Rathee"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 3602,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "business-model-erklaert",
+  "name": "Business-Model-Erklärstücke",
+  "query": "genius business model explained",
+  "rpm": [
+   12,
+   20
+  ],
+  "lf_results": 27,
+  "shorts_results": 23,
+  "young_channels": [],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCAuUUnT6oDeKwE6v1NGQxug",
+    "name": "TED",
+    "url": "https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug",
+    "alter_monate": 235.4,
+    "subs": 27600000,
+    "total_views": 3180748334,
+    "videos_gesamt": 5718,
+    "lf_views_90d": 9008316,
+    "lf_n_90d": 29,
+    "lf_n_midroll": 24,
+    "shorts_views_90d": 1710904,
+    "runrate_fenster_tage": 33,
+    "lf_monat": 8298570,
+    "bestes_lf_video": {
+     "titel": "Hint: It’s all you need #TEDTalks",
+     "views": 6357041,
+     "age_days": 15,
+     "dauer_min": 3.0,
+     "url": "https://www.youtube.com/watch?v=ytyzsAV4pxA"
+    },
+    "bestes_video_in_suche": "The single biggest reason why start-ups succeed | Bill Gross | TED"
+   },
+   {
+    "channel_id": "UCdTSGF4VBDHVSxDRz796j7Q",
+    "name": "Joe Polish",
+    "url": "https://www.youtube.com/channel/UCdTSGF4VBDHVSxDRz796j7Q",
+    "alter_monate": 215.5,
+    "subs": 200000,
+    "total_views": 18323960,
+    "videos_gesamt": 1648,
+    "lf_views_90d": 36361,
+    "lf_n_90d": 28,
+    "lf_n_midroll": 28,
+    "shorts_views_90d": 1176,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 12282,
+    "bestes_lf_video": {
+     "titel": "You Must Understand THIS Before You Go All In on AI ft. Peter Diamandi",
+     "views": 15918,
+     "age_days": 77,
+     "dauer_min": 74.7,
+     "url": "https://www.youtube.com/watch?v=8w77LLSd5dU"
+    },
+    "bestes_video_in_suche": "How To Build A Business That Works | Brian Tracy #GENIUS"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 0,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "rise-fall-companies-v2",
+  "name": "Rise & Fall von Firmen v2",
+  "fehler": "'NoneType' object has no attribute 'groups'"
+ },
+ {
+  "id": "ai-industry-analysen",
+  "name": "AI-Industrie-Analysen",
+  "query": "AI bubble explained",
+  "rpm": [
+   12,
+   20
+  ],
+  "lf_results": 39,
+  "shorts_results": 11,
+  "young_channels": [
+   {
+    "channel_id": "UCPiMR-Ize9p3dgjzZ8bo9ZQ",
+    "name": "The Tech Report",
+    "url": "https://www.youtube.com/channel/UCPiMR-Ize9p3dgjzZ8bo9ZQ",
+    "alter_monate": 12.7,
+    "subs": 79300,
+    "total_views": 12382844,
+    "videos_gesamt": 261,
+    "lf_views_90d": 5896597,
+    "lf_n_90d": 50,
+    "lf_n_midroll": 50,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 85,
+    "lf_monat": 2108901,
+    "bestes_lf_video": {
+     "titel": "How OpenAI ends and takes Oracle with it | Ed Zitron",
+     "views": 452309,
+     "age_days": 77,
+     "dauer_min": 40.3,
+     "url": "https://www.youtube.com/watch?v=zECyMRI8sV4"
+    },
+    "bestes_video_in_suche": "The AI bubble won’t survive this question | Ed Zitron"
+   },
+   {
+    "channel_id": "UCrNfRFWnLC3tCy1TnyhVQ7g",
+    "name": "Casual Finance",
+    "url": "https://www.youtube.com/channel/UCrNfRFWnLC3tCy1TnyhVQ7g",
+    "alter_monate": 11.8,
+    "subs": 281000,
+    "total_views": 13219812,
+    "videos_gesamt": 127,
+    "lf_views_90d": 1211694,
+    "lf_n_90d": 3,
+    "lf_n_midroll": 3,
+    "shorts_views_90d": 1625709,
+    "runrate_fenster_tage": 48,
+    "lf_monat": 767406,
+    "bestes_lf_video": {
+     "titel": "The $2.5 Trillion Credit Wave Nobody Sees Coming",
+     "views": 634953,
+     "age_days": 26,
+     "dauer_min": 17.6,
+     "url": "https://www.youtube.com/watch?v=YEhsWyY_WKQ"
+    },
+    "bestes_video_in_suche": "The AI Bubble… We Need to Talk"
+   },
+   {
+    "channel_id": "UCP9RPj_BG0vit2TNM7LuRxA",
+    "name": "Crayon Capital",
+    "url": "https://www.youtube.com/channel/UCP9RPj_BG0vit2TNM7LuRxA",
+    "alter_monate": 15.3,
+    "subs": 226000,
+    "total_views": 16276991,
+    "videos_gesamt": 25,
+    "lf_views_90d": 533182,
+    "lf_n_90d": 6,
+    "lf_n_midroll": 6,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 180097,
+    "bestes_lf_video": {
+     "titel": "The Wolf of Wall Street Scam Explained Like You're 5",
+     "views": 4147948,
+     "age_days": 280,
+     "dauer_min": 16.6,
+     "url": "https://www.youtube.com/watch?v=HawmGu7oNrc"
+    },
+    "bestes_video_in_suche": "The AI Bubble Explained Like You're 5"
+   }
+  ],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCxgAuX3XZROujMmGphN_scA",
+    "name": "Mark Tilbury",
+    "url": "https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA",
+    "alter_monate": 148.0,
+    "subs": 8620000,
+    "total_views": 2255277196,
+    "videos_gesamt": 351,
+    "lf_views_90d": 4927545,
+    "lf_n_90d": 3,
+    "lf_n_midroll": 3,
+    "shorts_views_90d": 94674893,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 1664415,
+    "bestes_lf_video": {
+     "titel": "I Tried AI Dropshipping For a Week (RAW RESULTS)",
+     "views": 2617407,
+     "age_days": 67,
+     "dauer_min": 28.5,
+     "url": "https://www.youtube.com/watch?v=rhuYy9LP72M"
+    },
+    "bestes_video_in_suche": "The AI Bubble Is On The Verge Of Collapse"
+   },
+   {
+    "channel_id": "UCOT2iLov0V7Re7ku_3UBtcQ",
+    "name": "Hank Green",
+    "url": "https://www.youtube.com/channel/UCOT2iLov0V7Re7ku_3UBtcQ",
+    "alter_monate": 200.3,
+    "subs": 3180000,
+    "total_views": 1468119609,
+    "videos_gesamt": 1242,
+    "lf_views_90d": 15447596,
+    "lf_n_90d": 20,
+    "lf_n_midroll": 20,
+    "shorts_views_90d": 24167417,
+    "runrate_fenster_tage": 78,
+    "lf_monat": 6020602,
+    "bestes_lf_video": {
+     "titel": "The Riskiest Moment of the AI Bubble",
+     "views": 1999084,
+     "age_days": 31,
+     "dauer_min": 12.5,
+     "url": "https://www.youtube.com/watch?v=AcjnLc4TH4M"
+    },
+    "bestes_video_in_suche": "The State of the AI Industry is Freaking Me Out"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 33742,
+  "verdict": "PROOF"
+ },
+ {
+  "id": "chip-war",
+  "name": "Chip-War & Halbleiter-Geopolitik",
+  "query": "semiconductor war explained",
+  "rpm": [
+   12,
+   20
+  ],
+  "lf_results": 34,
+  "shorts_results": 16,
+  "young_channels": [
+   {
+    "channel_id": "UC5Jnt7OgEHro3W7kr-jjCrw",
+    "name": "Big Think Clips",
+    "url": "https://www.youtube.com/channel/UC5Jnt7OgEHro3W7kr-jjCrw",
+    "alter_monate": 7.2,
+    "subs": 217000,
+    "total_views": 21348081,
+    "videos_gesamt": 84,
+    "lf_views_90d": 3358376,
+    "lf_n_90d": 37,
+    "lf_n_midroll": 37,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 1134385,
+    "bestes_lf_video": {
+     "titel": "How to pull yourself out of a cheap dopamine spiral | Mark Manson",
+     "views": 1100984,
+     "age_days": 73,
+     "dauer_min": 17.9,
+     "url": "https://www.youtube.com/watch?v=jfiBDuUVc-A"
+    },
+    "bestes_video_in_suche": "Semiconductors explained in 16 mins | Chris Miller"
+   },
+   {
+    "channel_id": "UCKO9iTR6aR41KC11xCL81ig",
+    "name": "Geo Breakdown",
+    "url": "https://www.youtube.com/channel/UCKO9iTR6aR41KC11xCL81ig",
+    "alter_monate": 20.4,
+    "subs": 55900,
+    "total_views": 48903398,
+    "videos_gesamt": 19,
+    "lf_views_90d": 0,
+    "lf_n_90d": 0,
+    "lf_n_midroll": 0,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 0,
+    "bestes_lf_video": {
+     "titel": "The Global Chip War Explained in Detail: How TSMC Outsmarted China & t",
+     "views": 235947,
+     "age_days": 307,
+     "dauer_min": 10.7,
+     "url": "https://www.youtube.com/watch?v=xMoADouJ8P4"
+    },
+    "bestes_video_in_suche": "The Global Chip War Explained in Detail: How TSMC Outsmarted China & the US."
+   }
+  ],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCLXo7UDZvByw2ixzpQCufnA",
+    "name": "Vox",
+    "url": "https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA",
+    "alter_monate": 148.4,
+    "subs": 12700000,
+    "total_views": 3828507424,
+    "videos_gesamt": 2251,
+    "lf_views_90d": 1168310,
+    "lf_n_90d": 13,
+    "lf_n_midroll": 13,
+    "shorts_views_90d": 1171336,
+    "runrate_fenster_tage": 30,
+    "lf_monat": 1183887,
+    "bestes_lf_video": {
+     "titel": "Why LA will never get a Mayor Zohran Mamdani",
+     "views": 448876,
+     "age_days": 21,
+     "dauer_min": 9.1,
+     "url": "https://www.youtube.com/watch?v=lbJR-G8CsR0"
+    },
+    "bestes_video_in_suche": "Why China is losing the microchip war"
+   },
+   {
+    "channel_id": "UCmGSJVG3mCRXVOP4yZrU1Dw",
+    "name": "Johnny Harris",
+    "url": "https://www.youtube.com/channel/UCmGSJVG3mCRXVOP4yZrU1Dw",
+    "alter_monate": 181.3,
+    "subs": 7810000,
+    "total_views": 1225647160,
+    "videos_gesamt": 524,
+    "lf_views_90d": 7974262,
+    "lf_n_90d": 3,
+    "lf_n_midroll": 3,
+    "shorts_views_90d": 1754779,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 2693528,
+    "bestes_lf_video": {
+     "titel": "Is Fascism Back?",
+     "views": 7274026,
+     "age_days": 134,
+     "dauer_min": 61.8,
+     "url": "https://www.youtube.com/watch?v=GV8KGcFqeLc"
+    },
+    "bestes_video_in_suche": "USA vs China: The Microchip War"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 18150,
+  "verdict": "PROMISING"
+ },
+ {
+  "id": "insurance-stories",
+  "name": "Versicherungs-Horror-Stories",
+  "query": "insurance company denied claim story",
+  "rpm": [
+   15,
+   25
+  ],
+  "lf_results": 28,
+  "shorts_results": 22,
+  "young_channels": [],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCMzt8xq6qQ3XQ_DlNfJx0-w",
+    "name": "Senator Josh Hawley",
+    "url": "https://www.youtube.com/channel/UCMzt8xq6qQ3XQ_DlNfJx0-w",
+    "alter_monate": 90.3,
+    "subs": 336000,
+    "total_views": 76823582,
+    "videos_gesamt": 1082,
+    "lf_views_90d": 2071191,
+    "lf_n_90d": 26,
+    "lf_n_midroll": 9,
+    "shorts_views_90d": 119307,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 699602,
+    "bestes_lf_video": {
+     "titel": "\"I wanna see Keith Ellison and Tim Walz both held accountable\": Senato",
+     "views": 629429,
+     "age_days": 49,
+     "dauer_min": 9.0,
+     "url": "https://www.youtube.com/watch?v=tLSiboUWsM8"
+    },
+    "bestes_video_in_suche": "Chairman Hawley Exposes Major Insurance Companies For Ripping Off Policyholders"
+   },
+   {
+    "channel_id": "UCehBVAPy-bxmnbNARF-_tvA",
+    "name": "More Perfect Union",
+    "url": "https://www.youtube.com/channel/UCehBVAPy-bxmnbNARF-_tvA",
+    "alter_monate": 67.1,
+    "subs": 3630000,
+    "total_views": 671766743,
+    "videos_gesamt": 1859,
+    "lf_views_90d": 14634778,
+    "lf_n_90d": 17,
+    "lf_n_midroll": 11,
+    "shorts_views_90d": 18933457,
+    "runrate_fenster_tage": 38,
+    "lf_monat": 11707822,
+    "bestes_lf_video": {
+     "titel": "We Investigated the Most Corrupt World Cup in History",
+     "views": 3443520,
+     "age_days": 35,
+     "dauer_min": 19.8,
+     "url": "https://www.youtube.com/watch?v=ocxngraLbV0"
+    },
+    "bestes_video_in_suche": "Whistleblower Exposes Health Insurers' Most Evil Scheme"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 0,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "legal-stories",
+  "name": "Recht/Prozess-Stories",
+  "query": "the lawsuit that destroyed a company",
+  "rpm": [
+   15,
+   25
+  ],
+  "lf_results": 23,
+  "shorts_results": 27,
+  "young_channels": [],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCFOq-dKCPu3PcmaCMEGDzTA",
+    "name": "WKRG",
+    "url": "https://www.youtube.com/channel/UCFOq-dKCPu3PcmaCMEGDzTA",
+    "alter_monate": 222.0,
+    "subs": 167000,
+    "total_views": 192856386,
+    "videos_gesamt": 58866,
+    "lf_views_90d": 2649,
+    "lf_n_90d": 26,
+    "lf_n_midroll": 6,
+    "shorts_views_90d": 6072,
+    "runrate_fenster_tage": 30,
+    "lf_monat": 2684,
+    "bestes_lf_video": {
+     "titel": "News 5 NOW @ 8:15am (Wednesday) | July 8, 2026",
+     "views": 320,
+     "age_days": 2,
+     "dauer_min": 7.5,
+     "url": "https://www.youtube.com/watch?v=984oqBVF1bY"
+    },
+    "bestes_video_in_suche": "$2.1 million verdict: Woman who sued Walmart and won talks to WKRG News 5"
+   },
+   {
+    "channel_id": "UCpa-Zb0ZcQjTCPP1Dx_1M8Q",
+    "name": "LegalEagle",
+    "url": "https://www.youtube.com/channel/UCpa-Zb0ZcQjTCPP1Dx_1M8Q",
+    "alter_monate": 113.3,
+    "subs": 3940000,
+    "total_views": 1222872079,
+    "videos_gesamt": 1026,
+    "lf_views_90d": 18979104,
+    "lf_n_90d": 28,
+    "lf_n_midroll": 28,
+    "shorts_views_90d": 6205881,
+    "runrate_fenster_tage": 70,
+    "lf_monat": 8242354,
+    "bestes_lf_video": {
+     "titel": "Everybody's Wrong About The Bricks & Minifigs Case (Reckless Ben)",
+     "views": 2185844,
+     "age_days": 35,
+     "dauer_min": 50.5,
+     "url": "https://www.youtube.com/watch?v=HH09tltEw1U"
+    },
+    "bestes_video_in_suche": "The Lawsuit that Killed Eleanor"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 0,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "housing-erklaert",
+  "name": "Immobilien/Housing-Erklärstücke",
+  "query": "why housing is so expensive",
+  "rpm": [
+   15,
+   25
+  ],
+  "lf_results": 34,
+  "shorts_results": 16,
+  "young_channels": [],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCkCGANrihzExmu9QiqZpPlQ",
+    "name": "How Money Works",
+    "url": "https://www.youtube.com/channel/UCkCGANrihzExmu9QiqZpPlQ",
+    "alter_monate": 90.8,
+    "subs": 1720000,
+    "total_views": 283535734,
+    "videos_gesamt": 314,
+    "lf_views_90d": 10596611,
+    "lf_n_90d": 13,
+    "lf_n_midroll": 13,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 3579300,
+    "bestes_lf_video": {
+     "titel": "We (Still) Don't Know How Epstein Got So Rich...",
+     "views": 2733080,
+     "age_days": 177,
+     "dauer_min": 23.0,
+     "url": "https://www.youtube.com/watch?v=5XyslxsPLQ4"
+    },
+    "bestes_video_in_suche": "If Nobody Can Afford A Home... Who's Going To Buy Them?"
+   },
+   {
+    "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+    "name": "CNBC",
+    "url": "https://www.youtube.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA",
+    "alter_monate": 241.1,
+    "subs": 4160000,
+    "total_views": 2047753265,
+    "videos_gesamt": 16097,
+    "lf_views_90d": 2688345,
+    "lf_n_90d": 34,
+    "lf_n_midroll": 6,
+    "shorts_views_90d": 617002,
+    "runrate_fenster_tage": 38,
+    "lf_monat": 2150676,
+    "bestes_lf_video": {
+     "titel": "Why Analysts Say The Auto Industry Is Heading For Demographic Cliff",
+     "views": 484661,
+     "age_days": 12,
+     "dauer_min": 6.1,
+     "url": "https://www.youtube.com/watch?v=EFLora_T5JI"
+    },
+    "bestes_video_in_suche": "Why It’s So Expensive To Live In The U.S."
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 0,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "economic-warfare",
+  "name": "Wirtschaftskrieg & Sanktionen",
+  "query": "economic warfare explained",
+  "rpm": [
+   12,
+   20
+  ],
+  "lf_results": 41,
+  "shorts_results": 9,
+  "young_channels": [],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCCODtTcd5M1JavPCOr_Uydg",
+    "name": "Extra History",
+    "url": "https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg",
+    "alter_monate": 179.3,
+    "subs": 4590000,
+    "total_views": 1712044200,
+    "videos_gesamt": 1332,
+    "lf_views_90d": 2038682,
+    "lf_n_90d": 12,
+    "lf_n_midroll": 12,
+    "shorts_views_90d": 16180011,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 688621,
+    "bestes_lf_video": {
+     "titel": "Qin Shi Huang | Historical Tyrants | Chinese History",
+     "views": 505728,
+     "age_days": 152,
+     "dauer_min": 18.2,
+     "url": "https://www.youtube.com/watch?v=XtzQ2J8m3hs"
+    },
+    "bestes_video_in_suche": "WW2 | The Resource War 1: Arsenal of Democracy | Extra History"
+   },
+   {
+    "channel_id": "UC5Ghe5TBQGYIOANuiNW4hDQ",
+    "name": "Garys Economics",
+    "url": "https://www.youtube.com/channel/UC5Ghe5TBQGYIOANuiNW4hDQ",
+    "alter_monate": 73.7,
+    "subs": 1630000,
+    "total_views": 221396546,
+    "videos_gesamt": 398,
+    "lf_views_90d": 5449247,
+    "lf_n_90d": 13,
+    "lf_n_midroll": 13,
+    "shorts_views_90d": 4460289,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 1840635,
+    "bestes_lf_video": {
+     "titel": "The Iran economic shock is coming. How to protect yourself",
+     "views": 2075580,
+     "age_days": 96,
+     "dauer_min": 45.1,
+     "url": "https://www.youtube.com/watch?v=Oi265I48MdI"
+    },
+    "bestes_video_in_suche": "The Iran economic shock is coming. How to protect yourself"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 0,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "luxury-dark-side",
+  "name": "Dark Side of Luxury",
+  "query": "dark side of luxury brands",
+  "rpm": [
+   10,
+   15
+  ],
+  "lf_results": 25,
+  "shorts_results": 25,
+  "young_channels": [],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCXphOxUppSxy8rkX6BtsyjA",
+    "name": "RAISED",
+    "url": "https://www.youtube.com/channel/UCXphOxUppSxy8rkX6BtsyjA",
+    "alter_monate": 49.9,
+    "subs": 50400,
+    "total_views": 9601617,
+    "videos_gesamt": 43,
+    "lf_views_90d": 0,
+    "lf_n_90d": 0,
+    "lf_n_midroll": 0,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 0,
+    "bestes_lf_video": {
+     "titel": "Luxury Fashion Is For Broke People",
+     "views": 4643680,
+     "age_days": 965,
+     "dauer_min": 11.4,
+     "url": "https://www.youtube.com/watch?v=FGDB22dpmwk"
+    },
+    "bestes_video_in_suche": "Luxury Fashion Is For Broke People"
+   },
+   {
+    "channel_id": "UCAxUtcgLiq_gopO87VaZM5w",
+    "name": "Sabri Suby",
+    "url": "https://www.youtube.com/channel/UCAxUtcgLiq_gopO87VaZM5w",
+    "alter_monate": 92.0,
+    "subs": 484000,
+    "total_views": 79828050,
+    "videos_gesamt": 767,
+    "lf_views_90d": 585747,
+    "lf_n_90d": 15,
+    "lf_n_midroll": 15,
+    "shorts_views_90d": 282428,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 197852,
+    "bestes_lf_video": {
+     "titel": "Facebook Ads Tutorial - 2026 FREE COURSE for Beginners",
+     "views": 194284,
+     "age_days": 160,
+     "dauer_min": 35.0,
+     "url": "https://www.youtube.com/watch?v=Ea1hFxPx3JA"
+    },
+    "bestes_video_in_suche": "How Luxury Brands Brainwash You to Buy"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 0,
+  "verdict": "FAIL"
+ },
+ {
+  "id": "scam-exposes",
+  "name": "Scam/Guru-Exposés (James-Jani-Feld)",
+  "query": "get rich quick scams exposed",
+  "rpm": [
+   12,
+   18
+  ],
+  "lf_results": 23,
+  "shorts_results": 27,
+  "young_channels": [
+   {
+    "channel_id": "UCSMmWVzGjsPSqwWWbgMGFOg",
+    "name": "BusinessCringe",
+    "url": "https://www.youtube.com/channel/UCSMmWVzGjsPSqwWWbgMGFOg",
+    "alter_monate": 17.5,
+    "subs": 54600,
+    "total_views": 4566685,
+    "videos_gesamt": 55,
+    "lf_views_90d": 491523,
+    "lf_n_90d": 11,
+    "lf_n_midroll": 11,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 166026,
+    "bestes_lf_video": {
+     "titel": "Why Linkedin is so cringe",
+     "views": 818682,
+     "age_days": 473,
+     "dauer_min": 5.4,
+     "url": "https://www.youtube.com/watch?v=YRvBQdJlBeo"
+    },
+    "bestes_video_in_suche": "How To Get Rich Quick (According to Fake Gurus)"
+   },
+   {
+    "channel_id": "UCKsnCb4fgSzJfncYRbcXx_w",
+    "name": "Rook",
+    "url": "https://www.youtube.com/channel/UCKsnCb4fgSzJfncYRbcXx_w",
+    "alter_monate": 14.0,
+    "subs": 11700,
+    "total_views": 1379240,
+    "videos_gesamt": 35,
+    "lf_views_90d": 11259,
+    "lf_n_90d": 2,
+    "lf_n_midroll": 2,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 3803,
+    "bestes_lf_video": {
+     "titel": "The DARK TRUTH Of Andy Elliott (Feds Involved)",
+     "views": 156995,
+     "age_days": 326,
+     "dauer_min": 17.0,
+     "url": "https://www.youtube.com/watch?v=AF2Rduy1a04"
+    },
+    "bestes_video_in_suche": "This Get-Rich-Quick Scheme FOOLED MILLIONS (Tom Vu)"
+   }
+  ],
+  "ceiling_channels": [
+   {
+    "channel_id": "UCFQMnBA3CS502aghlcr0_aw",
+    "name": "Coffeezilla",
+    "url": "https://www.youtube.com/channel/UCFQMnBA3CS502aghlcr0_aw",
+    "alter_monate": 95.3,
+    "subs": 4690000,
+    "total_views": 592181143,
+    "videos_gesamt": 539,
+    "lf_views_90d": 11829654,
+    "lf_n_90d": 2,
+    "lf_n_midroll": 2,
+    "shorts_views_90d": 0,
+    "runrate_fenster_tage": 90,
+    "lf_monat": 3995794,
+    "bestes_lf_video": {
+     "titel": "Investigating Logan Paul's Biggest Scam",
+     "views": 11373237,
+     "age_days": 1301,
+     "dauer_min": 24.8,
+     "url": "https://www.youtube.com/watch?v=386p68_lDHA"
+    },
+    "bestes_video_in_suche": "Youtuber Accidentally Exposes the Scam He's Promoting"
+   },
+   {
+    "channel_id": "UC0L1suV8pVgO4pCAIBNGx5w",
+    "name": "60 Minutes Australia",
+    "url": "https://www.youtube.com/channel/UC0L1suV8pVgO4pCAIBNGx5w",
+    "alter_monate": 162.2,
+    "subs": 6680000,
+    "total_views": 2757749949,
+    "videos_gesamt": 6206,
+    "lf_views_90d": 4251660,
+    "lf_n_90d": 17,
+    "lf_n_midroll": 16,
+    "shorts_views_90d": 1325408,
+    "runrate_fenster_tage": 30,
+    "lf_monat": 4308349,
+    "bestes_lf_video": {
+     "titel": "Raised as a Girl: The Shocking True Story of David Reimer | 60 Minutes",
+     "views": 1032867,
+     "age_days": 10,
+     "dauer_min": 16.7,
+     "url": "https://www.youtube.com/watch?v=nj5-6EkvAMc"
+    },
+    "bestes_video_in_suche": "The dramatic undercover sting exposing Nigerian fraud syndicates | 60 Minutes Australia"
+   }
+  ],
+  "max_young_usd_monat_mid_rpm": 2490,
+  "verdict": "FAIL"
+ }
+]
