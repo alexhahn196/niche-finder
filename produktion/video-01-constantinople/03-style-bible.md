@@ -14,7 +14,9 @@ film grain, muted realistic color grade, no text, no watermark`
 - `MOOD_GLORY` (Act 1/2 Stadt): golden hour light, warm amber haze, soft god rays
 - `MOOD_TENSION` (Act 2 Belagerung): overcast steel-grey sky, cold desaturated
   palette, smoke on horizon
-- `MOOD_OMEN` (Act 3 Omen): twilight, deep blue hour, eerie green-white glow,
+- `MOOD_OMEN` (Act 3 Omen): twilight, deep blue hour, eerie PALE BLUE-WHITE
+  glow (User-QC 2026-07-10: Elmsfeuer = Korona-Entladung = blau-weiß,
+  Langzeitbelichtungs-Look — NIE grün, NIE Blitze/Energie-Effekte),
   heavy atmosphere, fog
 - `MOOD_STORM` (Act 3 Sturm): night, firelight against darkness, orange embers,
   smoke, harsh chiaroscuro

@@ -12,7 +12,7 @@
     "CHAR_GIUSTINIANI": {"job": "796b5574-a453-4754-ac1c-7daf71ea7d52", "status": "freigabe_kandidat (v2 — v1 431e0e98 hatte Templer-Tatzenkreuz)", "modell": "nano_banana_2 4k 3:4"},
     "MASTER_PANORAMA": {"job": "362ca2b0-0663-4c09-a3c4-22fe04e8b5ea", "status": "freigabe_kandidat (v2 — v1 1032efae hatte Minarette!); Notiz: ferne Hügel-Silhouette oben mittig vor Thumbnail-Nutzung prüfen/retuschieren", "modell": "seedream_v4_5 high 16:9 (5120x2880)"},
     "STYLE_GLORY": {"job": "79909c86-5adf-41fd-8067-4c7320da7872", "status": "freigabe_kandidat (v2 — v1 869234c0 hatte Minarett-Spitzen)", "modell": "seedream_v4_5 high 16:9"},
-    "STYLE_OMEN": {"job": "5a379582-4ecc-42bd-a150-507852e6798d", "status": "freigabe_kandidat (v2 — v1 db8af0f1 hatte 3 Minarette + Halbmond + Blitze); Notiz: Torbogen-Rand oben rechts auf Schrift-Artefakt prüfen", "modell": "seedream_v4_5 high 16:9"},
+    "STYLE_OMEN": {"job": "bfb9a79c-be52-4e27-867a-72fe210284ef", "status": "freigabe_kandidat (v3 — User-QC: grüne Blitze unrealistisch -> blasses Blau-Weiß, Langzeitbelichtungs-Look; v1 db8af0f1 hatte Minarette+Halbmond, v2 5a379582 grüne Blitze)", "modell": "seedream_v4_5 high 16:9"},
     "STYLE_STORM": {"job": "cea31f05-0b68-47be-9d6f-f616f7d5d61a", "status": "freigabe_kandidat (Banner-Farben pro Shot steuern: grünes Kreuz-Banner vermeiden)", "modell": "seedream_v4_5 high 16:9"}
   },
   "lessons_fuer_batches": [
