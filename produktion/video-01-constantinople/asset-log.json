@@ -59,6 +59,17 @@
     "s30_final": "da9e4366 (Edit-Pass hat fernes Minarett erfolgreich entfernt — Edit-Workflow via image_references funktioniert für Retuschen)"
   },
   "akt2_retries_final": {"s34": "386660b3 (v3 Edit: Purpur-Adler-Banner statt Halbmond-Fahne — Pink-Elephant-Lesson: verbotene Symbole NIE im Prompt benennen, stattdessen Edit-Pass)", "s42": "d81e574a (v2, Konstantin-Ref)", "s53": "c4bd7312 (v2)", "s62": "c1ceff64 (v3 Edit: Medaillons entfernt)"},
+  "akt34_qc_fixes_laufend": {
+    "s70": "EDIT 5b9d2050 (v1 5ce9daac: Minarette in Nacht-Skyline)",
+    "s72": "EDIT 94a2f351 (v1 aad23b94: Turm-Silhouette im Nebel)",
+    "s72c": "RETRY c15b869b (v1 bc0d1ab3: glühende Augen)",
+    "s78": "EDIT ed98bb80 (v1 6252bf0a: Minarett-Spitzen links)",
+    "s81": "RETRY 9d6e20be (v1 171ddacb: Tageslicht + Kamerablick statt Nacht)",
+    "s83": "EDIT 79e0aeb8 (v1 b8c55e0e: Hörnerhelm-Fantasy-Drift)",
+    "s97": "EDIT 5cfaa2c3 (v1 4b2cdd27: Minarett — am 29.5.1453 existiert noch keins)",
+    "s100": "RETRY 94c22c9c (v1 0b545fb1: gotisches Buntglas in byzantinischem Palast)"
+  },
+  "akt34_qc_pass_direkt": "s65 s67 s69 s71 s72b s73 s74(HERO Liturgie) s75 s76(HERO) s76b s80 s82 s85 s86 s87 s89 s92 s93 s94 s95(HERO; Flare oben rechts bei Vollres prüfen) s96(HERO) s98 s99 s101 s102 s104(HERO) s105 s106(einzelnes Minarett 1460er historisch OK — erstes Holzminarett unter Mehmed) s109(Vesuv-Teaser EIN-Kegel perfekt)",
   "akt3_stills_jobs_QC_AUSSTEHEND": {
     "s65": "de24ce7b", "s67": "170ce6ce", "s69": "4a48becb", "s70": "5ce9daac", "s71": "c71029bd",
     "s72": "aad23b94", "s72b": "a79d2928", "s72c": "bc0d1ab3 (Mehmed-Ref)", "s73": "acbf397d",
