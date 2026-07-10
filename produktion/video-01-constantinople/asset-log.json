@@ -58,6 +58,22 @@
     },
     "s30_final": "da9e4366 (Edit-Pass hat fernes Minarett erfolgreich entfernt — Edit-Workflow via image_references funktioniert für Retuschen)"
   },
+  "akt2_retries_final": {"s34": "386660b3 (v3 Edit: Purpur-Adler-Banner statt Halbmond-Fahne — Pink-Elephant-Lesson: verbotene Symbole NIE im Prompt benennen, stattdessen Edit-Pass)", "s42": "d81e574a (v2, Konstantin-Ref)", "s53": "c4bd7312 (v2)", "s62": "c1ceff64 (v3 Edit: Medaillons entfernt)"},
+  "akt3_stills_jobs_QC_AUSSTEHEND": {
+    "s65": "de24ce7b", "s67": "170ce6ce", "s69": "4a48becb", "s70": "5ce9daac", "s71": "c71029bd",
+    "s72": "aad23b94", "s72b": "a79d2928", "s72c": "bc0d1ab3 (Mehmed-Ref)", "s73": "acbf397d",
+    "s74": "a3e333bf (HERO Liturgie)", "s75": "bf01dca0 (Konstantin-Ref)", "s76": "6ccbf3db (HERO, Konstantin-Ref)",
+    "s76b": "00154910 (Tuesday)", "s78": "6252bf0a", "s80": "a7f2470a", "s81": "171ddacb (Barbaro-Ref)",
+    "s82": "a2c7b9e3", "s83": "b8c55e0e (Giustiniani-Ref)", "s85": "5a7abf58 (Janitscharen bork ohne Löffel)",
+    "s86": "14ffb6d9", "s87": "0107ad1f (Giustiniani-Ref)", "s89": "28ea101e (Kerkoporta)",
+    "s92": "cec0f1c9", "s93": "de3c37be", "s94": "1f3b4241", "s95": "ce1627c6 (HERO)"
+  },
+  "akt4_stills_jobs_QC_AUSSTEHEND": {
+    "s96": "c20ba99b (HERO, Mehmed-Ref)", "s97": "4b2cdd27", "s98": "4ca1b837", "s99": "c0b5283c",
+    "s100": "0b545fb1 (HERO Spinnennetz)", "s101": "af2a0366", "s102": "22b4c26e (Barbaro-Ref)",
+    "s104": "aa7763fb (HERO Marciana)", "s105": "307f0eed (Edit des Master-Panoramas -> heute)",
+    "s106": "1f57f87e", "s109": "f1a65403 (Vesuv EIN-Kegel-Teaser)"
+  },
   "graphics_assembly": "s09 (Reichs-Karte), Teil von s24-27 (Mauer-Schema), s64-Zahlen-Overlay, s108, s110 = Karten/Templates im Assembly, keine Generierung",
   "naechster_schritt": "Akt-2-Stills (Shots 32-64), dann Akt 3+4; danach QC-GATE 3 (Kontaktbogen alle ~98) -> Clips (Schritt 4); parallel: User schließt ElevenLabs Creator ab -> Stimmen-Bake-off"
 }
