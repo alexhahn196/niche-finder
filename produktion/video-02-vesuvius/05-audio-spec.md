@@ -37,10 +37,11 @@
 Drei Spuren unter jeder Szene (Ambience/Foley/Musik) wie V01. Spezifisch V02:
 
 - **#39/#40 Bimsregen = DAS Audio-Signature dieses Videos:** Steinprasseln
-  auf Ziegeln — wie Hagel, aber mahlender, endlos. Motiv-Intro bei #38
-  (einzelner Bims plitscht in die Wasserschale), ab #39 Dauerteppich über
-  Act 2/3, bis man ihn nicht mehr bewusst hört — und GENAU dann kommt die
-  Stille. **Schutzregel: Vor #34 (Ausbruch) liegt KEIN Bims-/Prasseln-Layer;
+  auf Ziegeln — **SFX-Treppe nach Skript-Wortlaut: erst wie Regen, dann wie
+  Kies, dann wie Fäuste** (unter Shots 37-40, synchron zur VO-Zeile).
+  Motiv-Intro bei #38 (einzelner Bims plitscht in die Wasserschale), ab #39
+  Dauerteppich über Act 2/3, bis man ihn nicht mehr bewusst hört — und
+  GENAU dann kommt die Stille. **Schutzregel: Vor #34 (Ausbruch) liegt KEIN Bims-/Prasseln-Layer;
   #31 (Ananas-Fenster) bleibt reine Markt-Ambience** — ein verfrühter
   Bimsregen wäre ein hörbarer Kontinuitätsfehler, den das Fehlerspiel-
   Publikum sofort meldet.
@@ -70,6 +71,6 @@ Drei Spuren unter jeder Szene (Ambience/Foley/Musik) wie V01. Spezifisch V02:
 ## 5. Mix & Budget
 
 - Mix-Regeln wie V01 §5 (VO -14 LUFS, Ducking -8 dB, Ambience nie ganz weg).
-- **ElevenLabs-Budget:** ~2.360 Wörter final ≈ 13-14k Zeichen + Retries
+- **ElevenLabs-Budget:** ~2.665 Wörter final ≈ 15k Zeichen + Retries
   — Creator-Tier (100k/Monat) trägt das komfortabel bei 1 Video/Woche.
 - Shorts-Mix separat lauter (Mobile), 3 Ableger geplant (06-metadata §5).

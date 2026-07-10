@@ -1,0 +1,181 @@
+{
+ "video": "02-vesuvius",
+ "datum": "2026-07-10",
+ "workflow": "kreativ-review (5 Linsen + Synthese-Richter, zielWorte 2360)",
+ "rohfunde": 45,
+ "regieanweisungen": [
+  {
+   "prio": 1,
+   "beat": "ACT 1: S01 + COLD OPEN + S02-S04 + TEASE + TRIKOLON (0:00-~1:40)",
+   "anweisung": "Gesamten Front-Block durch diesen fixierten ~243-Woerter-Text ersetzen (aendert Museums-Zeile, Eskalations-Trikolon, S02-S04-Kuerzung, Tease, Doppel-Trikolon in einem Zug): [S01] \"These two cities no longer exist. For the next seventeen minutes — they do.\" [COLD OPEN] \"The Bay of Naples, in the year seventy-nine. Before dawn in Herculaneum, a household slave named Celer presses a bronze stamp into the family's loaf of bread: CELER — SLAVE OF QUINTUS GRANIUS VERUS. Mark the loaf. Send it to the oven. Start the day. He cannot know that this loaf will never be eaten — that in twenty-four hours, this kitchen, this house, this entire coastline will no longer exist. (Beat, 1,5 s.) Nearly nineteen centuries later, archaeologists cut through twenty meters of solid rock — and found it. Blackened. Whole. His name still legible on the crust. This is the story of the day it was baked.\" [S02-S04] \"Two cities share this shoreline. Pompeii: loud, commercial, perhaps twelve thousand people. Herculaneum: smaller, quieter, richer — a resort by the sea. And above them both, green to the summit and covered in vineyards: Vesuvius. Almost no one alive knows it is a volcano. No one in living memory has seen the mountain burn. To this bay, it is simply where the good wine grows.\" [TEASE] \"By this hour tomorrow, both cities will be gone — and at least two thousand people will be dead. Buried so completely that the world forgets they ever existed — for nearly seventeen hundred years.\" [TRIKOLON] \"So walk their streets. Smell the bread. Watch the sky come down. (Beat.) Two cities. One mountain. Twenty-four hours.\" WICHTIG: Museums-Ort bleibt bis Act 4 ungenannt (Brot-Bookend, Style-Bible §3.4); Gelehrten-Ausnahme traegt NUR das Strabo-Fussnoten-Bild (Shot 6-10, dossier-konform); Spartacus wandert nach S22-S23 (s. Prio 21); \"nearly\" in der Tease ist Pflicht-Hedge. Kapitelmarke in 06-metadata: \"~1:10 The Time-Slip\" auf \"~1:35\" korrigieren.",
+   "begruendung_daten": "Draft = ~297 W. bis Trikolon-Ende, dadurch driften ALLE Protokoll-Slots (Masterplan §1b-Tabelle: Time-Slip ~1:30, 999 ~1:45, CTA ~2:00, Zeuge ~3:30) um 25-30 s in die steilste Drop-Zone; das 1,2M-London-Muster (Playbook §8) schliesst den Hook in 95 s und endet auf Zahlen-Trikolon; \"Twenty-four hours\" spiegelt den Titel \"The Final 24 Hours\" woertlich (§2: Konsistenz Titel/Hook, Overclaim-sicher). 4 Reviewer unabhaengig auf demselben Befund."
+  },
+  {
+   "prio": 2,
+   "beat": "S12-S14 WITNESSES (~2:35-3:15)",
+   "anweisung": "Die Zeile \"His letters survive; every quote you hear today is his, word for word\" ERSETZEN durch: \"His letters survive — you can read them today. Every quote you hear in this video comes straight from them.\" Der word-for-word-Moment bleibt exklusiv in S33-S36, wo er korrekt aufs Latein gescoped ist (\"His answer survives, word for word — in the Latin\"). Zugleich Block auf ~100 W. straffen: \"pressed into the dough beside his owner's: Quintus Granius Verus\" streichen (Vollname faellt im Cold Open und in S72-S74) sowie \"who reads too much and questions everything\" streichen. Celer-Ueberlebens-Loop-Zeile (\"Whether Celer walked out of the ash alive — that answer waits at the end.\") unveraendert behalten.",
+   "begruendung_daten": "Dossier-Zitatregel bindend: word-for-word gilt NUR fuer das lateinische Original 6.16.11; Letters 1/3/4/5 sind Radice-Uebersetzungen, L2-Subline Eigenuebersetzung — der Claim im Draft ist die vorhersehbarste Besserwisser-Korrektur und beschaedigt die Praezisions-Marke, auf der das 999-Spiel aufbaut. Kuerzung noetig fuer Zeugen-Slot bis ~3:15 (Masterplan §1b)."
+  },
+  {
+   "prio": 3,
+   "beat": "S78b NEU — STADTWAHL (Ende-1:00, ~16:20)",
+   "anweisung": "Neuen Beat direkt nach der Sieger-Ansage, vor S79 einfuegen (~55 W., EN): \"And the ballot stays open. The two cities you didn't pick are still in the race — and a challenger joins them: [STADT-C-NEU]. A — [VERLIERER 1]. B — [VERLIERER 2]. C — [STADT-C-NEU]. One letter in the comments — that's all it takes. You decide which lost world comes back after [SIEGERSTADT].\" Mechanik: die zwei V1-Verlierer rollen automatisch ueber (null Zusatz-Recherche); [STADT-C-NEU] aus dem Serienplan waehlen und auf K6-/Saeulen-Konformitaet pruefen. Shotlist: 1 zusaetzlicher Shot (3-Karten-Insert analog V1) zwischen #105 und #106; Platzhalter [STADT-C-NEU], [VERLIERER 1/2] in die Header-Liste aufnehmen.",
+   "begruendung_daten": "Witness-Protocol-Slot-Verletzung, von 3 Reviewern unabhaengig gefunden: Masterplan §1b.4 verlangt \"Jedes Video endet mit 3 Kandidaten A/B/C\" — der Draft verkuendet nur das V1-Ergebnis; ohne neuen Vote reisst die Kommentar-Kette (staerkster Kommentar-Trigger des Formats) und Video 4 haette kein \"The vote is in\"-Opening."
+  },
+  {
+   "prio": 4,
+   "beat": "End-Card S79 + Varianten A/B/C (Mensch+Termin)",
+   "anweisung": "Alle drei End-Card-Varianten um eine Termin-Zeile unter dem Zeugen-Namen ergaenzen: \"NEXT WITNESS: [NAME] — SATURDAY.\" VO-Zeilen entsprechend schliessen: A: \"He watched a city of libraries die. Saturday, you watch it with him.\" B: \"Fifty years later, he was still asking if it had been real. Saturday, you'll see why.\" C: \"Earthquake, tsunami, fire — one morning, all three. Saturday, you live through it.\" Zusaetzlich S79-Schlusszeile: \"Subscribe — and be standing in [SIEGERSTADT] next Saturday, when it comes back to life.\"",
+   "begruendung_daten": "Witness-Protocol-Slot \"End-Card Mensch+Termin\" nur halb erfuellt (3 Reviewer): Mensch vorhanden, Termin fehlt, obwohl der Premiere-Rhythmus Sa 15:00 UTC in 06-metadata etabliert ist — der Termin macht aus dem Teaser eine Verabredung (Serien-Sog, Masterplan §1b.5), Kosten ~2 Woerter pro Variante."
+  },
+  {
+   "prio": 5,
+   "beat": "S78 STADTWAHL-ERGEBNIS (~16:20) — Top-Voter-Shoutout",
+   "anweisung": "S78 umformulieren: \"The votes are in. [STADTWAHL-SIEGER — Ansage einsetzen]. And the loudest voice in that vote came from [TOP-VOTER-NAME — nach Auszaehlung einsetzen] — as promised, your name is now part of this episode.\" [TOP-VOTER-NAME] zwingend in die Platzhalter-Liste im Skript-Header aufnehmen, sonst rutscht er durchs VO-Rendering.",
+   "begruendung_daten": "Der Draft kuendigt an, dass der Top-Kommentar \"in the episode itself\" genannt wird — DIES ist die Episode, aber der Platzhalter existiert nicht: ein angekuendigtes, nicht eingeloestes Community-Versprechen vergiftet genau das Ritual, das Rueckkehrer belohnen soll (Masterplan §1b.4); Beschreibungs-Template verspricht es zusaetzlich."
+  },
+  {
+   "prio": 6,
+   "beat": "06-metadata: Beschreibung Zeile 1-2 (Such-Snippet)",
+   "anweisung": "\"The bread survived. We found it.\" ersetzen durch: \"The bread survived. It's in a museum today.\" (Rest der beiden Zeilen unveraendert: \"79 AD. Before dawn, a slave named Celer stamps his name into a loaf of bread. By the next morning, his city no longer exists.\")",
+   "begruendung_daten": "\"We found it\" ist woertlich falsch (Grabung 1930er, nicht wir) — Overclaim-Regel (eiserne Regel, CLAUDE.md) an der meistgelesenen Text-Flaeche (Such-Snippet); die Praezisions-Marke traegt Quellen-Pins und 999-Spiel, ein nachweislich falscher Claim dort ist Angriffsflaeche Nummer eins."
+  },
+  {
+   "prio": 7,
+   "beat": "06-metadata: Titel-Variante B",
+   "anweisung": "Variante B ersetzen durch: \"Pompeii & Herculaneum 79 AD: The Final 24 Hours (AI Reconstruction)\" (67 Z., Ort vorn, Jahr drin, Label intakt). Notiz in die Datei: bei 67 Z. kann das \"(AI Reconstruction)\"-Label auf Sidebar-Flaechen abschneiden — fuer einen B-Test akzeptabel; A bleibt Default, weil 53 Z. das Label ueberall sichtbar halten.",
+   "begruendung_daten": "Playbook §2, quantifiziert: Ortsname vorn = staerkster CTR-Praediktor (+49 pp), Jahr im Titel +23 pp — die alte Variante B verletzt beide; der A/B-Test wuerde sonst \"Formel vs. Formel-Bruch\" messen statt \"Single-City vs. Dual-City\"."
+  },
+  {
+   "prio": 8,
+   "beat": "S11 999-Ansage + S11b CTA (~2:00-2:30)",
+   "anweisung": "S11 auf ~62 W.: \"One thing before we go in. Nine hundred ninety-nine details in this reconstruction are rebuilt from the evidence. One is not — a single planted object that has no business in the Roman world. Find it, drop it in the comments; first correct answer gets pinned. And if you hunted in Constantinople: your answer is coming — middle of this video.\" S11b auf ~22 W.: \"While your eyes scan, one word from you. Millions have walked the ruins of Pompeii. Have you? YES — or NOT YET.\"",
+   "begruendung_daten": "Meta-Block zwischen Time-Slip und Story-Wiedereinstieg = ~360 W. / fast 90 s Erzaehl-Pause im Draft; Null-Aufwand-CTA gehoert laut Playbook §10 auf ~2:00 und landet im Draft bei ~3:15; mit dieser Kuerzung: 999 ~2:00, CTA ~2:25 — Scan-Modus startet INNERHALB des kritischen 2-Minuten-Fensters (Masterplan §1b-Tabelle)."
+  },
+  {
+   "prio": 9,
+   "beat": "S10 TIME-SLIP (~1:40) + Shotlist #13",
+   "anweisung": "VO auf ~51 W.: \"This is the forum of Pompeii today — maybe you've stood here yourself. Now watch what AI can do. The ropes vanish. The columns climb back. The roofs close. The color floods in — Roman cities were painted, loudly, everywhere. And the people return. This is Pompeii on its very last morning.\" Shot #13 in der Shotlist von ~12 s auf ~20 s verlaengern (ein Parameter, kein Neubau). Behalten: \"maybe you've stood here yourself\" (setzt YES/NOT-YET auf) und die explizite AI-Nennung.",
+   "begruendung_daten": "Draft-VO ~75 W. = ~30 s gegen einen 12-s-Morph (Style-Bible §3.1) — der Signature-GIF-Moment (Masterplan §1b.2, Share-Asset) wird sonst gedehnt oder ueberfahren; Methoden-Transparenz ist laut Playbook §8 Schritt 5 aktives Verkaufsargument (Split-Screen-Reveal im 1,2M-Video)."
+  },
+  {
+   "prio": 10,
+   "beat": "Gesamt-Schnittplan (2.800 -> 2.360 W.)",
+   "anweisung": "Verbindliche Schnittliste fuer den Final-Rewrite: (1) S19-S20 auf zwei Saetze: \"Everywhere you look: scaffolding. Seventeen years after a great earthquake, Pompeii is still rebuilding — fresh plaster, stacked tiles, a city repairing itself for a future it will never have.\" (2) S40-S42 Attribution straffen: \"— a trick the boy's letters record that same night at Stabiae.\" (Stabiae-Referenz ist Dossier-Pflicht, bleibt!) (3) S51-S52-Intro: \"Now, the strangest turn in this whole story.\" (4) S44-S46: Aufzaehlung um den Arzt-Instrumenten-Kasten kuerzen (wandert in die Shotlist; Soldat + Ring-Frau bleiben im VO). (5) S69-S71: \"Rome sent money and commissioners\"-Satz streichen, direkt zu \"Farmers planted vines over Pompeii\". Restbedarf (~150-200 W.) aus beschreibenden Passagen in Act 2/3 holen (S25-S27, S31-S32, S33-S36, S37-S39, S57-S61 je ~10-15 %). NIEMALS kuerzen: Zahlen-Anker, Letter-Karten L1/L2/L4/L5, S24 Datums-Debatte, S53/S75 Celer-Loop, alle Protokoll-Mechaniken.",
+   "begruendung_daten": "440-W.-Ueberhang plus ~235 W. neue Mechanik-Additions aus diesem Review; ohne verbindliche Liste frisst ein Rewrite erfahrungsgemaess Zahlen und Anker statt Fuellwoerter (Playbook §8: Zahlen-Dichte ist Gewinner-Muster; Engagement-Slot-Audit: Kompression aus Beschreibung, nie aus Mechanik)."
+  },
+  {
+   "prio": 11,
+   "beat": "Act-3/4-Uebergang (S66 -> S67, ~14:20)",
+   "anweisung": "Brueckenzeile an den Act-4-Anfang, vor \"The eruption didn't just kill two cities\": \"One of our witnesses walks out of this story alive. The other left us a loaf of bread — and one last clue, still waiting. But first: look what the mountain did to the world itself.\" Zusammen mit dem S69-S71-Schnitt (Prio 10) muss der Weg vom Ausstiegspunkt zur Brot-Payoff-Sequenz unter 60 s bleiben.",
+   "begruendung_daten": "\"He and his mother survive.\" ist emotionale Aufloesung + Erleichterung = natuerlicher Ausstiegspunkt; danach folgen im Draft ~80 s ohne offene Frage, und wer bei 14:20 geht, verpasst die GESAMTE Engagement-Endstrecke (Zeugen-Aufloesung, Fehler-Hinweis, Stadtwahl, Abo-Formel — Masterplan §1b-Endblock)."
+  },
+  {
+   "prio": 12,
+   "beat": "Vor S54 — Re-Hook der Payoff-Strecke (~11:00)",
+   "anweisung": "Stakes-Zeile einziehen, die die Reststrecke als Ueberlebens-Countdown rahmt: \"Herculaneum is gone. But this night is not done choosing. Down the coast, the admiral is asleep in a house that is filling up like an hourglass — and across the bay, the boy writing all of this down is next in the cloud's path.\" (Beide Fakten dossier-gedeckt: Bims fuellt den Hof in Stabiae 6.16; Surge S6 erreicht Misenum-Naehe am Morgen. \"Hourglass\" ist Bild, kein Fakten-Claim.)",
+   "begruendung_daten": "Einzige Stelle im Skript, an der die Re-Hook-Kadenz (alle 2-3 Min.) reisst: nach dem Herculaneum-Klimax folgen 2,5 Min. sequentielle Payoffs ohne neue offene Frage, zweite und dritte Todesszene in Folge = Wiederholungs-Ermuedung; die Zeile laesst zwei Ueberlebens-Fragen parallel bis S66 laufen (4-Akt-Formel Playbook §5.3, dramatische Ironie)."
+  },
+  {
+   "prio": 13,
+   "beat": "Ambience-Fenster A (Shots 21-24, ~3:15-3:35)",
+   "anweisung": "Eine einzige Dramatic-Irony-Zeile bei ~Sekunde 10 des Fensters, Rest bleibt komplett VO-frei: \"None of them know. That's the unbearable part — you do.\" (Kein Todes-Overclaim — viele Pompejaner entkamen; die Zeile spricht nur ueber Wissen.)",
+   "begruendung_daten": "20 s totale Stille VOR der 4-Minuten-Marke ist der riskanteste Punkt fuer Kalt-Zuschauer in der Bleib-oder-Geh-Entscheidung, direkt nach einem Meta-Block statt nach einem emotionalen Peak; die Zeile aktiviert die Zuschauer-Ueberlegenheit aus der 4-Akt-Formel (Playbook §5.3) und haelt den Scan-Modus warm, ohne das Atem-Beat-Prinzip (§10) zu brechen."
+  },
+  {
+   "prio": 14,
+   "beat": "S15-S18 Morgen in Pompeji (~3:55)",
+   "anweisung": "Ersetzen durch: \"Morning, Pompeii — and it looks like any morning anywhere. Someone is running for office: fresh paint by the gate, VOTE FOR HELVIUS SABINUS FOR AEDILE. Someone is opening a bar: at Asellina's, warm wine for the first customers. Someone is baking: at the bakery of Modestus, eighty-one loaves slide into the oven. Remember those loaves — nobody will ever take them out. None of this feels like ancient history. It feels like a Tuesday.\"",
+   "begruendung_daten": "\"Glorious in its ordinariness\" ist Schreibtisch-Englisch (stolpert gesprochen); die Relatability-These \"They felt like Tuesday\" ist beim 377k-Gewinner belegt (Playbook §10) und fehlt im ganzen Act 1, obwohl Archetyp A2 Banality-first (333k-Beleg, §9) exakt davon lebt; Anaphora \"Someone is...\" = Sprechrhythmus."
+  },
+  {
+   "prio": 15,
+   "beat": "S28-S30 PUMICE (~7:00)",
+   "anweisung": "Den Absatz ab \"Stones begin to fall\" ersetzen (Myth-Bust \"no rivers of glowing lava\" davor bleibt unveraendert): \"Stones begin to fall. On the roof tiles it sounds like rain. Then like gravel. Then like fists. Fifteen centimeters an hour — ankle-deep before the first hour is out. Not a hailstorm that passes — a hailstorm with no end.\" Zusatz fuer Assembly: SFX-Treppe Regen -> Kies -> Haemmern unter Shots 37-40.",
+   "begruendung_daten": "Der Bimsregen ist das akustischste Ereignis des Videos, wird im Draft aber rein visuell erzaehlt; Playbook §10 (Immersion/Atem-Beats) + Sound-Design als Masterplan-Differenzierungshebel; \"ankle-deep\" ist der fehlende Koerper-Anker zur abstrakten Zahl (Playbook §8: Zahl+Anker-Muster) und bleibt konsistent zu \"past the knee\" in S40."
+  },
+  {
+   "prio": 16,
+   "beat": "S72-S74 DAS BROT — Schluss-Satz (~15:30)",
+   "anweisung": "\"Preserved by the one disaster terrible enough to do it.\" ersetzen durch: \"...an object so ordinary that no one would ever have kept it. (Beat.) Nobody keeps a loaf of bread. It took the end of a world to keep this one.\" Pinned Comment: diese Zeile UND S53 (\"The ash kept better records of bread...\") als Zitat-Paar aufnehmen; der Brot-Short (Tag +1) endet auf der neuen Zeile.",
+   "begruendung_daten": "\"...enough to do it\" ist ein toter Sprech-Ausgang exakt an der Stelle, die Brot-Short und Abo-Formel vorbereitet (Konversions-Moment); die neue Zeile ist quotable und Short-tauglich — Echtheits-Flex-Uebergang Rekonstruktion -> Realfund ist gemessenes Gewinner-Muster (Playbook §10, Gaensehaut-Match-Cut)."
+  },
+  {
+   "prio": 17,
+   "beat": "S54-S56 STABIAE, DER TOD (~11:10)",
+   "anweisung": "Die Schachtel-Passage ersetzen: \"The sea is wild and hopeless. And now the air itself turns on them — flashes of flame on the horizon, and then the smell reaches the beach: sulfur.\" VO faellt auf \"sulfur\" ab, danach 1 s Pause. (Flammen + Schwefel sind bereits auditierter Skript-Bestand, nur Syntax aendert sich.)",
+   "begruendung_daten": "\"the air turning\" ist grammatisch in der Schwebe und beim ersten Hoeren unklar; die Doppelpunkt-Kaskade funktioniert auf Papier, nicht im Ohr — und der Beat traegt die staerkste Sensorik-Chance des Skripts (Geruch als Ereignis mit Richtung), Playbook §10 Immersions-Muster."
+  },
+  {
+   "prio": 18,
+   "beat": "S79 ABO-FORMEL (~17:00)",
+   "anweisung": "Garden-Path-Satz umstellen: \"If a loaf of bread baked almost two thousand years ago just felt like this morning — then this channel was built for you. We rebuild one lost world every week, from the evidence, witness by witness. Subscribe — and be standing in [SIEGERSTADT] next Saturday, when it comes back to life.\" (Saturday-Ergaenzung aus Prio 4 hier integriert.)",
+   "begruendung_daten": "\"a loaf of bread just made almost two thousand years ago\" liest sich beim ersten Hoeren als \"just made\" = frisch gebacken — Stolperer exakt an der Konversions-Stelle; das konditional-emotionale Framing selbst ist §10-belegt (\"If these people started feeling like neighbors...\") und bleibt."
+  },
+  {
+   "prio": 19,
+   "beat": "06-metadata: Thumbnail-Konzept 1 + Subline-Zuordnung",
+   "anweisung": "Konzept 1: Rauchsaeule KOMPLETT streichen — makelloser Goldmorgen, gruener EIN-Kegel-Vesuv, erwachende Stadt; die Bedrohung liefert allein die Subline. Subline auf echtes Superlativ wechseln: \"HISTORY'S MOST FAMOUS ERUPTION\" (\"famous\" ueberlebt die Superlativ-Regel, \"deadliest\" nicht — Tambora/Krakatoa). \"TWO CITIES. 24 HOURS.\" wandert als Subline auf Konzept 4. Hinweis in die Datei: Runde 2 misst damit Badge+Subline als Paket; soll der 4K-Badge isoliert gemessen werden, stattdessen Subline des Runde-1-Gewinners auf Konzept 4 uebernehmen.",
+   "begruendung_daten": "(a) Fakten: laut Dossier-Zeitleiste existiert vor ~12-13 Uhr KEINE Saeule — eine Morgen-Rauchsaeule ist exakt das Detail, das die per 999-Spiel aktivierte Scanner-Community in die Kommentare treibt; (b) CTR: eine \"duenne\" Saeule liest sich in Thumbnail-Groesse als Ruhe (Playbook §4 verlangt sichtbares Drama — hier traegt es die dramatische Ironie der Subline); (c) §11.1 ist explizit der SUPERLATIV-Subline-Test (Galveston 494k) — mit einer Stakes-Zeile wuerde der geplante Code-Test gar nicht durchgefuehrt."
+  },
+  {
+   "prio": 20,
+   "beat": "S15-S18 Asellina — Preis-Anker",
+   "anweisung": "Eine Preis-Zeile an der Bar ergaenzen: \"A cup of the house wine costs one as — pocket change; the good stuff, four. The prices are scratched right into the wall, like a chalkboard menu. That's the cost of breakfast on the last day of the world.\" PFLICHT-FLAG: exakte As-Preise UND ob die Preisliste an Asellinas Wand belegt ist (CIL IV 1679 \"Hedone\" vs. Regina-Liste) VOR RENDERING VERIFIZIEREN + DOSSIER-NACHTRAG. Fallback bei unklarer Lage: Zahlen weglassen UND Ortszuordnung neutralisieren (\"On the bar walls of this town, the prices are scratched right into the plaster\").",
+   "begruendung_daten": "Playbook §10 fuehrt Preis-/Lohn-Vergleiche in heutiger Logik als quantifiziertes Gewinner-Muster (377k-Video, Housing-Market-Zeile); im ganzen Skript kommt kein einziger Preis vor, obwohl das Dossier mit Asellina + Regina-Preisliste die Steilvorlage listet."
+  },
+  {
+   "prio": 21,
+   "beat": "S22-S23 Vorbeben + Spartacus-Landung (~5:00)",
+   "anweisung": "Block neu fassen (nimmt den aus dem Hook verschobenen Spartacus auf, Lakonie-Fix integriert): \"For days, the ground has been restless — cups rattling, dogs barking at nothing. Nobody panics. Our young witness later explained why, in one dry line: earthquakes in Campania are nothing unusual. They happen all the time. (Beat.) This mountain has been quiet so long that a hundred and fifty years ago, Spartacus camped his rebel army in its overgrown crater. The bay has been whispering its warning for days. Nobody here speaks the language.\" Whisper-Zeile bleibt Closer.",
+   "begruendung_daten": "Spartacus kostet im Hook 11 W. und ist dort der redundante dritte \"niemand wusste es\"-Beleg; hier veredelt er die Ironie der ueberhoerten Warnungen (Playbook §5.3) und Act 2 gewinnt einen Moment vor der Datums-Debatte; der \"because\"-Nebensatz nimmt der Plinius-Paraphrase gesprochen die Lakonie (zwei kurze Saetze = der Witz). 73 v. Chr. -> 79 n. Chr. dossierkonform."
+  },
+  {
+   "prio": 22,
+   "beat": "S72-S74 — 81-Brote-Loop-Aufloesung (~15:20)",
+   "anweisung": "Einen Satz direkt vor dem Celer-Laib einziehen: \"Remember the eighty-one loaves at Modestus' bakery? Excavators finally took them out of the oven — eighteen centuries late, carbonized where the baker left them.\" PFLICHT-FLAG: Grabungs-Details (Entnahme, Jahr) VOR RENDERING VERIFIZIEREN + DOSSIER-NACHTRAG; falls unklar, weiche Form: \"Excavators found them still in the oven — eighteen centuries late.\"",
+   "begruendung_daten": "Einziger unbezahlter, explizit mit \"Remember\" markierter Curiosity Loop im Skript — ein gebrochenes Versprechen an genau die aufmerksamen Zuschauer, die das Fehler-Spiel spielen; verstaerkt zugleich den Echtheits-Flex-Uebergang Rekonstruktion -> Realfund (Playbook §10). 81 Brote im Ofen sind dossier-gedeckt."
+  },
+  {
+   "prio": 23,
+   "beat": "S62-S65 Letter-Karten L3-L5 (~13:30-14:20)",
+   "anweisung": "L3 (Meer weicht zurueck) von der Karte in attribuierte Paraphrase im VO-Fluss ueberfuehren (NICHT als Zitat geframt, Zitat-Regel-konform): \"And the sea itself does something he cannot explain — it pulls back, draining away from the shore, stranding sea creatures on dry sand.\" PFLICHT-FLAG: \"stranding sea creatures\" gegen 6.20 verifizieren + Dossier-Nachtrag; sonst Halbsatz weglassen. L4 (Dunkelheit) und L5 (no gods left) bleiben als Karten mit der Mutter-Szene als Abstandshalter. Richter-Entscheid zum Widerspruch mit dem VO-Schutzposten \"alle 5 Letter\": Das ist kein Wortzahl-Schnitt, sondern ein Pacing-Fix — kein Zitat-Inhalt geht verloren, 6.20 bleibt in Pinned-Comment-Quellenliste.",
+   "begruendung_daten": "Drei Karten-Inserts in ~90 s, L3->L4 nur einen Satz getrennt: das Insert-Ritual verliert bei dichter Staffelung den Event-Charakter, und drei Atempausen kumulieren am Ende von Act 3, wo das Misenum-Finale Tempo braucht; spart ~15 s Karten-Stille. L4/L5 sind die staerksten Zeilen und behalten ihren Abstand."
+  },
+  {
+   "prio": 24,
+   "beat": "S43 Mid-Video-Aufloesung (~8:45)",
+   "anweisung": "Nach \"...pinned, as promised.\" eine Null-Aufwand-Frage einschieben: \"Did you catch it back then — or did the tomatoes walk right past you? Be honest in the comments.\" (~18 W., gegenfinanziert ueber Prio 10.)",
+   "begruendung_daten": "Playbook §5: die Gewinner setzen genau in der Video-Mitte eine Zuschauerfrage (\"Which One Shocked You?\") als zweiten Kommentar-Trigger; verdreifacht die Kommentar-Oberflaeche des Videos (Anfang YES/NOT YET, Mitte caught/missed, Ende A/B/C). Der Slot selbst (Aufloesung + Pin + Re-Hook) ist vorbildlich besetzt und bleibt unangetastet."
+  },
+  {
+   "prio": 25,
+   "beat": "VO-Mikropolitur: S47-S48 + S49-S50 (~9:40-10:10)",
+   "anweisung": "S47-S48: \"The column — thirty kilometers of suspended rock — has been held up all day by nothing but thrust. When that engine falters, physics presents the bill: the column collapses under its own weight, and the fire comes down.\" S49-S50: \"Not under four meters of ash, like Pompeii. Under twenty — six stories of rock. Herculaneum isn't buried tonight. It is erased.\"",
+   "begruendung_daten": "\"thrust/thrust\" in Folgesaetzen klingt gesprochen wie ein Versprecher — ausgerechnet an Signature-Sequenz 2 (Style-Bible §3.2, visueller Hoehepunkt); \"six stories\" liefert den fehlenden Koerper-Anker zur zweiten 20-Meter-Nennung (Playbook §8: Zahl+Anker als Gewinner-Muster, bewusst NICHT im Cold Open, damit der schlank bleibt)."
+  },
+  {
+   "prio": 26,
+   "beat": "06-metadata: Kapitel-SEO, Test-Runden, Shorts-3",
+   "anweisung": "(a) Kapitel umbenennen: \"~6:00 Pliny the Elder Sails Into It\" und \"~12:40 The Boy in the Darkness (Pliny the Younger)\". (b) Zeile in die Thumbnail-Sektion: \"Test & Compare Runde 1: Konzepte 1+2+3 (Superlativ vs. textlos vs. Farb-Pop — drei distinkte Codes); Konzept 4 = Runde 2 gegen den Runde-1-Gewinner.\" (c) Shorts-Ableger 3 an den Skript-Wortlaut angleichen: \"For more than two centuries, we thought they escaped. Then archaeologists opened the boat houses.\"",
+   "begruendung_daten": "(a) \"Pliny\" ist der groesste Personen-Suchbegriff des Themas und fehlt in allen Kapiteln — Playbook §5 fuehrt Kapitelmarken als SEO-Flaeche, Kosten null; (b) YouTube Test & Compare erlaubt max. 3 Thumbnails, ohne Festlegung wird beim Upload ad hoc entschieden und der Test verwaessert; (c) \"250 years\" ist eine dritte, unbelegte Zahl neben Skript (\"more than two centuries\") und Realitaet (~270 Jahre) — Long/Short-Abweichungen fuettern Korrektur-Kommentare."
+  }
+ ],
+ "verworfen": [
+  "Hook-Doktor, Spartacus-Closer \"Even the man who slept inside it never knew what it was\": Wissens-Claim ueber eine Einzelperson, den das Dossier nicht deckt (es belegt nur \"Roemer wussten praktisch nicht\") — Verschiebung uebernommen, Closer durch dossier-sichere Formulierung ersetzt.",
+  "Hook-Doktor, Tease-Wortlaut \"for seventeen hundred years\" ohne \"nearly\": 79 n. Chr. bis Wiederentdeckung Anfang 1700er sind ~1.630 Jahre — \"nearly\" ist die dossier-konforme Hedge und bleibt im Merge-Text.",
+  "Engagement-Mechanik, Zahlen-Trikolon-Variante \"Two cities. One mountain. One loaf of bread.\": Dublette zum Trikolon-Fix — die \"Twenty-four hours\"-Variante gewinnt, weil sie Titel (\"The Final 24 Hours\") und Stakes-Subline woertlich spiegelt (Playbook §2 Konsistenz).",
+  "Engagement-Mechanik, Beibehaltung des alten Reiseplan-Trikolons (\"Live through the final twenty-four hours of Pompeii and Herculaneum\"): der §8-Benchmark eskaliert im dritten Glied zur Apokalypse und endet nicht auf Ortsnamen — eskalierende Variante uebernommen.",
+  "VO-Sprachqualitaet, 85-Woerter-Version von S02-S04 (Geograph + \"before Rome existed\" im VO): von der tieferen 62-Woerter-Kuerzung ueberholt — das Dossier verlangt im VO nur \"Almost no one\" plus Strabo-Fussnoten-Bild, und der Zungenbrecher \"read the scorched summit rocks\" entfaellt mit.",
+  "Engagement-Mechanik, 80-Woerter-Version von S11 (inkl. \"not a date, not a number, not a name\"): von der ~62-Woerter-Version ueberholt — \"a single planted object\" transportiert dieselbe Leitplanke, und die 18 gesparten Woerter braucht der CTA-Slot.",
+  "VO-Sprachqualitaet, S78b-Zusatz \"Every vote so far has been decided by fewer than [N] comments\": nach genau einer Abstimmung ein duenner Claim plus fragiler Zusatz-Platzhalter — keine Retention-Daten dahinter.",
+  "Titel-Thumbnail-CTR, Option 2 fuer Konzept 1 (Moment auf ~13 Uhr, volle Schirmpinien-Saeule): wuerde den Saeulen-Code von Konzept 2 duplizieren und die Code-Spreizung des 3er-Tests verengen — Option 1 (rauchfreier Goldmorgen) uebernommen.",
+  "VO-Sprachqualitaet, Schutzposten \"alle 5 Letter nicht anfassen\" (nur bzgl. L3): uebersteuert, weil die L3-Umwandlung in attribuierte Paraphrase kein Wortzahl-Schnitt ist, sondern ein Pacing-Fix mit konkreter Insert-Dichte-Begruendung — L1, L2 (Latein), L4, L5 bleiben als Karten unantastbar."
+ ],
+ "act_schreibnotizen": {
+  "act1": "Budget ~480 W. (0:00-~3:35). Den fixierten Block aus Prio 1 WOERTLICH uebernehmen (243 W. bis Trikolon-Ende ~1:40), dann S10 (51 W., Prio 9), S11 (~62 W.) + S11b (~22 W., Prio 8), S12-S14 (~100 W., Prio 2 mit Zitat-Scoping-Fix). Ziel-Timeline: Time-Slip ~1:40, 999 ~2:00, CTA ~2:25, Zeugen-Block bis ~3:15, Ambience A ~3:15-3:35 mit genau EINER Ironie-Zeile bei Sek. 10 (Prio 13), Rest stumm. NICHT anfassen: Opening-Zeile, 999-Leitplanken (Objekt, Pin, Aufloesung naechste Episode), YES/NOT-YET-Mechanik, Celer-Ueberlebens-Loop-Zeile. Fakten-Waechter: \"nearly seventeen hundred years\", \"Almost no one alive knows\", Museums-Ort bleibt bis Act 4 ungenannt, Gelehrten-Ausnahme nur als Strabo-Fussnoten-Bild. Kapitelmarke ~1:35 in 06-metadata nachziehen.",
+  "act2": "Budget ~700 W. (~3:35-~9:10). Additions einbauen: S15-S18-Rewrite mit Someone-Anaphora + Tuesday-Zeile (Prio 14, 81-Brote-Setup \"Remember those loaves\" bleibt zwingend), Preis-Anker an der Bar NUR mit Verifizier-Flag/Fallback (Prio 20), Spartacus landet als Ironie-Beat in S22-S23 mit Whisper-Zeile als Closer (Prio 21), Pumice-Klang-Treppe Regen->Kies->Faeuste + \"ankle-deep\" (Prio 15), Mikro-Frage nach dem Tomaten-Reveal (Prio 24). Schnitte: S19-S20 auf zwei Saetze, S25-S27/S31-S32/S33-S36/S37-S39 je ~10-15 % Beschreibungsfett, S40-S42-Attribution kurz — aber die explizite Stabiae-Referenz beim Kissen-Detail ist Dossier-Pflicht. UNANTASTBAR: S24 Datums-Debatte komplett (Praezisions-Marke), L1-Karte, L2-Latein-Karte mit gekennzeichneter Eigenuebersetzung, \"word for word — in the Latin\" exklusiv hier. Ambience B (Shot 31, Ananas) ohne jeden VO-Hinweis lassen.",
+  "act3": "Budget ~640 W. (~9:10-~14:20). Additions: Countdown-Stakes-Zeile vor S54 (Prio 12 — zwei parallele Ueberlebens-Fragen tragen bis S66), \"six stories of rock\"-Anker in S49-S50 und Engine-Fix in S47-S48 (Prio 25), Sulfur-Syntax-Fix mit Abfall auf \"sulfur\" + 1-s-Pause (Prio 17). L3 wird attribuierte Paraphrase im Fluss (Verifizier-Flag Meerestiere), L4/L5 bleiben Karten mit Mutter-Szene als Abstand (Prio 23). Schnitte: S44-S46-Aufzaehlung um Arzt-Kasten kuerzen (in Shotlist), S51-S52-Intro straffen, S57-S61 ~10 %. UNANTASTBAR: Schwarz-Schnitt + 3 s absolute Stille nach dem Bootshaus-Surge, 2-s-Beats, S53-Celer-Reinforcement (\"Hold that question\") wortgleich, 1982-Wendung, Pietaets-Regeln der Style-Bible §5 (kein Todesmoment im Bild, keine Panik-Nahaufnahmen). Zahlen-Anker (300 Skelette, 400-500 Grad sinngemaess, vier vs. zwanzig Meter) behalten.",
+  "act4": "Budget ~540 W. (~14:20-~17:30) — trotz Mechanik-Zuwachs, also aggressiv in der Beschreibung sparen: S67-S68 auf ~55 W., S69-S71 auf ~50 W. (Rome-sent-money-Satz raus), S76 auf ~65 W. Pflicht-Reihenfolge: Bruecken-Zeile am Akt-Anfang (Prio 11) -> Narbe/Vergessen kompakt -> 81-Brote-Payoff mit Verifizier-Flag direkt vor dem Celer-Laib (Prio 22) -> Brot-Sequenz endet auf der Signature-Line \"Nobody keeps a loaf of bread. It took the end of a world to keep this one.\" (Prio 16) -> S75 Celer-Aufloesung mit ALLEN Dossier-Hedges wortnah (\"some scholars read\", \"If they are right\", \"a name on a stone, nothing more\" — Freilassungs-Lesart NIE als Fakt) -> S76 Plinian-Payoff -> S77 Fehler-Hinweis -> S78 mit [TOP-VOTER-NAME] (Prio 5) -> S78b neue A/B/C-Wahl (Prio 3) -> S79 garden-path-fixiert + \"next Saturday\" (Prio 18) -> End-Card Mensch+SATURDAY in allen drei Varianten (Prio 4). Platzhalter-Liste im Header erweitern: [TOP-VOTER-NAME], [STADT-C-NEU], [VERLIERER 1/2]. Nach dem Rewrite: Wortzahl-Check-Skript (~150 wpm + ~105 s Stille-Budget = ~17:30) und alle drei Verifizier-Flags (Preise, 81-Brote-Grabung, Meerestiere 6.20) VOR Rendering abarbeiten + Dossier-Nachtrag."
+ }
+}

@@ -20,14 +20,20 @@ Geschätzte Credits: **580-720 (Premium-Kern, inkl. Retries)** + Thumbnails
   1080p-Master -> 2K-Stills, Upscale-Batch entfällt
 
 ## Schritt 0 — Abhängigkeiten von V1 (VOR VO-Rendering!)
-- [ ] **QA-Pipeline abgeschlossen?** Fakten-Audit + Kreativ-Review +
-      Final-Rewrite auf ~2.400 Wörter (v1 liegt bewusst ~15 % drüber)
-- [ ] **Stadtwahl V1 auszählen** -> [STADTWAHL-SIEGER]-Platzhalter ersetzen
-      (Skript S78/S79 + End-Card-Variante + Beschreibung + Shot #105-107)
+- [x] **QA-Pipeline abgeschlossen:** Fakten-Audit (20 Funde) + Kreativ-Review
+      (26 Anweisungen) + Final-Rewrite — Skript v3 FINAL, ~2.665 Wörter
+- [ ] **QC-GATE LÄNGE (User-Entscheid):** Final-Skript ergibt ~19:30 statt
+      17:30 — Akt 1/alle Slots timing-treu, Überhang = geschützte Beats
+      (Details im Skript-Header). Belassen ODER Kürzungsauftrag geben.
+- [ ] **Stadtwahl V1 auszählen** -> [STADTWAHL-SIEGER], [SIEGERSTADT],
+      [TOP-VOTER-NAME], [VERLIERER 1], [VERLIERER 2] ersetzen (Skript
+      S78/S78b/S79 + End-Card-Variante + Beschreibung + Shots #105/#105b/#107)
       · Governance: < 50 Stimmen -> wir entscheiden (Daten-Favorit Baghdad),
-      Voter werden trotzdem gecredited
+      Voter werden trotzdem gecredited · Neue Wahl: C = London 1666
 - [ ] **Fehler-Spiel V1**: ersten richtigen Tomaten-Kommentar identifizieren
       -> [PIN-NAME] in Skript S43 + Shot #55 einsetzen
+- [ ] **Verifizier-Flags** aus Dossier-REVIEW-NACHTRÄGEN abarbeiten
+      (Wein-Preise CIL IV 1679, 81-Brote-Bergung, Meerestiere 6.20)
 - [ ] V1-Retention-Daten (falls schon vorhanden) gegen Hook prüfen —
       Playbook-Feedback-Schleife
 

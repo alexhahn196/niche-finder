@@ -84,6 +84,24 @@ and Herculaneum: A Sourcebook; Wallace-Hadrill, Herculaneum: Past and Future.
    imagined there were no gods left, and that the universe was plunged into
    eternal darkness for evermore."*
 
+**REVIEW-NACHTRÄGE (Verifizier-Flags VOR Rendering, Kreativ-Review 2026-07-10):**
+- **Wein-Preise (Skript S15-S18):** Preisliste "(Wein) 1 As / bessere 2 /
+  Falerner 4" ist als Wandinschrift CIL IV 1679 (Hedone-Inschrift) in
+  Pompeji belegt — aber NICHT an Asellinas Bar. Skript nutzt deshalb
+  neutrale Zuordnung ("the menu scratched into the plaster", ohne
+  Bar-Namen). VOR RENDERING: Wortlaut/Zuordnung gegen CIL prüfen; Fallback:
+  Zahlen streichen.
+- **81 Brote, Bergung (Skript S72-S74):** weiche Form gewählt ("Excavators
+  found them still in the oven — eighteen centuries late"); Grabungsjahr
+  (~1862) NICHT im VO. VOR RENDERING: Bergungsdetails prüfen, falls
+  präzisere Angabe gewünscht.
+- **Gestrandete Meerestiere (Skript S62-S65):** 6.20 (Radice) beschreibt
+  vom Beben zurückgesaugtes Meer und auf dem Sand gestrandete Meerestiere —
+  läuft als attribuierte VO-Paraphrase (Karten-Insert L3 entfällt,
+  Pacing-Fix). VOR RENDERING: Radice-Wortlaut gegenprüfen.
+- **"Hourglass"-Bild (S53b):** reines Sprachbild, kein Fakten-Claim
+  (Bims-Füllung des Hofs ist 6.16-belegt).
+
 **Paraphrasen-Fundstellen (attribuiert erzählen, NIE als Zitat framen):**
 Schnarchen des Älteren (6.16, Stabiae) · **Kissen auf den Köpfen: 6.16, NUR
 Stabiae/Pomponianus-Haushalt — die Pompeji-Szene ist plausible Inszenierung

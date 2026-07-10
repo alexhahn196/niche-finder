@@ -1,18 +1,21 @@
-# Shotlist: Video 02 — Vesuv 79 n. Chr. (128 Shots, Ziel ~17:30)
+# Shotlist: Video 02 — Vesuv 79 n. Chr. (129 Shots, Nominal 17:30 / VO-Master ~19:30)
 
 Format: `# | Zeit | Dauer | Typ | Bewegung | Prompt-Kern (+ BASE + MOOD + NEG aus Style-Bible) | Ambience`
 Typ: **I**=Still mit Ken-Burns, **V**=Video-Clip (teuer, sparsam), **L**=Letter-Insert, **G**=Grafik/Karte
 Bewegung: PI=Push-in, PO=Pull-out, LAT=Lateral, STAT=Statisch · **HERO**=Seedream quality=high
 
-**TIMING-REGEL (Audit-korrigiert):** Zeitspalten laufen KONTINUIERLICH durch
-(keine Resets an Akt-Grenzen — die Löcher des v1-Stands sind durch die Shots
-26b-i, 56b-i, 90b-e geschlossen; Shot-Summe ≈ 17:20). Master ist das
-gerenderte VO — das Assembly-Skript skaliert Dauern proportional, aber NUR
-innerhalb ±5 %; darüber wird manuell umgetaktet. VON DER SKALIERUNG
+**TIMING-REGEL (Audit + Review):** Zeitspalten laufen KONTINUIERLICH durch
+(keine Resets an Akt-Grenzen; Nominal-Coverage ≈ 17:30 inkl. #13=20 s und
+#105b). **VO-Master des Final-Skripts ≈ 19:30** — die Differenz (+~2 min)
+wird NICHT global skaliert (±5-%-Regel!), sondern manuell verteilt:
+bevorzugt auf die 20 Übergangs-Shots (26b-i, 56b-i, 90b-e, je +3-5 s) und
+die Emotions-Beats (Letter-Umfelder, Celer-Beats). VON JEDER SKALIERUNG
 AUSGENOMMEN (harte Längen): #65 Schwarzbild (3 s Stille + 2 s Nachhall),
 Ambience-Fenster A (21–24, ~20 s) und B (#31, 15 s), alle Letter-Karten
-(Mindest-Standzeit). Shots 21–24 und 31 sind VO-frei. Time-Slip #13 (12 s)
-und Berg-Morph #92 (10 s) sind bewusste Ausnahmen von der 5–10-s-Clip-Regel.
+(Mindest-Standzeit). Shot 31 ist VO-frei; Fenster A trägt genau EINE Zeile.
+Time-Slip #13 (20 s) und Berg-Morph #92 (10 s) sind bewusste Ausnahmen von
+der 5–10-s-Clip-Regel. (Falls QC-Gate Kürzung auf 17:30 anordnet, gilt die
+Nominal-Taktung unverändert.)
 
 ## ACT 1 — Der letzte gewöhnliche Morgen (0:00–~3:55) · MOOD_RIVIERA · Hook 4-6s
 
@@ -30,7 +33,7 @@ und Berg-Morph #92 (10 s) sind bewusste Ausnahmen von der 5–10-s-Clip-Regel.
 | 10 | 0:50 | 6 | I | PI | Krater innen: überwuchert, still (Spartacus-Anspielung), Vögel | Wind |
 | 11 | 0:56 | 7 | G | PI | Karte Bucht: Vesuv mittig, Pompeji SO, Herculaneum W, Misenum quer über die Bucht; Tease-Zahlen | Kartenrascheln, Drone |
 | 12 | 1:03 | 6 | I | LAT | Straßen-Bustle-Totale: Brotkörbe, Kinder, Hunde — Leben | Stimmen, Räder |
-| 13 | 1:09 | 12 | V | — | **TIME-SLIP**: Forum Pompeji heute (Touristen, Doppel-Vesuv) -> Morph -> 79 (Säulen wachsen, Farbe flutet, EIN-Kegel) | Chor schwillt an |
+| 13 | 1:09 | 20 | V | — | **TIME-SLIP**: Forum Pompeji heute (Touristen, Doppel-Vesuv) -> Morph -> 79 (Säulen wachsen, Farbe flutet, EIN-Kegel) — Review: 20 s, damit VO (~51 W.) und Morph atmen | Chor schwillt an |
 | 14 | 1:21 | 10 | I | PI | Dichte Forum-Marktszene + Texttafel "999 details are real. One is not." | Markt, Stimmen |
 | 15 | 1:31 | 8 | I | PI | MOOD_MODERN: Besucherstrom in den heutigen Ruinen (CTA-Overlay YES / NOT YET) | heutige Schritte |
 | 16 | 1:39 | 7 | I | PI | CHAR_CELER Porträt-Beat: Blick hebt sich vom Teig zum Fenster | Feuer, fern Möwen |
@@ -38,7 +41,7 @@ und Berg-Morph #92 (10 s) sind bewusste Ausnahmen von der 5–10-s-Clip-Regel.
 | 18 | 1:52 | 6 | I | PO | Misenum quer über die Bucht: Flottenbasis, Galeeren-Reihen | Hafen, Taue |
 | 19 | 1:58 | 7 | I | PI | CHAR_PLINY_YOUNG auf Terrasse, Schriftrolle im Schoß, Blick zum Berg | Seewind |
 | 20 | 2:05 | 7 | I | PI | Letter-Look-Intro: Wachstafel/Feder im Lampenlicht, Karte "HIS LETTERS SURVIVE" (#20 = Intro-Still im Letter-Look, KEIN Insert — kein VO-Ritual/Foley-Trigger) | Stylus kratzt |
-| 21-24 | 2:12-2:32 | 4×5 | I | Mix | **Ambience-Fenster A** (VO-frei): Hafen Pompeji / Thermen-Dampf / CAVE-CANEM-Mosaik / Kettenhund im Hof | Stadtklang-Collage |
+| 21-24 | 2:12-2:32 | 4×5 | I | Mix | **Ambience-Fenster A** (VO-frei bis auf EINE Ironie-Zeile bei Sek. ~10, s. Skript): Hafen Pompeji / Thermen-Dampf / CAVE-CANEM-Mosaik / Kettenhund im Hof | Stadtklang-Collage |
 | 25 | 2:32 | 6 | I | PI | Wahlgraffito frisch gemalt: "HELVIUS SABINUS AED" — Maler mit Pinsel | Pinselstriche |
 | 26 | 2:38 | 6 | I | PI | Asellinas Thermopolium: Wirtin schenkt warmen Wein, Tresen mit Dolia | Becher, Gelächter |
 | 26b | 2:44 | 9 | I | LAT | Garum-Werkstatt: Amphoren werden versiegelt und gestapelt, Fischsauce-Dolia | Werkstatt, Möwen |
@@ -75,7 +78,7 @@ und Berg-Morph #92 (10 s) sind bewusste Ausnahmen von der 5–10-s-Clip-Regel.
 | 43 | 6:04 | 7 | I | PI | Misenum: CHAR_PLINY_ELDER auf Kai, Blick zur Säule, Offiziere warten | Hafen, Wind |
 | 44 | 6:11 | 7 | I | PI | Botenbrief in Elders Hand (Rectina-Hilferuf), CHAR_RECTINA auf Villa-Terrasse (Gegenschnitt) | Papyrus, Brandung |
 | 45 | 6:18 | 9 | V | — | **QUADRIREMEN IN DEN ASCHFALL** (Signature): Kriegsschiffe rudern in dunkle Wand, Bims trifft Deck | Ruderschlag, Prasseln |
-| 46 | 6:27 | 8 | L | STAT | **LETTER 2** ("Fortune favours the brave"): Karte 6.16 | Stylus, Wellen |
+| 46 | 6:27 | 8 | L | STAT | **LETTER 2** — Karte, Hauptzeile LATEIN: "'Fortes' inquit 'fortuna iuvat: Pomponianum pete.'" (Plin. 6.16.11), Subline gekennzeichnet "(translation ours)" — NIE als Radice ausweisen! | Stylus, Wellen |
 | 47 | 6:35 | 8 | I | PI | Stabiae: Landung, Pomponianus' Haushalt packt panisch, Elder ruhig im Kontrast | Panikstimmen |
 | 48 | 6:43 | 8 | I | PI | Absurde Ruhe: Elder beim Abendessen im Lampenlicht, draußen Aschehimmel | Besteck, Prasseln |
 | 49 | 6:51 | 8 | I | STAT | Geschlossene Tür, Flur: Schnarchen hörbar, Diener lauschen, Fackel | Schnarchen! Prasseln |
@@ -127,7 +130,7 @@ und Berg-Morph #92 (10 s) sind bewusste Ausnahmen von der 5–10-s-Clip-Regel.
 | 82 | 12:31 | 7 | I | STAT | Der Kettenhund-Abguss (dokumentarisch, Museumslicht) | Stille |
 | 83 | 12:38 | 7 | I | PI | Misenum: Karren rollen führerlos über ebene Straße, Menschen fliehen | Beben, Räder |
 | 84 | 12:45 | 8 | V | — | Meer weicht zurück: nasser Grund, gestrandete Boote, zappelnde Fische | saugendes Wasser |
-| 85 | 12:53 | 8 | L | STAT | **LETTER 3** (Meer): Karte 6.20 | Stylus |
+| 85 | 12:53 | 8 | I | PI | Gestrandete Meerestiere auf nassem Sand, Menschen starren (6.20 läuft als VO-Paraphrase — KEINE Karte, Review-Pacing-Fix) | nasser Sand, Stille |
 | 86 | 13:01 | 8 | V | — | Schwarze Wolkenwand rollt über Land auf Misenum, Licht stirbt | Wind -> Nichts |
 | 87 | 13:09 | 8 | L | STAT | **LETTER 4** (Dunkelheit/Lampe): Karte 6.20 | Stylus, fern Schreie |
 | 88 | 13:17 | 9 | I | PI | Fast-Schwarz: Umrisse, eine Hand greift eine Hand (Mutter-Beat) | Stimmen im Dunkel |
@@ -156,18 +159,21 @@ und Berg-Morph #92 (10 s) sind bewusste Ausnahmen von der 5–10-s-Clip-Regel.
 | 102 | 15:52 | 8 | I | PI | Der ältere Plinius d. J. am Schreibpult, Briefe an Tacitus, Kerzenlicht | Feder |
 | 103 | 16:00 | 8 | I | PI | Archiv-Look-Montage: St. Helens/Pinatubo-Säulen + Karte "PLINIAN ERUPTION" | dumpfe Moderne |
 | 104 | 16:08 | 12 | G | STAT | Fehler-Spiel-Karte: "Did you find it? First half. A market stall." + Kommentar-Icon | UI-Klick |
-| 105 | 16:20 | 14 | G | STAT | **STADTWAHL-ERGEBNIS**: 3 Panels (Baghdad/Tenochtitlan/Lisbon), Sieger-Panel leuchtet auf [PLATZHALTER] + Top-Voter-Namenskarte | Abstimmungs-Sting |
+| 105 | 16:20 | 14 | G | STAT | **STADTWAHL-ERGEBNIS**: 3 Panels (Baghdad/Tenochtitlan/Lisbon), Sieger-Panel leuchtet auf [PLATZHALTER] + Top-Voter-Namenskarte [TOP-VOTER-NAME] | Abstimmungs-Sting |
+| 105b | 16:34 | 12 | G | STAT | **NEUE STADTWAHL** (Review Prio 3): 3-Karten-Insert analog V1 — A: [VERLIERER 1] / B: [VERLIERER 2] / C: London 1666 (brennende Skyline) | Abstimmungs-Sting |
 | 106 | 16:34 | 12 | I | PI | Abo-Formel über Siegerstadt-Teaser-Art [3 Varianten vorbereiten] | Marken-Sting |
 | 107 | 16:46 | 16 | G | STAT | END-CARD: "NEXT WITNESS: [Variante A/B/C]" + Subscribe (Standzeit = YT-End-Screen) | Marken-Sting |
 | 108 | 17:02 | 18 | I | PO-HERO | Schlussbild: Bucht heute in Abendlicht, Vesuv-Doppelprofil, Lichter der Städte (hält bis 17:20; End-Screen-Elemente liegen darüber) | Meer, Abendklang |
 
 ## Produktions-Zählung (Audit-korrigiert)
 
-- **128 Shots**: Stills (I): 99 (inkl. Übergangs-Shots 26b-i, 56b-i, 90b-e;
-  #20 = Intro-Still im Letter-Look) · Video-Clips (V): 13 (inkl. Time-Slip
-  12 s + Berg-Morph 10 s) · Grafiken/Karten (G): 10 · Letter-Inserts (L): 5
-  (#36, #46, #85, #87, #89 — als Stills produziert; Karten als Text-Overlay
-  im Assembly, nie im Bild-Prompt) · 1 Schwarzbild (#65, 0 Credits)
+- **129 Shots**: Stills (I): 100 (inkl. Übergangs-Shots 26b-i, 56b-i, 90b-e;
+  #20 = Intro-Still im Letter-Look; #85 = Meerestier-Still statt Karte) ·
+  Video-Clips (V): 13 (inkl. Time-Slip 20 s + Berg-Morph 10 s) ·
+  Grafiken/Karten (G): 11 (inkl. #105b Neue Stadtwahl) · Letter-Inserts (L):
+  4 (#36, #46 Latein, #87, #89 — als Stills produziert; Karten als
+  Text-Overlay im Assembly, nie im Bild-Prompt) · 1 Schwarzbild (#65,
+  0 Credits)
 - **HERO-Auswahl (Seedream 4.5 quality=high, ~6K Zoom-Reserve), 18 Stills:**
   5, 6, 9, 14, 31, 35, 41, 58, 61, 69, 71, 76, 79, 90, 95, 98, 99, 108.
   Alle übrigen PI/PO-Stills: Effizienz-Modell + Batch-Upscale auf 4K,

@@ -4,7 +4,10 @@
 
 - A (Haupt): **Pompeii 79 AD: The Final 24 Hours (AI Reconstruction)** (55 Z.)
   — "Pompeii" = Such-Anker; Herculaneum trägt Beschreibung/Kapitel/Hook
-- B: **The Final 24 Hours of Pompeii & Herculaneum (AI Reconstruction)** (64 Z.)
+- B (Review-korrigiert): **Pompeii & Herculaneum 79 AD: The Final 24 Hours
+  (AI Reconstruction)** (67 Z.) — Ort vorn + Jahr = die zwei stärksten
+  CTR-Prädiktoren (+49/+23 pp); bei 67 Z. kann das Label auf Sidebar
+  abschneiden — für B-Test akzeptabel, A bleibt Default
 - C (Test/Short-Titel): **Pompeii 79 AD — Told by a Loaf of Bread (AI
   Reconstruction)** (63 Z.) — Witness-Angle, nur wenn A/B-CTR schwach
 - Overclaim-Check: "Final 24 Hours" wird vom Skript exakt eingelöst
@@ -12,9 +15,11 @@
 
 ## Thumbnails (4 Varianten, Gewinner-Code v2 aus Playbook §11)
 
-1. **"Der letzte Morgen"**: Luftbild Bucht in Goldlicht, grüner EIN-Kegel-
-   Vesuv mit erster dünner Rauchsäule, Stadt im Vordergrund; "POMPEII / 79 AD"
-   gelb + Superlativ-Subline klein: "TWO CITIES. 24 HOURS." (§11.1)
+1. **"Der letzte Morgen"** (Review-korrigiert): Luftbild Bucht in Goldlicht,
+   grüner EIN-Kegel-Vesuv — **KEINE Rauchsäule** (vor ~13 Uhr existiert
+   keine; die Scanner-Community würde es melden). Bedrohung liefert allein
+   die Subline: "HISTORY'S MOST FAMOUS ERUPTION" ("famous" übersteht die
+   Superlativ-Regel, "deadliest" nicht — Tambora/Krakatoa). "POMPEII / 79 AD" gelb
 2. **"Die Säule"**: Straßenebene Pompeji, Menschen-Silhouetten starren auf
    die monströse Eruptionssäule überm Dächermeer; KEIN Text (§11-Muster
    textlos, Tower-of-London-Beweis)
@@ -22,16 +27,21 @@
    monochrome aschgraue Szene, zwei Hände halten den gestempelten Laib als
    EINZIGES warmes Farbobjekt; Text nur "79 AD" gelb. Higgsfield:
    MOOD_TOMB, dann selektiv entsättigen — Serien-Look zu V01 "Das Tagebuch"!
-4. **Low-Cost-Variante**: Konzept 1 + "4K"-Badge (testbar)
+4. **Low-Cost-Variante**: Konzept 1 + "4K"-Badge + Subline "TWO CITIES.
+   24 HOURS." (testbar)
 
 Regeln: fotorealistisch, keine großen Gesichter, menschliche Silhouetten
 für Skala, Hauptzeile max. 2 Wörter + Jahr.
+**Test & Compare Runde 1:** Konzepte 1+2+3 (Superlativ vs. textlos vs.
+Farb-Pop — drei distinkte Codes); Konzept 4 = Runde 2 gegen den
+Runde-1-Gewinner (misst Badge+Subline als Paket).
 
 ## Beschreibung (Template — Platzhalter vor Upload ersetzen!)
 
 ```
 79 AD. Before dawn, a slave named Celer stamps his name into a loaf of bread.
-By the next morning, his city no longer exists. The bread survived. We found it.
+By the next morning, his city no longer exists. The bread survived. It's in
+a museum today.
 
 We rebuilt the last 24 hours of Pompeii AND Herculaneum with AI, from the
 letters of Pliny the Younger — the only eyewitness account — and planted ONE
@@ -39,20 +49,21 @@ deliberate mistake. Can you find it? (First correct guess gets pinned.
 Last episode's mistake is revealed IN this video.)
 
 🗳 THE VOTE IS IN: [SIEGERSTADT] won — that reconstruction is next.
-Top comment of the vote gets named in the episode, as promised.
+Top voter [TOP-VOTER-NAME] is named in the episode, as promised.
+NEW BALLOT: A) [VERLIERER 1] B) [VERLIERER 2] C) London 1666 — one letter!
 
 CHAPTERS (Zeitmarken NACH finalem VO-Render neu setzen!)
 0:00 The Last Ordinary Morning
-~1:10 The Time-Slip: Pompeii Alive Again
-~3:55 A City Being Rebuilt / What Day Is It, Really?
-~4:50 1 PM — The Column
-~6:00 The Admiral Sails Into It
-~7:40 The Constantinople Mistake — Revealed
-~9:10 Midnight: Herculaneum & the Boat Houses
-~11:50 Dawn: Pompeii's Last Breath
-~12:40 The Boy in the Darkness
-~14:20 What the Ash Kept
-~16:20 Your Vote Result + Next Witness
+~1:35 The Time-Slip: Pompeii Alive Again
+~3:45 A City Being Rebuilt / What Day Is It, Really?
+~5:10 1 PM — The Column
+~6:20 Pliny the Elder Sails Into It
+~8:20 The Constantinople Mistake — Revealed
+~9:30 Midnight: Herculaneum & the Boat Houses
+~12:20 Dawn: Pompeii's Last Breath
+~13:20 The Boy in the Darkness (Pliny the Younger)
+~14:55 What the Ash Kept
+~17:45 Your Vote Result + the New Ballot
 
 SOURCES (selection)
 · Pliny the Younger, Letters 6.16 & 6.20 (transl. B. Radice)
@@ -85,5 +96,6 @@ surprised you most — the floating stone, the snoring admiral, or the bread?"
    the morning Vesuvius erupted — and it has a name on it." (#2-5 + #98)
 2. **Berg-Morph-Short (15 s)**: #92, Text: "Vesuvius didn't always look
    like this. The 79 AD eruption blew its summit apart."
-3. **Bootshäuser-Short (25 s)**: "For 250 years we thought they escaped.
-   Then archaeologists opened the boat houses." (#67-69, pietätvoll)
+3. **Bootshäuser-Short (25 s)**: "For more than two centuries, we thought
+   they escaped. Then archaeologists opened the boat houses." (#67-69,
+   pietätvoll — Wortlaut = Skript S51)
