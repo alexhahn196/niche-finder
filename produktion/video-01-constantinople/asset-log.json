@@ -41,6 +41,23 @@
     },
     "ausschuss_lessons": "5 Kills im Akt-1-QC: 3x Minarett-Drift (s20,s23,s30 — gehärtete Positiv-Skyline-Formel wirkt zuverlässig), 1x eingeschmuggelte Tomaten (s17 — Markt-Prompts brauchen 'NO red round fruits'-Klausel + explizite Alternativ-Früchte), 1x nsfw-Fehlfilter ('children' in Marktprompts vermeiden)"
   },
-  "graphics_assembly": "s09 (Reichs-Karte), Teil von s24-27 (Mauer-Schema), s64, s108, s110 = Karten/Templates im Assembly, keine Generierung",
+  "akt2_stills": {
+    "status": "32/32 generiert; 28 QC-PASS, 4 Retries laufen (s34 Türkei-Flaggen!, s42 Kaiser-Gesicht, s53 Minarette, s62 Kalligraphie-Medaillons von 1849!)",
+    "shots": {
+      "s32": "13f7015f", "s33": "dfdd3c6f", "s34": "RETRY 620fc82d (v1 3385e151 hatte MODERNE TÜRKEI-FLAGGEN im Lager)",
+      "s35": "233a5ceb", "s37": "cf77b3c3", "s38": "7b5801f6", "s39": "5428f002", "s40": "f77bc59a",
+      "s41": "2b9bbbe2", "s42": "RETRY d81e574a mit Konstantin-Referenz (v1 0d0008f0 Kaiser-Gesicht inkonsistent)",
+      "s44": "fa5cba15 (HERO)", "s45": "765d893c (HERO, FEHLER-SHOT: Tomatenkorb klar sichtbar, faires Spiel bestätigt)",
+      "s46": "aa10bfc5", "s47": "feb8590c", "s48": "936a495b", "s49": "9056d59b (HERO)",
+      "s50": "88c51a04", "s52": "67f6cb17", "s53": "RETRY c4bd7312 (v1 4aeb70ef hatte 3 Minarette an der Hagia Sophia)",
+      "s54": "d34a5349", "s55": "b2c5a670 (HERO Signature)", "s56": "076c9f4c", "s57": "5ccf61ce",
+      "s59": "61e99eac (HERO)", "s59b": "adcaf645", "s59c": "9e75af05", "s59d": "29e46e88",
+      "s60": "4b80f35a", "s61": "70ea4a77 (Notiz: Öllampe rechts — byzantinische Glasöllampen belegt, ok)",
+      "s62": "RETRY c9378bb9 (v1 1952e24b hatte die 1849er-Kalligraphie-Medaillons 'Allah'/'Muhammad' — härtester Fund des QC)",
+      "s63": "1e485897", "s64": "e72d9750 (HERO)"
+    },
+    "s30_final": "da9e4366 (Edit-Pass hat fernes Minarett erfolgreich entfernt — Edit-Workflow via image_references funktioniert für Retuschen)"
+  },
+  "graphics_assembly": "s09 (Reichs-Karte), Teil von s24-27 (Mauer-Schema), s64-Zahlen-Overlay, s108, s110 = Karten/Templates im Assembly, keine Generierung",
   "naechster_schritt": "Akt-2-Stills (Shots 32-64), dann Akt 3+4; danach QC-GATE 3 (Kontaktbogen alle ~98) -> Clips (Schritt 4); parallel: User schließt ElevenLabs Creator ab -> Stimmen-Bake-off"
 }
