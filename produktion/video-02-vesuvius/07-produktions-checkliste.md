@@ -1,16 +1,23 @@
 # Produktions-Checkliste: Video 02 (Ablauf mit QC-Gates, Muster V01)
 
 Voraussetzung: Higgsfield **Ultra** aktiv + Kanalstimme aus V01-Bake-off.
-Geschätzte Credits: **550-650 (Premium-Kern)** · Durchlaufzeit: ~1 Arbeitstag ·
-Deine Zeit: ~2 h QC.
+Geschätzte Credits: **580-720 (Premium-Kern, inkl. Retries)** + Thumbnails
+~20-30 · Durchlaufzeit: ~1 Arbeitstag · Deine Zeit: ~2 h QC.
 
-**AUFLÖSUNGS-REGELN (verbindlich, aus V01-Audit):**
-- Stills mit Push-in/Pull-out: Seedream 4.5 quality=high (~6K Zoom-Reserve)
+**AUFLÖSUNGS-REGELN (verbindlich, V01-Wortlaut wiederhergestellt):**
+- **HERO-Stills (18 Stück, in der Shotlist markiert):** Seedream 4.5
+  quality=high (~6K Zoom-Reserve)
+- **Alle übrigen PI/PO-Stills:** Effizienz-Modell + Batch-Upscale auf 4K,
+  Ken-Burns-Zoom max. 5 % (Assembly-Skript erzwingt das Limit); stärkere
+  Bewegung nur LAT/STAT oder Umstufung zu HERO
 - NB Pro nur resolution=4k, nur STAT-Shots + Charakter-Referenzen
-- Effizienz-Modell-Shots: vor Assembly Batch-Upscale auf 4K (~40-60 Credits)
-- Signature-Clips (#13, #34, #45, #62/63, #92): Seedance 2.0 resolution=4k
-  EXPLIZIT (Default 720p!); übrige Clips 1080p
-- Sparmodus-Fallback: 1080p-Master -> 2K-Stills, Upscale-Batch entfällt
+- Effizienz-Modell-Shots: vor Assembly Batch-Upscale auf 4K (~40-60 Credits,
+  in Schritt 3 enthalten)
+- **Signature-Clips (7 Stück: #13, #34, #45, #62, #63, #64, #92): Seedance
+  2.0 resolution=4k EXPLIZIT** (Default 720p!) — #64 ist der Klimax-Shot
+  direkt vor dem Schwarzschnitt, NIEMALS 1080p; übrige 6 Clips Kling 1080p
+- Sparmodus-Fallback (dokumentierte Alternative, NICHT Default):
+  1080p-Master -> 2K-Stills, Upscale-Batch entfällt
 
 ## Schritt 0 — Abhängigkeiten von V1 (VOR VO-Rendering!)
 - [ ] **QA-Pipeline abgeschlossen?** Fakten-Audit + Kreativ-Review +
@@ -42,18 +49,23 @@ Deine Zeit: ~2 h QC.
       Stichprobe Letter-Insert-Ton)
 - [ ] Finale Audiolänge messen -> Shotlist-Timings skalieren (Assembly)
 
-## Schritt 3 — Stills-Batches (~85 Bilder, ~150-250 Credits)
+## Schritt 3 — Stills-Batches (~104 Bilder: 99 I + 5 L, ~290-340 Credits inkl. Upscale)
 - [ ] Batch je Akt (BASE+MOOD+NEG), 8 parallel; Vision-Check jedes Bild:
       Anachronismen (Sperrliste! v. a. Doppel-Vesuv/Lava), Hände/Gesichter,
       Look-Konsistenz
 - [ ] Shot #31: ANANAS muss klar erkennbar sein (faires Spiel), Stand
       saisonneutral
+- [ ] **Frucht-Check (999/1-Schutz):** Jeden Markt-/Straßenshot (v. a. #7,
+      #14, #26c, #31) auf sichtbare Früchte/Pflanzen gegen Sperrliste prüfen;
+      hart verifizieren, dass AUSSER #31 KEIN Shot eine Ananas o. a.
+      Neue-Welt-Frucht zeigt (Eindeutigkeit des Fehler-Spiels)
 - [ ] Pietäts-Check Act 3 (Style-Bible §5): keine Todes-Nahaufnahmen
-- [ ] **QC-GATE 3: Kontaktbogen aller Stills** (30 Min.)
+- [ ] **QC-GATE 3: Kontaktbogen aller ~104** (30 Min.)
 
-## Schritt 4 — Video-Clips (12 Stück, ~100-150 Credits)
-- [ ] Priorität: Säulen-Kollaps/Surge (#62-64) > Time-Slip (#13) >
-      Berg-Morph (#92) > Ausbruch (#34) > Quadriremen (#45) > Rest
+## Schritt 4 — Video-Clips (13 Stück, ~220-320 Credits inkl. Retries)
+- [ ] Priorität: Säulen-Kollaps/Surge (#62-64, alle drei Seedance 4k!) >
+      Time-Slip (#13) > Berg-Morph (#92) > Ausbruch (#34) > Quadriremen
+      (#45) > Rest
 - [ ] Image-to-Video von freigegebenen Stills, 5-10 s, max. 2 Versuche,
       Fallback Ken-Burns (V01-Regel)
 

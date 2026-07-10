@@ -1,13 +1,16 @@
 # Skript v1: "Pompeii 79 AD: The Final 24 Hours (AI Reconstruction)"
 
-v1 VOR Fakten-Audit + Kreativ-Review (QA-Pipeline Schritt 1).
-Stand v1: ~2.770 Wörter Sprechtext (bewusst ~15 % über Ziel — Kompression ist
-Aufgabe des Final-Rewrites nach dem Kreativ-Review, zielWorte=2400).
-Ziel final: ~2.400 Wörter + ~105 s spezifizierte Stille ≈ 17:30 @ 150 wpm
-(Playbook-Median 17:00; V1 = 16:00).
+v2 NACH Fakten-Audit (20 bestätigte Funde eingearbeitet, s.
+audit-befunde.json), VOR Kreativ-Review + Final-Rewrite.
+Stand: ~2.800 Wörter Sprechtext (bewusst über Ziel — Kompression ist Aufgabe
+des Final-Rewrites nach dem Kreativ-Review, **zielWorte=2360**).
+Ziel final: ~2.360 Wörter + ~105 s spezifizierte Stille ≈ 17:30 @ 150 wpm
+(2.360/150 = 15:44 + 1:45; Playbook-Median 17:00; V1 = 16:10).
 Hook-Archetyp: **Banality-first** (§9 A2 — Differenzierung zum Glory-first von
-Video 1 UND zum 333k-Konkurrenten). Alle Zitate quellenbelegt (Plinius d. J.
-6.16/6.20, Radice-Übersetzung — Fundstellen: 01-recherche-dossier.md, bindend).
+Video 1 UND zum 333k-Konkurrenten). Zitate: 4× Radice (Plinius d. J. 6.16/6.20)
++ LETTER 2 = lateinisches Original 6.16.11 mit gekennzeichneter
+Eigenübersetzung (Radice übersetzt die Stelle nur indirekt!) — Fundstellen:
+01-recherche-dossier.md, bindend.
 Letter-Inserts kursiv mit Karten-Insert "FROM THE LETTERS OF PLINY THE YOUNGER".
 Beat-Mapping zur 108er-Shotlist am Ende.
 
@@ -16,30 +19,34 @@ auszählen, Varianten A/B/C unten), [PIN-NAME V1-Fehlerspiel], [SIEGERSTADT].
 
 ---
 
-## ACT 1 — THE LAST ORDINARY MORNING (0:00–~3:50)
+## ACT 1 — THE LAST ORDINARY MORNING (0:00–~3:55)
 
 [S01] **These two cities no longer exist. For the next seventeen minutes — they do.**
 
 [COLD OPEN] The Bay of Naples, in the year seventy-nine. In the small hours of
-the morning, in the town of Herculaneum, a slave named Celer presses a bronze
-stamp into a loaf of bread: CELER — SLAVE OF QUINTUS GRANIUS VERUS. Mark the
-loaf. Fire the oven. Start the day. He cannot know that this bread will never
-be eaten — that in twenty-four hours, this entire coastline will no longer
-exist. *(Beat, 1,5 s.)* Nineteen centuries later, archaeologists cut through
-twenty meters of solid rock — and found his loaf. Blackened. Whole. The name
+the morning, in the town of Herculaneum, a household slave named Celer presses
+a bronze stamp into the family's loaf of bread: CELER — SLAVE OF QUINTUS
+GRANIUS VERUS. Mark the loaf. Send it to the oven. Start the day. He cannot
+know that this bread will never be eaten — that in twenty-four hours, this
+entire coastline will no longer exist. *(Beat, 1,5 s.)* Nearly nineteen
+centuries later, archaeologists cut through twenty meters of solid rock — and
+found his loaf. Blackened. Whole. The name
 still legible on the crust. It lies in a museum in Naples today. This is the
 story of the day it was baked.
 
 [S02-S04] Two cities share this shoreline. Pompeii: loud, commercial, perhaps
 twelve thousand people. Herculaneum: smaller, quieter, richer — a resort by
 the sea. And above them both, green to the summit and covered in vineyards:
-Vesuvius. Nobody alive knows it is a volcano. It has slept since centuries
-before Rome existed; Spartacus once camped his rebel army in its overgrown
+Vesuvius. Almost no one alive knows it is a volcano. One Greek geographer,
+decades in his grave, read the scorched summit rocks correctly — a scholar's
+footnote that never reached the people living below. No one in living memory
+has seen the mountain burn; its last great eruption came centuries before
+Rome existed. Spartacus once camped his rebel army in its quiet, overgrown
 crater. To this bay, Vesuvius is simply where the good wine grows.
 
 [TEASE] By this hour tomorrow, both cities will be gone — and at least two
 thousand people will be dead. Buried so completely that the world forgets
-these towns ever existed. For seventeen hundred years.
+these towns ever existed. For nearly seventeen hundred years.
 
 [TRIKOLON] So walk their streets. Smell the bread. Live through the final
 twenty-four hours of Pompeii and Herculaneum.
@@ -63,9 +70,9 @@ walked the ruins of Pompeii. Have you? One word in the comments — YES, or
 NOT YET.
 
 [S12-S14 — WITNESSES] You already know our first witness: the man who stamped
-the bread. Celer is real — his name is baked into the loaf, and his owner,
-Quintus Granius Verus, appears in Herculaneum's own legal records. But a
-baker's slave leaves no letters. So we have a second witness: across the bay,
+the bread. Celer is real — his name is baked into the loaf itself, pressed
+into the dough beside his owner's: Quintus Granius Verus. But a household
+slave leaves no letters. So we have a second witness: across the bay,
 thirty kilometers away, a seventeen-year-old who reads too much and questions
 everything. His uncle commands the Roman fleet. When the mountain tears open,
 the boy will watch every hour of it — and write it down. His letters survive;
@@ -75,7 +82,7 @@ the ash alive — that answer waits at the end.
 *(Shots 21–24: Ambience-Fenster A, ~20 s — Stadt-Tour beider Städte ohne VO:
 Hafen, Thermen, CAVE-CANEM-Mosaik, Kettenhund.)*
 
-## ACT 2 — THE MOUNTAIN WAKES (~3:50–~8:40)
+## ACT 2 — THE MOUNTAIN WAKES (~3:55–~9:10)
 
 [S15-S18] Morning, Pompeii — glorious in its ordinariness. Fresh paint by the
 gate: VOTE FOR HELVIUS SABINUS FOR AEDILE — there's an election to win. At
@@ -105,9 +112,9 @@ note, dated to mid-October. August by the books. Autumn by the evidence. We
 honestly don't know. What we do know, almost to the minute — is the hour.
 
 [S25-S27 — ERUPTION] Around one o'clock in the afternoon, the mountain tears
-itself open. The blast punches a column of gas and shattered rock more than
-thirty kilometers into the sky — three times the altitude a passenger jet
-flies. Across the bay, a seventeen-year-old stares at a shape nobody has a
+itself open. The blast punches a column of gas and shattered rock into the
+sky — and it keeps climbing. By evening it stands more than thirty kilometers
+tall: three times the altitude a passenger jet flies. Across the bay, a seventeen-year-old stares at a shape nobody has a
 word for yet — and reaches for the only comparison his world offers:
 
 [LETTER 1 — Karte: FROM THE LETTERS OF PLINY THE YOUNGER · TO TACITUS, 6.16]
@@ -137,9 +144,12 @@ Rectina, a friend trapped in her villa at the mountain's foot, where escape
 is only possible by sea. The research trip becomes a rescue mission. He
 launches the fleet's warships and steers them straight into the falling
 stone. His helmsman begs him to turn back. His answer survives, word for
-word:
+word — in the Latin:
 
-[LETTER 2 — 6.16] *"Fortune favours the brave — head for Pomponianus."*
+[LETTER 2 — Karte, Hauptzeile LATEIN: *"'Fortes' inquit 'fortuna iuvat:
+Pomponianum pete.'"* (Plin. 6.16.11) · Subline, als Eigenübersetzung
+gekennzeichnet: "Fortune favours the brave — make for Pomponianus."
+(translation ours)]
 
 [S37-S39 — STABIAE] They never reach Rectina — the shore is already choked
 with debris — so he runs south to Stabiae, to his friend Pomponianus. Then,
@@ -152,7 +162,8 @@ it steadied a terrified household. Outside, the stones did not stop.
 past the knee. Roofs have begun to break. And every family faces the same
 arithmetic with no good answer: stay under a groaning roof — or walk out into
 falling stone? Those who go tie pillows over their heads, lashed down with
-cloth — a detail straight from the boy's letters. Those who stay tell each
+cloth — the same trick the boy's letters record that night down the coast,
+at Stabiae. Those who stay tell each
 other what people always tell each other: storms pass. This one will pass
 too. *(Stille, 2 s.)*
 
@@ -165,11 +176,12 @@ pinned, as promised. This episode's mistake is still out there. An object
 again. Your only hint: you have already seen it. And stay to the end —
 because the city YOU voted for is announced there.
 
-## ACT 3 — THE NIGHT (~8:40–~13:20)
+## ACT 3 — THE NIGHT (~9:10–~14:20)
 
 [S44-S46 — BOAT HOUSES] Midnight, Herculaneum. The town above is empty —
-doors standing open, dinners abandoned on tables. Down on the beach, hundreds
-of people are packed into the boat sheds facing the water. Mothers with
+doors standing open, dinners abandoned on tables. Down at the waterline,
+hundreds of people are packed together — on the open beach, and under the
+stone arches of the boat sheds. Mothers with
 infants. A soldier. Someone clutching a box of medical instruments. A woman
 wearing her rings. They are doing the most human thing there is: staying
 close to the water, watching the mountain burn, waiting for the boats.
@@ -190,7 +202,7 @@ no time to. Then the mountain seals the town. Not under four meters of ash,
 like Pompeii. Under twenty. Herculaneum isn't buried tonight. It is erased.
 
 [S51-S52 — 1982] Now mark this — one of the strangest turns in archaeology.
-For two centuries after Herculaneum's rediscovery, excavators found almost
+For more than two centuries after Herculaneum's rediscovery, excavators found almost
 no one. A town of thousands — a handful of bodies. So the books wrote a
 merciful ending: the people escaped. Then, in 1982, archaeologists reached
 the ancient beach line and opened the boat sheds. Three hundred skeletons.
@@ -200,15 +212,16 @@ that was still at sea.
 [S53 — CELER] Was Celer among them? *(Beat.)* The honest answer: nobody
 knows. We know only what he left behind — a stamped loaf in a fine house by
 the sea wall, waiting for an owner who never came back. Hold that question.
-The ash kept better records of bread than of bakers — but it kept one more
-clue about this man. It waits at the end.
+The ash kept better records of bread than of the men who stamped it — but it
+kept one more clue about this man. It waits at the end.
 
 [S54-S56 — STABIAE, DER TOD] Down the coast at Stabiae, the commander's calm
 runs out of road. The courtyard outside his room fills with pumice so fast
 that his hosts wake him — much longer, and the door would never have opened
-again. The house sways with shocks. They go down to the beach — but the sea
-is wild, hopeless, and the air is turning: flames on the horizon, the smell
-of sulfur. The old man lies down on a spread sailcloth and asks twice for
+again. The house sways with shocks. They go down to the beach — by now, his
+nephew notes, it is day everywhere else in the world; here, a black deeper
+than any night. And the sea is wild, hopeless, the air turning: flames on
+the horizon, the smell of sulfur. The old man lies down on a spread sailcloth and asks twice for
 cold water. When the others finally run, he tries to stand, leaning on two
 slaves — and collapses. Two days later, they find him on that beach:
 unburned, unmarked — looking, his nephew wrote, more like a man asleep than
@@ -258,7 +271,7 @@ slowly, the darkness thins. A weak light returns — a sun the color of an
 eclipse. The world is still there. It is just grey: ash lying on everything,
 he wrote, like snowdrifts. He and his mother survive.
 
-## ACT 4 — WHAT THE ASH KEPT (~13:20–~16:30)
+## ACT 4 — WHAT THE ASH KEPT (~14:20–~17:30)
 
 [S67-S68 — DIE NARBE] The eruption didn't just kill two cities — it redrew
 the map. The coastline moved: where the sea once touched Herculaneum's boat
@@ -314,8 +327,8 @@ Lisbon, 1755. The votes are in. **[STADTWAHL-SIEGER — Ansage einsetzen,
 Varianten unten]** And as promised: the top comment of that vote gets named
 in the episode itself.
 
-[S79 — ABO-FORMEL] If a loaf of bread just made two thousand years ago feel
-like this morning — then this channel was built for you. We rebuild one lost
+[S79 — ABO-FORMEL] If a loaf of bread just made almost two thousand years ago
+feel like this morning — then this channel was built for you. We rebuild one lost
 world every week, from the evidence, witness by witness. Subscribe — and be
 standing in [SIEGERSTADT] when it comes back to life.
 
@@ -333,11 +346,14 @@ standing in [SIEGERSTADT] when it comes back to life.
 ---
 Stille-Budget (~105 s): Ambience-Fenster A ~20 s, B ~15 s, Schwarz-Schnitt
 3 s, 2×2-s-Beats, Act-Übergänge + Letter-Karten-Atempausen.
-Letter-Inserts: 5× Plinius d. J. (Radice, Fundstellen im Dossier) — alle als
+Letter-Inserts: 5× Plinius d. J. — 4× Radice + LETTER 2 als lateinisches
+Original 6.16.11 mit gekennzeichneter Eigenübersetzung; alle als
 Karten-Inserts, VO-Stimme intimer (Audio-Spec §1). Falsches Detail: Shot #31
-(Ananas, Style-Bible §6). Plinius-Paraphrasen (Schnarchen, Kissen, Karren,
-Mutter-Szene, "wie Schnee", "mehr schlafend als tot") sind attribuiert,
-NICHT als Zitat geframt (Zitat-Regel).
+(Ananas, Style-Bible §6). Plinius-Paraphrasen (Schnarchen, Karren,
+Mutter-Szene, "wie Schnee", "mehr schlafend als tot", "anderswo längst Tag")
+sind attribuiert, NICHT als Zitat geframt (Zitat-Regel). Kissen-Detail:
+6.16 belegt es NUR für Stabiae — Pompeji-Szene referenziert das explizit
+("down the coast, at Stabiae").
 
 ## Beat-Mapping Skript [S##] -> Shotlist #
 

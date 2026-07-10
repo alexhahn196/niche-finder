@@ -1,21 +1,25 @@
-# Shotlist: Video 02 — Vesuv 79 n. Chr. (108 Shots, Ziel ~17:30)
+# Shotlist: Video 02 — Vesuv 79 n. Chr. (128 Shots, Ziel ~17:30)
 
 Format: `# | Zeit | Dauer | Typ | Bewegung | Prompt-Kern (+ BASE + MOOD + NEG aus Style-Bible) | Ambience`
 Typ: **I**=Still mit Ken-Burns, **V**=Video-Clip (teuer, sparsam), **L**=Letter-Insert, **G**=Grafik/Karte
-Bewegung: PI=Push-in, PO=Pull-out, LAT=Lateral, STAT=Statisch
+Bewegung: PI=Push-in, PO=Pull-out, LAT=Lateral, STAT=Statisch · **HERO**=Seedream quality=high
 
-**TIMING-REGEL (wie V01):** Zeitspalten sind Richtwerte auf 17:30 gerechnet.
-Master ist das gerenderte VO — das Assembly-Skript skaliert alle Dauern
-proportional. Shots 21–24 (Fenster A) und 31 (Fenster B) sind VO-frei.
-Time-Slip #13 (12 s) und Berg-Morph #92 (10 s) sind bewusste Ausnahmen
-von der 5–10-s-Clip-Regel.
+**TIMING-REGEL (Audit-korrigiert):** Zeitspalten laufen KONTINUIERLICH durch
+(keine Resets an Akt-Grenzen — die Löcher des v1-Stands sind durch die Shots
+26b-i, 56b-i, 90b-e geschlossen; Shot-Summe ≈ 17:20). Master ist das
+gerenderte VO — das Assembly-Skript skaliert Dauern proportional, aber NUR
+innerhalb ±5 %; darüber wird manuell umgetaktet. VON DER SKALIERUNG
+AUSGENOMMEN (harte Längen): #65 Schwarzbild (3 s Stille + 2 s Nachhall),
+Ambience-Fenster A (21–24, ~20 s) und B (#31, 15 s), alle Letter-Karten
+(Mindest-Standzeit). Shots 21–24 und 31 sind VO-frei. Time-Slip #13 (12 s)
+und Berg-Morph #92 (10 s) sind bewusste Ausnahmen von der 5–10-s-Clip-Regel.
 
 ## ACT 1 — Der letzte gewöhnliche Morgen (0:00–~3:55) · MOOD_RIVIERA · Hook 4-6s
 
 | # | Zeit | s | Typ | Bew. | Prompt-Kern | Ambience |
 |---|---|---|---|---|---|---|
 | 1 | 0:00 | 4 | V | — | Schwarzbild -> Titelzeile über nächtlicher Bucht, ein einzelnes Ofenglühen erwacht | tiefer Sub-Drone |
-| 2 | 0:04 | 6 | I | PI | MOOD_RIVIERA-Vordämmerung: Bäckerei innen, Ofenglut, Mehlstaub im Gegenlicht | Ofenknistern |
+| 2 | 0:04 | 6 | I | PI | MOOD_RIVIERA-Vordämmerung: Küche/Ofenraum eines vornehmen Seefront-Hauses (Casa-dei-Cervi-Look), Ofenglut, Mehlstaub im Gegenlicht — KEINE Bäckerei (Celer = Haussklave, Dossier) | Ofenknistern |
 | 3 | 0:10 | 6 | I | PI | CHAR_CELER stempelt Brotlaib, konzentriert, Lampenlicht | Teigklatschen, Feuer |
 | 4 | 0:16 | 5 | I | STAT | Macro: Bronzestempel drückt Buchstaben in Teig "CELER..." | Knistern |
 | 5 | 0:21 | 7 | I | PI | MOOD_MODERN: das echte karbonisierte Brot in Museumsvitrine, Neapel (Kadrage = #99!) | Museumsstille |
@@ -29,16 +33,24 @@ von der 5–10-s-Clip-Regel.
 | 13 | 1:09 | 12 | V | — | **TIME-SLIP**: Forum Pompeji heute (Touristen, Doppel-Vesuv) -> Morph -> 79 (Säulen wachsen, Farbe flutet, EIN-Kegel) | Chor schwillt an |
 | 14 | 1:21 | 10 | I | PI | Dichte Forum-Marktszene + Texttafel "999 details are real. One is not." | Markt, Stimmen |
 | 15 | 1:31 | 8 | I | PI | MOOD_MODERN: Besucherstrom in den heutigen Ruinen (CTA-Overlay YES / NOT YET) | heutige Schritte |
-| 16 | 1:39 | 7 | I | PI | CHAR_CELER Porträt-Beat: Blick hebt sich vom Ofen zum Fenster | Feuer, fern Möwen |
+| 16 | 1:39 | 7 | I | PI | CHAR_CELER Porträt-Beat: Blick hebt sich vom Teig zum Fenster | Feuer, fern Möwen |
 | 17 | 1:46 | 6 | I | STAT | Holz-Wachstafeln (Herculaneum-Täfelchen-Look), Stylus, Siegel | Schreibgeräusch |
 | 18 | 1:52 | 6 | I | PO | Misenum quer über die Bucht: Flottenbasis, Galeeren-Reihen | Hafen, Taue |
 | 19 | 1:58 | 7 | I | PI | CHAR_PLINY_YOUNG auf Terrasse, Schriftrolle im Schoß, Blick zum Berg | Seewind |
-| 20 | 2:05 | 7 | L | PI | Letter-Look-Intro: Wachstafel/Feder im Lampenlicht, Karte "HIS LETTERS SURVIVE" | Stylus kratzt |
+| 20 | 2:05 | 7 | I | PI | Letter-Look-Intro: Wachstafel/Feder im Lampenlicht, Karte "HIS LETTERS SURVIVE" (#20 = Intro-Still im Letter-Look, KEIN Insert — kein VO-Ritual/Foley-Trigger) | Stylus kratzt |
 | 21-24 | 2:12-2:32 | 4×5 | I | Mix | **Ambience-Fenster A** (VO-frei): Hafen Pompeji / Thermen-Dampf / CAVE-CANEM-Mosaik / Kettenhund im Hof | Stadtklang-Collage |
 | 25 | 2:32 | 6 | I | PI | Wahlgraffito frisch gemalt: "HELVIUS SABINUS AED" — Maler mit Pinsel | Pinselstriche |
 | 26 | 2:38 | 6 | I | PI | Asellinas Thermopolium: Wirtin schenkt warmen Wein, Tresen mit Dolia | Becher, Gelächter |
+| 26b | 2:44 | 9 | I | LAT | Garum-Werkstatt: Amphoren werden versiegelt und gestapelt, Fischsauce-Dolia | Werkstatt, Möwen |
+| 26c | 2:53 | 9 | I | PI | Hafen Pompeji: Fischmarkt am Kai, Körbe glänzender Fang, Feilschen | Markt, Wasser |
+| 26d | 3:02 | 9 | I | PI | Brunnen-Schlange: Frauen mit Krügen am Laufbrunnen, Wasser glitzert | Wasser, Stimmen |
+| 26e | 3:11 | 9 | I | LAT | Fullonica: Dampf über Waschbecken, aufgehängte Tuniken in Reihen | Dampf, Klatschen |
+| 26f | 3:20 | 9 | I | PI | Straßenszene: Kinder treiben einen Reifen, schlafender Hund im Sonnenfleck | Kinderlachen |
+| 26g | 3:29 | 9 | I | STAT | Töpferwerkstatt: Amphoren-Reihen, Hände an der Scheibe | Scheibe surrt |
+| 26h | 3:38 | 8 | I | PO | Dächer-Blick: über Ziegeldächer hinweg zum grünen EIN-Kegel-Vesuv, friedlicher Mittag | Zikaden, Glocke |
+| 26i | 3:46 | 9 | I | PI | Modestus-Bäckerei außen: Kunden mit Broten, Esel dreht Mühlstein | Mühlstein, Esel |
 
-*(Hinweis: Shots 25-26 laufen unter S15-S18-VO; Act-1/2-Grenze ist fließend — Assembly folgt VO.)*
+*(Hinweis: Shots 25-26i laufen unter S15-S18/S19-S20-VO; Act-1/2-Grenze ist fließend — Assembly folgt VO.)*
 
 ## ACT 2 — Der Berg erwacht (~3:55–~9:10) · MOOD_UNEASE -> ERUPTION -> ASHFALL · 7-9s
 
@@ -52,7 +64,7 @@ von der 5–10-s-Clip-Regel.
 | 32 | 4:38 | 7 | I | PI | MOOD_UNEASE: Wasserbecher kräuselt sich, Hund starrt, Vögel stieben auf | tiefes Grollen, fern |
 | 33 | 4:45 | 8 | G | PI | Datums-Karte: "AUG 24?" durchgestrichen-fragend, Kohle-Graffito "XVI K NOV" Faksimile | Kreide, Drone |
 | 34 | 4:53 | 9 | V | — | **AUSBRUCH**: Bergflanke reißt, Explosionssäule schießt hoch, Schockwelle über Weinberge | Urknall-Grollen |
-| 35 | 5:02 | 8 | I | PO | Säule in voller Höhe: Schirmpinien-Form, 30 km, Bucht-Totale | Grollen, Stille darüber |
+| 35 | 5:02 | 8 | I | PO-HERO | Säule WACHSEND: Schirmpinien-Form, steigt sichtbar weiter (Maximalhöhe ~30+ km erst abends — nicht als fertig inszenieren), Bucht-Totale | Grollen, Stille darüber |
 | 36 | 5:10 | 9 | L | PI | **LETTER 1** (Schirmpinie): Wachstafel-Look, Karte "TO TACITUS, 6.16" | Stylus, fern Grollen |
 | 37 | 5:19 | 7 | G | PI | Physik-Grafik: Säule vs. Jet-Flughöhe (3×), Windpfeil nach SO | Drone |
 | 38 | 5:26 | 7 | I | PI | Bims-Close: poröser Stein fällt in Wasserschale — und SCHWIMMT | Plitschen |
@@ -74,6 +86,14 @@ von der 5–10-s-Clip-Regel.
 | 54 | 7:31 | 8 | I | PI | Die Bleibenden: Tür wird verkeilt, Kerze, Warten — "storms pass" | Knarren, Stille |
 | 55 | 7:39 | 14 | G | PI | **AUFLÖSUNG V1**: Karte "CONSTANTINOPLE — THE MISTAKE" + 3-s-Zoom auf V1-Shot #45 Tomatenkorb + Erklärzeile + [PIN-NAME]-Karte | UI-Sting, Marktecho |
 | 56 | 7:53 | 8 | I | PO | Übergang Nacht: Berg glüht durch Aschevorhang, Bucht schwarz | Grollen näher |
+| 56b | 8:01 | 9 | I | PI | Pompeji-Straße im Zeitverlauf: Bims steigt an einer Hausschwelle Stufe um Stufe | mahlender Bims |
+| 56c | 8:10 | 9 | I | STAT | Der Marktstand aus Fenster B — jetzt grau, unter Bims begraben (stiller Callback) | Prasseln gedämpft |
+| 56d | 8:19 | 8 | I | PI | Vulkanische Blitze zucken durch die schwarze Wolkenwand (6.20: "bursts of flame") | Donner-Riss |
+| 56e | 8:27 | 9 | I | LAT | Flüchtlingszug mit Fackeln auf der Landstraße, gebeugt unter Bündeln | Schritte, Husten |
+| 56f | 8:36 | 8 | I | PI | Herculaneum: Familien steigen im Dunkel zum Strand hinab, Bootshäuser-Bögen vor glühendem Himmel | Brandung, Stimmen |
+| 56g | 8:44 | 9 | I | STAT | Verlassenes Zimmer: Öllampe flackert, verlischt — Aschestaub sinkt | Flacker, Stille |
+| 56h | 8:53 | 8 | I | PO | Bucht-Totale bei Nacht: zwei dunkle Städte, ein glühender Berg | tiefes Grollen |
+| 56i | 9:01 | 9 | I | PI | Misenum gegenüber: CHAR_PLINY_YOUNG wach am Fenster, Widerschein auf dem Gesicht | fernes Grollen |
 
 ## ACT 3 — Die Nacht (~9:10–~14:20) · MOOD_ASHFALL -> SURGE -> TOMB
 
@@ -112,7 +132,11 @@ von der 5–10-s-Clip-Regel.
 | 87 | 13:09 | 8 | L | STAT | **LETTER 4** (Dunkelheit/Lampe): Karte 6.20 | Stylus, fern Schreie |
 | 88 | 13:17 | 9 | I | PI | Fast-Schwarz: Umrisse, eine Hand greift eine Hand (Mutter-Beat) | Stimmen im Dunkel |
 | 89 | 13:26 | 9 | L | STAT | **LETTER 5** (keine Götter mehr): Karte 6.20 | Stille, ein Schluchzen |
-| 90 | 13:35 | 10 | I | PO | Licht kehrt zurück: fahle Finsternis-Sonne, Aschelandschaft wie Schnee, zwei graue Gestalten | dünner Wind |
+| 90 | 13:35 | 10 | I | PO-HERO | Licht kehrt zurück: fahle Finsternis-Sonne, Aschelandschaft wie Schnee, zwei graue Gestalten | dünner Wind |
+| 90b | 13:45 | 9 | I | PO | MOOD_TOMB-Totale: die ganze Bucht grau, kein Umriss der Städte mehr | nur Wind |
+| 90c | 13:54 | 9 | I | PI | Regen auf Asche: Tropfen schlagen Krater, die Fläche härtet zu Stein | Regen, Zischen |
+| 90d | 14:03 | 9 | I | STAT | Zeitgefühl: erste grüne Halme brechen durch die graue Kruste | Wind, ein Vogel |
+| 90e | 14:12 | 8 | I | PO | Sanfter grüner Hügel in Sonne — nichts verrät, was darunter liegt | Zikaden kehren zurück |
 
 ## ACT 4 — Was die Asche bewahrte (~14:20–~17:30) · MOOD_TOMB -> MODERN
 
@@ -134,19 +158,26 @@ von der 5–10-s-Clip-Regel.
 | 104 | 16:08 | 12 | G | STAT | Fehler-Spiel-Karte: "Did you find it? First half. A market stall." + Kommentar-Icon | UI-Klick |
 | 105 | 16:20 | 14 | G | STAT | **STADTWAHL-ERGEBNIS**: 3 Panels (Baghdad/Tenochtitlan/Lisbon), Sieger-Panel leuchtet auf [PLATZHALTER] + Top-Voter-Namenskarte | Abstimmungs-Sting |
 | 106 | 16:34 | 12 | I | PI | Abo-Formel über Siegerstadt-Teaser-Art [3 Varianten vorbereiten] | Marken-Sting |
-| 107 | 16:46 | 12 | G | STAT | END-CARD: "NEXT WITNESS: [Variante A/B/C]" + Subscribe | Marken-Sting |
-| 108 | 16:58 | 10 | I | PO | Schlussbild: Bucht heute in Abendlicht, Vesuv-Doppelprofil, Lichter der Städte | Meer, Abendklang |
+| 107 | 16:46 | 16 | G | STAT | END-CARD: "NEXT WITNESS: [Variante A/B/C]" + Subscribe (Standzeit = YT-End-Screen) | Marken-Sting |
+| 108 | 17:02 | 18 | I | PO-HERO | Schlussbild: Bucht heute in Abendlicht, Vesuv-Doppelprofil, Lichter der Städte (hält bis 17:20; End-Screen-Elemente liegen darüber) | Meer, Abendklang |
 
-## Produktions-Zählung
+## Produktions-Zählung (Audit-korrigiert)
 
-- Stills (I): ~79 · Video-Clips (V): 12 (inkl. Time-Slip 12 s + Berg-Morph
-  10 s) · Grafiken/Karten (G): 10 · Letter-Inserts (L): 6 (als Stills
-  produziert) · 1 Schwarzbild (#65, 0 Credits)
-- Credit-Schätzung **Premium-Kern** (Standard, Masterplan §7): Hero-Stills
-  Seedream 4.5 quality=high (~6K Zoom-Reserve), Standard-Shots
-  Effizienz-Modelle + Batch-Upscale (~40-60 Credits), 5 Signature-Clips
-  Seedance 2.0 (resolution=4k EXPLIZIT: #13, #34, #45, #62/63, #92),
-  übrige Clips Kling 1080p ≈ **550-650 Credits** (~26-31 EUR im Ultra-Plan
-  inkl. USt). Maximal-Variante: 800-950.
+- **128 Shots**: Stills (I): 99 (inkl. Übergangs-Shots 26b-i, 56b-i, 90b-e;
+  #20 = Intro-Still im Letter-Look) · Video-Clips (V): 13 (inkl. Time-Slip
+  12 s + Berg-Morph 10 s) · Grafiken/Karten (G): 10 · Letter-Inserts (L): 5
+  (#36, #46, #85, #87, #89 — als Stills produziert; Karten als Text-Overlay
+  im Assembly, nie im Bild-Prompt) · 1 Schwarzbild (#65, 0 Credits)
+- **HERO-Auswahl (Seedream 4.5 quality=high, ~6K Zoom-Reserve), 18 Stills:**
+  5, 6, 9, 14, 31, 35, 41, 58, 61, 69, 71, 76, 79, 90, 95, 98, 99, 108.
+  Alle übrigen PI/PO-Stills: Effizienz-Modell + Batch-Upscale auf 4K,
+  Ken-Burns-Zoom max. 5 % (Assembly erzwingt das Limit); stärkere Bewegung
+  nur LAT/STAT oder Umstufung zu HERO.
+- Credit-Schätzung **Premium-Kern** (Standard, Masterplan §7): 18 HERO-Stills
+  Seedream quality=high + ~86 Standard-Stills Effizienz + Batch-Upscale
+  (~40-60 Credits) + **7 Signature-Clips Seedance 2.0 (resolution=4k
+  EXPLIZIT: #13, #34, #45, #62, #63, #64, #92)** + 6 übrige Clips Kling
+  1080p ≈ **580-720 Credits** (~28-35 EUR im Ultra-Plan inkl. USt).
+  Maximal-Variante: 850-1.000.
 - Wiederverwendung aus V01: Insert-Rahmen-Look, Karten-Grafik-Templates,
   End-Card-Layout (0 neue Credits für Templates).

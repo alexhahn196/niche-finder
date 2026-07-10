@@ -1,0 +1,28 @@
+{
+  "video": "02-vesuvius",
+  "datum": "2026-07-10",
+  "workflow": "fakten-audit (2 Linsen + adversarial verify, 22 Agenten, 0 Fehler)",
+  "statistik": {"linsen_funde": 20, "adversarial_bestaetigt": 20, "eingearbeitet": 20},
+  "bestaetigt_und_gefixt": [
+    {"nr": 1, "sev": "kritisch", "fund": "LETTER 2 ('Fortune favours the brave — head for Pomponianus') war KEINE Radice-Übersetzung, sondern Blog-Eigenübersetzung mit Quellenkarte + 'word for word'-Claim (tödliche Kategorie)", "fix": "Karte zeigt jetzt das lateinische Original 'Fortes' inquit 'fortuna iuvat: Pomponianum pete.' (6.16.11) + gekennzeichnete Eigenübersetzung; 'word for word — in the Latin'; Dossier/Skript/Header/Footer konsistent (Radice übersetzt die Stelle nur indirekt)"},
+    {"nr": 2, "sev": "kritisch", "fund": "Shotlist deckte Laufzeit nicht: 853 s Shots für 1.050-s-Video, 175 s Löcher an Akt-Grenzen (+22 s am Ende)", "fix": "20 neue Übergangs-Shots (26b-i Morgen-Textur, 56b-i Nacht-Übergang, 90b-e Verschüttungs-Zeitraffer) + End-Cards verlängert -> ~17:20 Coverage; TIMING-REGEL: kontinuierliche Zeitachse, Skalierung nur ±5 %, harte Längen (#65, Fenster A/B, Letter-Karten) ausgenommen"},
+    {"nr": 3, "sev": "wichtig", "fund": "S12 behauptete 'legal records' als Fakt — Belegkette ist Popwissenschaft (Money 2018/Wikipedia), Primärbeleg unverifiziert", "fix": "S12 stützt sich nur noch auf den Stempel (Fundstelle CIL X 8058,18 im Dossier); Attestations-Claim nur noch gehedged in S75"},
+    {"nr": 4, "sev": "wichtig", "fund": "Celer als 'baker's slave' in Bäckerei inszeniert — Dossier sagt Haussklave/Gemeinschaftsofen, Fundort Wohnhaus", "fix": "Cold Open in Küche des Seefront-Hauses; 'household slave'; 'Send it to the oven'; CHAR_CELER + Shots #2/#16 + S53 angepasst"},
+    {"nr": 5, "sev": "wichtig", "fund": "'Nobody alive knows it is a volcano' — Strabo (Geo. 5.4.8) / Vitruv als vorhersehbare Korrektur", "fix": "'Almost no one' + Gelehrten-Fußnoten-Bild im VO; Fundstellen im Dossier; Pinned-Comment-Munition"},
+    {"nr": 6, "sev": "wichtig", "fund": "'slept since centuries before Rome' vulkanologisch falsch (AP-Eruptionen bis ~3. Jh. v. Chr.)", "fix": "gescoped auf 'last great eruption' + 'no one in living memory'; Dossier: Avellino ~1900 v. Chr., AP3-6, Stothers 2002"},
+    {"nr": 7, "sev": "wichtig", "fund": "Kissen-Detail nach Pompeji verpflanzt, aber 'straight from the boy's letters' (6.16 = nur Stabiae)", "fix": "VO referenziert Stabiae explizit ('the same trick... down the coast, at Stabiae'); Dossier-Paraphrasen-Block"},
+    {"nr": 9, "sev": "wichtig", "fund": "NEG/Sperrliste ohne Bananen/Sonnenblumen/Kürbisse; 'pineapple' fehlte im NEG für alle Shots außer #31 — Risiko zweiter Anachronismus zerstört 999/1-Spiel", "fix": "NEG erweitert + Ausnahme-Klausel präzisiert (nur #31 nimmt pineapple heraus); Dossier-Sperrliste; Frucht-Check-Prüfpunkt in Checkliste Schritt 3"},
+    {"nr": 10, "sev": "wichtig", "fund": "Auflösungs-Regel (alle PI/PO = Seedream high) kollidierte mit Credit-Schätzung (58/78 Stills PI/PO)", "fix": "V01-HERO-Modell wiederhergestellt: 18 markierte HERO-Stills, Rest Effizienz+Upscale mit 5-%-Ken-Burns-Limit"},
+    {"nr": 11, "sev": "wichtig", "fund": "Clip-Zählung 12 statt real 13; '5 Signature-Clips' waren 6 Shots", "fix": "13 V-Shots; Signature-Liste korrigiert; Credits 580-720"},
+    {"nr": 12, "sev": "wichtig", "fund": "Klimax-Shot #64 (Surge flutet Herculaneum) fehlte in der Seedance-4k-Liste — wäre 1080p neben 4k-Nachbarn", "fix": "7 Signature-Clips: #13,#34,#45,#62,#63,#64,#92 alle resolution=4k; Checkliste markiert #64 als 'NIEMALS 1080p'"},
+    {"nr": 13, "sev": "wichtig", "fund": "Ziel-Mathe: 2.400 W + 105 s = 17:45 (nicht 17:30); Akt-Grenzen Skript vs. Shotlist bis 60 s auseinander", "fix": "zielWorte=2360 (15:44 VO + 1:45 = 17:29); Akt-Header auf Shotlist-Werte 3:55/9:10/14:20/17:30; ElevenLabs-Budget angepasst"},
+    {"nr": 14, "sev": "klein", "fund": "Tod des Älteren erzählerisch in der Nacht VOR Pompejis Ende — 6.16: Vormittag Tag 2", "fix": "attribuierte Paraphrase 'by now, his nephew notes, it is day everywhere else' markiert den Morgen; Dossier-Notiz"},
+    {"nr": 15, "sev": "klein", "fund": "Rundungs-Cluster (1700 J. / two centuries / nineteen centuries / 2.000 J.)", "fix": "'nearly seventeen hundred', 'more than two centuries', 'nearly nineteen centuries', 'almost two thousand' in Skript + Shorts (200->250 Jahre)"},
+    {"nr": 16, "sev": "klein", "fund": "Säule 'more than 30 km' als Sofortereignis (real: Wachstum 15->32 km bis abends)", "fix": "Progression im VO ('keeps climbing... by evening'); Shot #35 'WACHSEND'; Dossier-Zeitleiste mit Carey & Sigurdsson"},
+    {"nr": 17, "sev": "klein", "fund": "Soldat + Ring Lady IN die Bootshäuser gesetzt (lagen am offenen Strand)", "fix": "'on the open beach and under the stone arches'; Dossier-Zeitleiste + Kontrast-Absatz präzisiert"},
+    {"nr": 18, "sev": "klein", "fund": "Laufzeit-Mathe-Dublette zu #13", "fix": "s. #13"},
+    {"nr": 19, "sev": "klein", "fund": "Shot #20 als Typ L getaggt (6 statt 5 Inserts) — hätte fälschlich das Letter-VO-Ritual getriggert", "fix": "#20 = Typ I mit explizitem 'KEIN Insert'-Vermerk; Zählung L:5"},
+    {"nr": 20, "sev": "klein", "fund": "Audio-Spec legte Bimsregen auf #31 — 30 s VOR dem Ausbruch (Kontinuitätsfehler)", "fix": "#38/#39/#40 mit Schutzregel: vor #34 kein Prasseln, #31 reine Markt-Ambience"}
+  ],
+  "hinweis": "Fund #8 = Dublette zu #2 (beide Linsen fanden die Timeline-Löcher unabhängig)."
+}

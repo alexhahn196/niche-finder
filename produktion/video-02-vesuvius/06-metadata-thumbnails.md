@@ -81,9 +81,9 @@ surprised you most — the floating stone, the snoring admiral, or the bread?"
 
 ## Shorts-Ableger (Tag +1 / +3 / +5)
 
-1. **Brot-Short (20 s)**: "This bread is 2,000 years old. It was baked the
-   morning Vesuvius erupted — and it has a name on it." (#2-5 + #98)
+1. **Brot-Short (20 s)**: "This bread is almost 2,000 years old. It was baked
+   the morning Vesuvius erupted — and it has a name on it." (#2-5 + #98)
 2. **Berg-Morph-Short (15 s)**: #92, Text: "Vesuvius didn't always look
    like this. The 79 AD eruption blew its summit apart."
-3. **Bootshäuser-Short (25 s)**: "For 200 years we thought they escaped.
+3. **Bootshäuser-Short (25 s)**: "For 250 years we thought they escaped.
    Then archaeologists opened the boat houses." (#67-69, pietätvoll)

@@ -30,12 +30,17 @@ realistic color grade, no text, no watermark`
 
 **NEG (Negativ-Prompt, immer):**
 `modern twin-peaked Vesuvius silhouette, red lava rivers, flowing lava,
-tomatoes, corn, potatoes, oranges, lemon market stalls, coffee, paper books,
-horseshoes, stirrups, medieval or renaissance architecture, modern buildings,
-cars, powerlines, tourists, cartoon, painting style, text, watermark,
-deformed hands, extra fingers`
-(Ausnahmen: der eine Fehler-Shot §6; MOOD_MODERN-Shots dürfen heutige
-Silhouette/Touristen zeigen — NUR dort.)
+tomatoes, corn, potatoes, oranges, lemon market stalls, coffee, bananas,
+pineapple, sunflowers, pumpkins, squash, paper books, horseshoes, stirrups,
+medieval or renaissance architecture, modern buildings, cars, powerlines,
+tourists, cartoon, painting style, text, watermark, deformed hands,
+extra fingers`
+(Ausnahmen: Fehler-Shot #31 — NUR dort wird `pineapple` aus dem NEG entfernt
+und in den Positiv-Prompt gesetzt; ALLE übrigen NEG-Einträge gelten auch in
+#31. MOOD_MODERN-Shots dürfen heutige Silhouette/Touristen zeigen — NUR dort.
+Grund der Frucht-Liste: Bildmodelle streuen Neue-Welt-Früchte in Marktshots —
+eine versehentliche ZWEITE Anachronismus-Frucht würde das 999/1-Spiel
+zerstören.)
 
 **HÄRTESTE REGEL (Dossier):** Vesuv VOR dem Ausbruch = **EIN grüner Kegel
 mit Weinbergen** — niemals die heutige Doppel-Silhouette (Somma + Kegel),
@@ -45,9 +50,10 @@ häufigsten Genre-Fehler; unsere Präzision hier IST die Marke.
 
 ## 2. Charakter-Tokens (Konsistenz über Referenzbild)
 
-- `CHAR_CELER`: "Roman slave baker, late 20s, sturdy build, short dark hair,
-  simple grey work tunic, flour dust on forearms, bronze bread stamp in hand,
-  calm focused expression"
+- `CHAR_CELER`: "Roman household slave, late 20s, sturdy build, short dark
+  hair, simple grey work tunic, flour dust on forearms, bronze bread stamp in
+  hand, calm focused expression" (NICHT als Bäcker framen — ob Celer selbst
+  buk oder nur die Haushaltsbrote markierte, ist quellenmäßig offen)
 - `CHAR_PLINY_YOUNG`: "Roman youth, 17, slim, white tunic with narrow purple
   stripe, wax tablet and stylus, alert intelligent eyes"
 - `CHAR_PLINY_ELDER`: "Roman fleet commander and scholar, mid 50s, heavyset,
