@@ -21,5 +21,26 @@
     "Symbole präzise positiv beschreiben (Georgskreuz vs. Tatzenkreuz, Reiher- vs. Pfauenfeder) — Modelle greifen sonst zum ikonischeren Klischee",
     "Elmsfeuer als 'corona/glowing sheen hugging the roof, NOT lightning bolts' prompten"
   ],
-  "naechster_schritt": "QC-GATE 1: User-Freigabe Gesichter + Look -> dann Stills-Batches (Schritt 3) mit Porträts als Image-Referenzen; parallel ElevenLabs Creator + Stimmen-Bake-off (Schritt 2)"
+  "qc_gate_1": "FREIGEGEBEN durch User 2026-07-10 ('freigegeben weiter machen'); Look-Korrektur auf User-Feedback: Elmsfeuer blau-weiß statt grüner Blitze",
+  "akt1_stills": {
+    "status": "KOMPLETT (22 Shots: 20 generiert + 2 Wiederverwendungen), alle Vision-QC bestanden",
+    "wiederverwendung": {"s05": "MASTER_PANORAMA 362ca2b0", "s13": "STYLE_GLORY 79909c86"},
+    "shots": {
+      "s02": "e23e536c-e319-4353-a5b0-34b3e604de4e", "s03": "f235e141-1add-4930-8a66-f38f6cf50512 (Assembly-Notiz: moderne Logos leicht unscharf ziehen)",
+      "s06": "6b8ab9f1-16d8-4408-b1ec-c483fdc34c81", "s07": "5be46951-3ac6-4b27-bff4-a2c0117d5e95 (HERO)",
+      "s08": "c36ac61e-713e-4558-8d8a-4a14ddb44b80 (4k STAT)", "s10": "f8b37459-ed99-44fa-ab26-0f5f1ba2c7ad",
+      "s11": "532fa3fc-b1c4-4901-a347-556128c958ee", "s12": "752171c2-8b4a-4378-a648-b641a0965b5f (HERO)",
+      "s14": "79d84463-decb-4739-94d1-4aec4fc41417 (HERO)", "s15": "10754a30-236b-4144-ac88-078b9bd4df20 (HERO, Mehmed-Referenz, Gesichts-Konsistenz bestätigt)",
+      "s17": "97468e95-3a08-4378-a4a8-7760f224c4de (HERO, v3! v1 nsfw-Fehlfilter, v2 hatte vom Modell eingeschmuggelte TOMATEN — 999-Karten-Shot muss fehlerfrei sein)",
+      "s18": "31dbaa99-5e5d-4809-bd38-ccf4f4c6cda2 (Barbaro-Referenz)", "s19": "bf8f7d37-c0f7-41f7-8b4f-69c3257b1f3d (Notiz: Pseudo-Schrift, kurze Standzeit ok)",
+      "s20": "c84e81b9-9d0d-44b7-9269-9d0ff4f08963 (v2 — v1 Minarett)", "s21": "ed167775-e4f1-421d-bd41-8518318d9468",
+      "s22": "0c9892ec-6dd0-476a-a997-04ecabebbc75", "s23": "8db3fdb6-7b17-4f73-ad31-2720ae3c1054 (v2 — v1 zwei Minarette)",
+      "s25": "211b5d17-7a83-4bff-99e1-1d4b3aa2e102", "s26": "1b0acc64-3382-4a35-b47a-4bd73b3908ac",
+      "s28": "921620e8-4913-4097-aa4c-8878c0b9a2f7", "s29": "c936c4c9-e467-4455-ab79-d2c62e053c15",
+      "s30": "da9e4366-b02d-4a42-ade3-67b88ed95913 (v2+Edit-Pass: fernes Minarett entfernt; Basis 377e68f0; Assembly-Notiz: Ken-Burns-Start rechts, Rad-Karren links meiden)"
+    },
+    "ausschuss_lessons": "5 Kills im Akt-1-QC: 3x Minarett-Drift (s20,s23,s30 — gehärtete Positiv-Skyline-Formel wirkt zuverlässig), 1x eingeschmuggelte Tomaten (s17 — Markt-Prompts brauchen 'NO red round fruits'-Klausel + explizite Alternativ-Früchte), 1x nsfw-Fehlfilter ('children' in Marktprompts vermeiden)"
+  },
+  "graphics_assembly": "s09 (Reichs-Karte), Teil von s24-27 (Mauer-Schema), s64, s108, s110 = Karten/Templates im Assembly, keine Generierung",
+  "naechster_schritt": "Akt-2-Stills (Shots 32-64), dann Akt 3+4; danach QC-GATE 3 (Kontaktbogen alle ~98) -> Clips (Schritt 4); parallel: User schließt ElevenLabs Creator ab -> Stimmen-Bake-off"
 }
